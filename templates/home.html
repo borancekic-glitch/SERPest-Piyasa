@@ -3,15 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SignalForge Markets</title>
+  <title>SERPest Piyasa</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='site.css') }}" />
 </head>
 <body>
   <header class="site-header">
     <div class="container nav">
-      <a href="/" class="brand">SignalForge Markets</a>
+      <a href="/" class="brand">SERPest <span>Piyasa</span></a>
       <nav class="nav-links">
-        <a href="/">Ana Sayfa</a>
+        <a href="/" class="active-link">Ana Sayfa</a>
         <a href="/stocks">Hisseler</a>
       </nav>
     </div>
@@ -22,10 +22,10 @@
       <div class="container hero-grid">
         <div>
           <p class="eyebrow">AI destekli research platform</p>
-          <h1>Makro analizi koruyoruz, ürünü gerçek bir hisse sitesine çeviriyoruz.</h1>
+          <h1>SERPest Piyasa</h1>
           <p class="hero-text">
-            Haftalık AI tavsiyeleri, hisse kütüphanesi ve tek tıkla piyasa verisi.
-            Sonraki aşamada özel AI analiz kısmını üyelikle açacağız.
+            Makro gelişmeleri analiz eden ve Amerikan borsasında fırsatları
+            tespit eden AI destekli araştırma platformu.
           </p>
           <div class="hero-actions">
             <a class="btn btn-primary" href="/stocks">Hisseleri İncele</a>
@@ -60,7 +60,7 @@
         <div class="section-head">
           <div>
             <p class="eyebrow">Stock library</p>
-            <h2>Takip edilen hisseler</h2>
+            <h2>Amerikan Hisse Kütüphanesi</h2>
           </div>
           <a class="text-link" href="/stocks">Tümünü Gör</a>
         </div>
@@ -69,6 +69,61 @@
       </div>
     </section>
   </main>
+
+  <div id="riskOverlay" class="risk-overlay">
+    <div class="risk-modal">
+      <button id="riskCloseBtn" class="risk-close" type="button">×</button>
+
+      <h1 class="risk-title">
+        <span class="risk-highlight">Önemli Risk Uyarısı</span>
+      </h1>
+
+      <p class="risk-subtitle">
+        SERPest Piyasa üzerinde yer alan tüm içerikler, analizler, sinyaller,
+        AI yorumları, grafikler ve hisse değerlendirmeleri yalnızca genel
+        bilgilendirme ve araştırma amacı taşır. Bu platformdaki hiçbir içerik
+        yatırım tavsiyesi, al-sat önerisi, portföy yönetimi hizmeti veya kesin
+        kazanç vaadi niteliğinde değildir.
+      </p>
+
+      <div class="risk-box">
+        <h3>Bilmen gerekenler</h3>
+        <ul>
+          <li>Finansal piyasalarda işlem yapmak yüksek risk içerir.</li>
+          <li>Hisse senetleri değer kaybedebilir ve ciddi zarar oluşabilir.</li>
+          <li>AI tarafından üretilen analizler hatalı, eksik veya gecikmeli olabilir.</li>
+          <li>Makro gelişmeler ve haber akışı beklenmedik şekilde değişebilir.</li>
+          <li>Buradaki verilere dayanarak verilen tüm kararlar tamamen kullanıcının kendi sorumluluğundadır.</li>
+        </ul>
+      </div>
+
+      <div class="risk-box">
+        <h3>Sorumluluk Beyanı</h3>
+        <ul>
+          <li>SERPest Piyasa herhangi bir yatırım kararından doğacak doğrudan veya dolaylı zarardan sorumlu değildir.</li>
+          <li>Platform sahibi, geliştiriciler ve içerik sağlayıcılar kullanıcı işlemlerinden sorumlu tutulamaz.</li>
+          <li>Kullanıcı, siteyi kullanarak tüm finansal kararları kendi iradesiyle verdiğini kabul eder.</li>
+        </ul>
+      </div>
+
+      <div class="risk-note">
+        Bu uyarıyı kapatarak platformu kendi sorumluluğun altında kullandığını kabul etmiş olursun.
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      const overlay = document.getElementById("riskOverlay");
+      const closeBtn = document.getElementById("riskCloseBtn");
+
+      if (!overlay || !closeBtn) return;
+
+      closeBtn.addEventListener("click", function () {
+        overlay.classList.add("risk-hidden");
+      });
+    })();
+  </script>
 
   <script src="{{ url_for('static', filename='home.js') }}"></script>
 </body>

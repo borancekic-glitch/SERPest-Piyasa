@@ -35,11 +35,214 @@
     "description": "Semiconductor and infrastructure software company."
   },
   {
-    "symbol": "AMZN",
-    "name": "Amazon",
-    "sector": "Consumer & Cloud",
+    "symbol": "QCOM",
+    "name": "Qualcomm",
+    "sector": "Semiconductors",
+    "theme": "Mobile & Edge Chips",
+    "description": "Wireless, edge AI and communication chip company."
+  },
+  {
+    "symbol": "MU",
+    "name": "Micron",
+    "sector": "Semiconductors",
+    "theme": "Memory",
+    "description": "Memory and storage chip producer."
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel",
+    "sector": "Semiconductors",
+    "theme": "CPU & Foundry",
+    "description": "Processor and chip manufacturing company."
+  },
+  {
+    "symbol": "MRVL",
+    "name": "Marvell Technology",
+    "sector": "Semiconductors",
+    "theme": "Data Center Chips",
+    "description": "Networking, data center and infrastructure semiconductors."
+  },
+  {
+    "symbol": "AMAT",
+    "name": "Applied Materials",
+    "sector": "Semiconductors",
+    "theme": "Chip Equipment",
+    "description": "Semiconductor manufacturing equipment provider."
+  },
+  {
+    "symbol": "LRCX",
+    "name": "Lam Research",
+    "sector": "Semiconductors",
+    "theme": "Chip Equipment",
+    "description": "Wafer fabrication equipment company."
+  },
+  {
+    "symbol": "KLAC",
+    "name": "KLA",
+    "sector": "Semiconductors",
+    "theme": "Chip Inspection",
+    "description": "Semiconductor process control and yield management."
+  },
+  {
+    "symbol": "TXN",
+    "name": "Texas Instruments",
+    "sector": "Semiconductors",
+    "theme": "Analog Chips",
+    "description": "Analog and embedded semiconductor producer."
+  },
+  {
+    "symbol": "ADI",
+    "name": "Analog Devices",
+    "sector": "Semiconductors",
+    "theme": "Analog Chips",
+    "description": "Analog, mixed signal and DSP semiconductor company."
+  },
+  {
+    "symbol": "ON",
+    "name": "ON Semiconductor",
+    "sector": "Semiconductors",
+    "theme": "Power Chips",
+    "description": "Power and automotive semiconductor company."
+  },
+  {
+    "symbol": "ARM",
+    "name": "Arm Holdings",
+    "sector": "Semiconductors",
+    "theme": "Chip Design IP",
+    "description": "Processor architecture and semiconductor IP licensing."
+  },
+  {
+    "symbol": "TSM",
+    "name": "Taiwan Semiconductor ADR",
+    "sector": "Semiconductors",
+    "theme": "Foundry",
+    "description": "Leading global semiconductor foundry traded in the U.S."
+  },
+  {
+    "symbol": "ASML",
+    "name": "ASML ADR",
+    "sector": "Semiconductors",
+    "theme": "Lithography",
+    "description": "Critical lithography equipment supplier traded in the U.S."
+  },
+  {
+    "symbol": "ORCL",
+    "name": "Oracle",
+    "sector": "Technology",
+    "theme": "Cloud Infrastructure",
+    "description": "Enterprise software, databases and cloud infrastructure."
+  },
+  {
+    "symbol": "CRM",
+    "name": "Salesforce",
+    "sector": "Technology",
+    "theme": "Enterprise Software",
+    "description": "Customer relationship and enterprise software platform."
+  },
+  {
+    "symbol": "ADBE",
+    "name": "Adobe",
+    "sector": "Technology",
+    "theme": "Creative Software",
+    "description": "Creative, document and enterprise digital media software."
+  },
+  {
+    "symbol": "NOW",
+    "name": "ServiceNow",
+    "sector": "Technology",
+    "theme": "Workflow Software",
+    "description": "Enterprise workflow automation and platform software."
+  },
+  {
+    "symbol": "SNOW",
+    "name": "Snowflake",
+    "sector": "Technology",
+    "theme": "Data Cloud",
+    "description": "Cloud-native data warehousing and analytics platform."
+  },
+  {
+    "symbol": "MDB",
+    "name": "MongoDB",
+    "sector": "Technology",
+    "theme": "Database",
+    "description": "Developer-focused database software platform."
+  },
+  {
+    "symbol": "DDOG",
+    "name": "Datadog",
+    "sector": "Technology",
+    "theme": "Monitoring",
+    "description": "Cloud monitoring, observability and security platform."
+  },
+  {
+    "symbol": "PLTR",
+    "name": "Palantir",
+    "sector": "Technology",
+    "theme": "Data & AI",
+    "description": "Data analytics and AI software for enterprises and government."
+  },
+  {
+    "symbol": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "Cybersecurity",
+    "theme": "Security Software",
+    "description": "Endpoint security and threat intelligence platform."
+  },
+  {
+    "symbol": "PANW",
+    "name": "Palo Alto Networks",
+    "sector": "Cybersecurity",
+    "theme": "Security Platform",
+    "description": "Network, cloud and enterprise cybersecurity platform."
+  },
+  {
+    "symbol": "FTNT",
+    "name": "Fortinet",
+    "sector": "Cybersecurity",
+    "theme": "Security Infrastructure",
+    "description": "Cybersecurity appliances and integrated security platform."
+  },
+  {
+    "symbol": "ZS",
+    "name": "Zscaler",
+    "sector": "Cybersecurity",
+    "theme": "Zero Trust",
+    "description": "Cloud security and zero trust access provider."
+  },
+  {
+    "symbol": "OKTA",
+    "name": "Okta",
+    "sector": "Cybersecurity",
+    "theme": "Identity",
+    "description": "Identity and access management platform."
+  },
+  {
+    "symbol": "S",
+    "name": "SentinelOne",
+    "sector": "Cybersecurity",
+    "theme": "Endpoint Security",
+    "description": "AI-powered endpoint security platform."
+  },
+  {
+    "symbol": "NET",
+    "name": "Cloudflare",
+    "sector": "Technology",
+    "theme": "Edge Cloud",
+    "description": "Web infrastructure, CDN and security platform."
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple",
+    "sector": "Technology",
+    "theme": "Consumer Electronics",
+    "description": "Consumer technology and ecosystem leader."
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft",
+    "sector": "Technology",
     "theme": "Cloud Platform",
-    "description": "E-commerce and AWS cloud platform."
+    "description": "Cloud, enterprise software and AI infrastructure."
   },
   {
     "symbol": "GOOGL",
@@ -50,17 +253,276 @@
   },
   {
     "symbol": "META",
-    "name": "Meta",
+    "name": "Meta Platforms",
     "sector": "Technology",
     "theme": "Digital Platforms",
     "description": "Social platforms and AI-driven ad ecosystem."
   },
   {
-    "symbol": "TSLA",
-    "name": "Tesla",
-    "sector": "Automotive",
-    "theme": "EV & Autonomy",
-    "description": "Electric vehicles, energy storage and autonomy."
+    "symbol": "AMZN",
+    "name": "Amazon",
+    "sector": "Consumer & Cloud",
+    "theme": "Cloud Platform",
+    "description": "E-commerce and AWS cloud platform."
+  },
+  {
+    "symbol": "NFLX",
+    "name": "Netflix",
+    "sector": "Media",
+    "theme": "Streaming",
+    "description": "Global subscription video streaming platform."
+  },
+  {
+    "symbol": "DIS",
+    "name": "Disney",
+    "sector": "Media",
+    "theme": "Streaming & Parks",
+    "description": "Media, streaming and theme park company."
+  },
+  {
+    "symbol": "WBD",
+    "name": "Warner Bros. Discovery",
+    "sector": "Media",
+    "theme": "Entertainment",
+    "description": "Media, studios and streaming company."
+  },
+  {
+    "symbol": "ROKU",
+    "name": "Roku",
+    "sector": "Media",
+    "theme": "Connected TV",
+    "description": "Streaming operating system and ad platform."
+  },
+  {
+    "symbol": "SPOT",
+    "name": "Spotify",
+    "sector": "Media",
+    "theme": "Audio Streaming",
+    "description": "Global music and podcast streaming platform."
+  },
+  {
+    "symbol": "UBER",
+    "name": "Uber",
+    "sector": "Transport",
+    "theme": "Mobility",
+    "description": "Ride sharing, mobility and delivery platform."
+  },
+  {
+    "symbol": "LYFT",
+    "name": "Lyft",
+    "sector": "Transport",
+    "theme": "Mobility",
+    "description": "Ride-hailing and mobility company."
+  },
+  {
+    "symbol": "ABNB",
+    "name": "Airbnb",
+    "sector": "Travel",
+    "theme": "Travel Platform",
+    "description": "Online marketplace for travel stays and experiences."
+  },
+  {
+    "symbol": "BKNG",
+    "name": "Booking Holdings",
+    "sector": "Travel",
+    "theme": "Online Travel",
+    "description": "Global online travel booking company."
+  },
+  {
+    "symbol": "EXPE",
+    "name": "Expedia",
+    "sector": "Travel",
+    "theme": "Online Travel",
+    "description": "Online travel agency and booking platform."
+  },
+  {
+    "symbol": "DASH",
+    "name": "DoorDash",
+    "sector": "Consumer",
+    "theme": "Delivery",
+    "description": "Food delivery and local commerce platform."
+  },
+  {
+    "symbol": "SHOP",
+    "name": "Shopify",
+    "sector": "Technology",
+    "theme": "E-Commerce Platform",
+    "description": "Merchant commerce software platform traded in the U.S."
+  },
+  {
+    "symbol": "PYPL",
+    "name": "PayPal",
+    "sector": "Fintech",
+    "theme": "Payments",
+    "description": "Digital payments and financial technology platform."
+  },
+  {
+    "symbol": "SQ",
+    "name": "Block",
+    "sector": "Fintech",
+    "theme": "Payments",
+    "description": "Payments, commerce and financial services platform."
+  },
+  {
+    "symbol": "COIN",
+    "name": "Coinbase",
+    "sector": "Fintech",
+    "theme": "Crypto Platform",
+    "description": "Cryptocurrency exchange and digital asset platform."
+  },
+  {
+    "symbol": "HOOD",
+    "name": "Robinhood",
+    "sector": "Fintech",
+    "theme": "Retail Brokerage",
+    "description": "Retail investing and brokerage platform."
+  },
+  {
+    "symbol": "V",
+    "name": "Visa",
+    "sector": "Financials",
+    "theme": "Payments Network",
+    "description": "Global digital payments network."
+  },
+  {
+    "symbol": "MA",
+    "name": "Mastercard",
+    "sector": "Financials",
+    "theme": "Payments Network",
+    "description": "Global card and transaction network."
+  },
+  {
+    "symbol": "AXP",
+    "name": "American Express",
+    "sector": "Financials",
+    "theme": "Credit Network",
+    "description": "Payments, cards and premium lending platform."
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase",
+    "sector": "Financials",
+    "theme": "Banking",
+    "description": "Diversified U.S. banking and financial services leader."
+  },
+  {
+    "symbol": "BAC",
+    "name": "Bank of America",
+    "sector": "Financials",
+    "theme": "Banking",
+    "description": "Large diversified U.S. commercial bank."
+  },
+  {
+    "symbol": "WFC",
+    "name": "Wells Fargo",
+    "sector": "Financials",
+    "theme": "Banking",
+    "description": "Major U.S. consumer and commercial bank."
+  },
+  {
+    "symbol": "C",
+    "name": "Citigroup",
+    "sector": "Financials",
+    "theme": "Global Banking",
+    "description": "Global diversified bank."
+  },
+  {
+    "symbol": "GS",
+    "name": "Goldman Sachs",
+    "sector": "Financials",
+    "theme": "Investment Banking",
+    "description": "Investment banking and capital markets firm."
+  },
+  {
+    "symbol": "MS",
+    "name": "Morgan Stanley",
+    "sector": "Financials",
+    "theme": "Wealth Management",
+    "description": "Investment banking and wealth management company."
+  },
+  {
+    "symbol": "BLK",
+    "name": "BlackRock",
+    "sector": "Financials",
+    "theme": "Asset Management",
+    "description": "Global asset manager and ETF provider."
+  },
+  {
+    "symbol": "SCHW",
+    "name": "Charles Schwab",
+    "sector": "Financials",
+    "theme": "Brokerage",
+    "description": "Brokerage, wealth management and financial services."
+  },
+  {
+    "symbol": "ICE",
+    "name": "Intercontinental Exchange",
+    "sector": "Financials",
+    "theme": "Exchange Infrastructure",
+    "description": "Exchange operator and financial market infrastructure company."
+  },
+  {
+    "symbol": "CME",
+    "name": "CME Group",
+    "sector": "Financials",
+    "theme": "Derivatives Exchange",
+    "description": "Futures and derivatives exchange operator."
+  },
+  {
+    "symbol": "SPGI",
+    "name": "S&P Global",
+    "sector": "Financials",
+    "theme": "Financial Data",
+    "description": "Financial data, ratings and analytics company."
+  },
+  {
+    "symbol": "MCO",
+    "name": "Moody's",
+    "sector": "Financials",
+    "theme": "Ratings",
+    "description": "Credit ratings and financial analytics company."
+  },
+  {
+    "symbol": "CB",
+    "name": "Chubb",
+    "sector": "Insurance",
+    "theme": "Property & Casualty",
+    "description": "Property and casualty insurance company."
+  },
+  {
+    "symbol": "ALL",
+    "name": "Allstate",
+    "sector": "Insurance",
+    "theme": "Insurance",
+    "description": "Personal lines insurance provider."
+  },
+  {
+    "symbol": "TRV",
+    "name": "Travelers",
+    "sector": "Insurance",
+    "theme": "Insurance",
+    "description": "Property casualty insurance company."
+  },
+  {
+    "symbol": "PGR",
+    "name": "Progressive",
+    "sector": "Insurance",
+    "theme": "Auto Insurance",
+    "description": "Personal and commercial auto insurer."
+  },
+  {
+    "symbol": "AIG",
+    "name": "AIG",
+    "sector": "Insurance",
+    "theme": "Global Insurance",
+    "description": "Global commercial and specialty insurance provider."
+  },
+  {
+    "symbol": "BRK.B",
+    "name": "Berkshire Hathaway B",
+    "sector": "Financials",
+    "theme": "Conglomerate",
+    "description": "Diversified holding company with insurance and industrial exposure."
   },
   {
     "symbol": "XOM",
@@ -91,53 +553,60 @@
     "description": "Oilfield equipment and services."
   },
   {
-    "symbol": "LMT",
-    "name": "Lockheed Martin",
-    "sector": "Defense",
-    "theme": "Aerospace & Defense",
-    "description": "Defense systems and military aerospace."
+    "symbol": "HAL",
+    "name": "Halliburton",
+    "sector": "Energy Services",
+    "theme": "Oilfield Services",
+    "description": "Oilfield services and drilling technology company."
   },
   {
-    "symbol": "RTX",
-    "name": "RTX",
-    "sector": "Defense",
-    "theme": "Aerospace & Defense",
-    "description": "Defense, missiles and aerospace systems."
+    "symbol": "OXY",
+    "name": "Occidental Petroleum",
+    "sector": "Energy",
+    "theme": "Oil & Gas",
+    "description": "Oil and gas producer with chemical operations."
   },
   {
-    "symbol": "NOC",
-    "name": "Northrop Grumman",
-    "sector": "Defense",
-    "theme": "Defense Systems",
-    "description": "Defense technology and aerospace systems."
+    "symbol": "EOG",
+    "name": "EOG Resources",
+    "sector": "Energy",
+    "theme": "Shale Oil",
+    "description": "Large independent oil and gas producer."
   },
   {
-    "symbol": "CRWD",
-    "name": "CrowdStrike",
-    "sector": "Cybersecurity",
-    "theme": "Security Software",
-    "description": "Endpoint security and threat intelligence."
+    "symbol": "PXD",
+    "name": "Pioneer Natural Resources",
+    "sector": "Energy",
+    "theme": "Shale Oil",
+    "description": "Permian-focused oil and gas producer."
   },
   {
-    "symbol": "PANW",
-    "name": "Palo Alto Networks",
-    "sector": "Cybersecurity",
-    "theme": "Security Software",
-    "description": "Network and cloud security platform."
+    "symbol": "DVN",
+    "name": "Devon Energy",
+    "sector": "Energy",
+    "theme": "Oil & Gas",
+    "description": "Independent U.S. oil and natural gas producer."
   },
   {
-    "symbol": "FTNT",
-    "name": "Fortinet",
-    "sector": "Cybersecurity",
-    "theme": "Security Infrastructure",
-    "description": "Cybersecurity appliances and platform."
+    "symbol": "MPC",
+    "name": "Marathon Petroleum",
+    "sector": "Energy",
+    "theme": "Refining",
+    "description": "Refining, marketing and midstream energy company."
   },
   {
-    "symbol": "ZS",
-    "name": "Zscaler",
-    "sector": "Cybersecurity",
-    "theme": "Zero Trust",
-    "description": "Cloud security and zero-trust platform."
+    "symbol": "VLO",
+    "name": "Valero",
+    "sector": "Energy",
+    "theme": "Refining",
+    "description": "Independent petroleum refining company."
+  },
+  {
+    "symbol": "PSX",
+    "name": "Phillips 66",
+    "sector": "Energy",
+    "theme": "Refining & Midstream",
+    "description": "Refining, midstream and chemicals company."
   },
   {
     "symbol": "LNG",
@@ -154,17 +623,1466 @@
     "description": "Large U.S. natural gas producer."
   },
   {
-    "symbol": "ODFL",
-    "name": "Old Dominion Freight Line",
+    "symbol": "AR",
+    "name": "Antero Resources",
+    "sector": "Natural Gas",
+    "theme": "Natural Gas",
+    "description": "U.S. natural gas and NGL producer."
+  },
+  {
+    "symbol": "RRC",
+    "name": "Range Resources",
+    "sector": "Natural Gas",
+    "theme": "Natural Gas",
+    "description": "Appalachian natural gas producer."
+  },
+  {
+    "symbol": "CTRA",
+    "name": "Coterra Energy",
+    "sector": "Energy",
+    "theme": "Natural Gas & Oil",
+    "description": "U.S. oil and natural gas producer."
+  },
+  {
+    "symbol": "KMI",
+    "name": "Kinder Morgan",
+    "sector": "Energy Infrastructure",
+    "theme": "Pipelines",
+    "description": "Large North American energy infrastructure company."
+  },
+  {
+    "symbol": "WMB",
+    "name": "Williams",
+    "sector": "Energy Infrastructure",
+    "theme": "Natural Gas Pipelines",
+    "description": "Natural gas transportation and infrastructure company."
+  },
+  {
+    "symbol": "ENB",
+    "name": "Enbridge",
+    "sector": "Energy Infrastructure",
+    "theme": "Pipelines",
+    "description": "North American pipeline and utility company traded in the U.S."
+  },
+  {
+    "symbol": "FRO",
+    "name": "Frontline",
+    "sector": "Shipping",
+    "theme": "Oil Tankers",
+    "description": "Crude oil tanker shipping operator."
+  },
+  {
+    "symbol": "TNK",
+    "name": "Teekay Tankers",
+    "sector": "Shipping",
+    "theme": "Oil Tankers",
+    "description": "Marine energy transportation company."
+  },
+  {
+    "symbol": "DHT",
+    "name": "DHT Holdings",
+    "sector": "Shipping",
+    "theme": "Oil Tankers",
+    "description": "Crude tanker shipping company."
+  },
+  {
+    "symbol": "INSW",
+    "name": "International Seaways",
+    "sector": "Shipping",
+    "theme": "Tankers",
+    "description": "Global tanker shipping operator."
+  },
+  {
+    "symbol": "ZIM",
+    "name": "ZIM Integrated Shipping",
+    "sector": "Shipping",
+    "theme": "Container Shipping",
+    "description": "Container shipping and logistics company."
+  },
+  {
+    "symbol": "MATX",
+    "name": "Matson",
+    "sector": "Shipping",
+    "theme": "Container Shipping",
+    "description": "Ocean transportation and logistics provider."
+  },
+  {
+    "symbol": "DAC",
+    "name": "Danaos",
+    "sector": "Shipping",
+    "theme": "Ship Leasing",
+    "description": "Container vessel owner and charter company."
+  },
+  {
+    "symbol": "KEX",
+    "name": "Kirby",
+    "sector": "Marine",
+    "theme": "Ports & Marine",
+    "description": "Marine transportation and distribution services."
+  },
+  {
+    "symbol": "FDX",
+    "name": "FedEx",
     "sector": "Logistics",
-    "theme": "Freight",
-    "description": "LTL freight transportation company."
+    "theme": "Parcel & Freight",
+    "description": "Global express transportation and logistics company."
   },
   {
     "symbol": "UPS",
     "name": "UPS",
     "sector": "Logistics",
-    "theme": "Logistics",
+    "theme": "Parcel Delivery",
     "description": "Global parcel delivery and logistics."
+  },
+  {
+    "symbol": "EXPD",
+    "name": "Expeditors",
+    "sector": "Logistics",
+    "theme": "Freight Forwarding",
+    "description": "Global logistics and freight forwarding company."
+  },
+  {
+    "symbol": "CHRW",
+    "name": "C.H. Robinson",
+    "sector": "Logistics",
+    "theme": "Freight Brokerage",
+    "description": "Freight brokerage and transportation services."
+  },
+  {
+    "symbol": "HUBG",
+    "name": "Hub Group",
+    "sector": "Logistics",
+    "theme": "Intermodal",
+    "description": "Intermodal transportation and logistics company."
+  },
+  {
+    "symbol": "ODFL",
+    "name": "Old Dominion Freight Line",
+    "sector": "Freight",
+    "theme": "LTL Freight",
+    "description": "LTL freight transportation company."
+  },
+  {
+    "symbol": "SAIA",
+    "name": "Saia",
+    "sector": "Freight",
+    "theme": "LTL Freight",
+    "description": "Regional and national LTL carrier."
+  },
+  {
+    "symbol": "XPO",
+    "name": "XPO",
+    "sector": "Freight",
+    "theme": "Transportation",
+    "description": "Freight transportation and logistics provider."
+  },
+  {
+    "symbol": "ARCB",
+    "name": "ArcBest",
+    "sector": "Freight",
+    "theme": "LTL & Logistics",
+    "description": "Freight transportation and logistics company."
+  },
+  {
+    "symbol": "UNP",
+    "name": "Union Pacific",
+    "sector": "Railroads",
+    "theme": "Rail Transport",
+    "description": "Major North American freight railroad."
+  },
+  {
+    "symbol": "CSX",
+    "name": "CSX",
+    "sector": "Railroads",
+    "theme": "Rail Transport",
+    "description": "Eastern U.S. freight railroad."
+  },
+  {
+    "symbol": "NSC",
+    "name": "Norfolk Southern",
+    "sector": "Railroads",
+    "theme": "Rail Transport",
+    "description": "Freight rail transportation company."
+  },
+  {
+    "symbol": "CAT",
+    "name": "Caterpillar",
+    "sector": "Industrial",
+    "theme": "Machinery",
+    "description": "Construction, mining and industrial equipment maker."
+  },
+  {
+    "symbol": "DE",
+    "name": "Deere",
+    "sector": "Industrial",
+    "theme": "Agriculture & Machinery",
+    "description": "Agriculture, turf and construction equipment maker."
+  },
+  {
+    "symbol": "ETN",
+    "name": "Eaton",
+    "sector": "Industrial",
+    "theme": "Power Management",
+    "description": "Electrical and power management systems company."
+  },
+  {
+    "symbol": "PH",
+    "name": "Parker-Hannifin",
+    "sector": "Industrial",
+    "theme": "Motion Systems",
+    "description": "Motion, control and industrial components provider."
+  },
+  {
+    "symbol": "EMR",
+    "name": "Emerson",
+    "sector": "Industrial",
+    "theme": "Automation",
+    "description": "Industrial automation and control systems company."
+  },
+  {
+    "symbol": "TT",
+    "name": "Trane Technologies",
+    "sector": "Industrial",
+    "theme": "Climate Systems",
+    "description": "Climate and HVAC systems company."
+  },
+  {
+    "symbol": "JCI",
+    "name": "Johnson Controls",
+    "sector": "Industrial",
+    "theme": "Building Systems",
+    "description": "Smart building systems and HVAC solutions company."
+  },
+  {
+    "symbol": "HON",
+    "name": "Honeywell",
+    "sector": "Industrial",
+    "theme": "Aerospace & Automation",
+    "description": "Diversified industrial and aerospace systems company."
+  },
+  {
+    "symbol": "GE",
+    "name": "GE Aerospace",
+    "sector": "Industrial",
+    "theme": "Aerospace",
+    "description": "Aircraft engine and aerospace technology company."
+  },
+  {
+    "symbol": "GEV",
+    "name": "GE Vernova",
+    "sector": "Industrial",
+    "theme": "Power Systems",
+    "description": "Power generation and grid infrastructure company."
+  },
+  {
+    "symbol": "VRT",
+    "name": "Vertiv",
+    "sector": "Industrial",
+    "theme": "Data Center Power",
+    "description": "Critical power and cooling infrastructure for data centers."
+  },
+  {
+    "symbol": "ANET",
+    "name": "Arista Networks",
+    "sector": "Networking",
+    "theme": "Data Center Networking",
+    "description": "Cloud networking equipment provider."
+  },
+  {
+    "symbol": "CSCO",
+    "name": "Cisco",
+    "sector": "Networking",
+    "theme": "Enterprise Networking",
+    "description": "Networking, infrastructure and security provider."
+  },
+  {
+    "symbol": "DELL",
+    "name": "Dell Technologies",
+    "sector": "Technology",
+    "theme": "Servers & Infrastructure",
+    "description": "IT infrastructure, servers and enterprise hardware company."
+  },
+  {
+    "symbol": "SMCI",
+    "name": "Super Micro Computer",
+    "sector": "Technology",
+    "theme": "AI Servers",
+    "description": "High performance server and storage systems company."
+  },
+  {
+    "symbol": "IBM",
+    "name": "IBM",
+    "sector": "Technology",
+    "theme": "Enterprise AI",
+    "description": "Enterprise software, consulting and AI systems company."
+  },
+  {
+    "symbol": "HPQ",
+    "name": "HP",
+    "sector": "Technology",
+    "theme": "PC & Printing",
+    "description": "PC, printing and enterprise devices company."
+  },
+  {
+    "symbol": "SONY",
+    "name": "Sony ADR",
+    "sector": "Consumer Electronics",
+    "theme": "Gaming & Media",
+    "description": "Electronics, gaming and entertainment company traded in the U.S."
+  },
+  {
+    "symbol": "EA",
+    "name": "Electronic Arts",
+    "sector": "Gaming",
+    "theme": "Video Games",
+    "description": "Video game publisher and live services company."
+  },
+  {
+    "symbol": "TTWO",
+    "name": "Take-Two Interactive",
+    "sector": "Gaming",
+    "theme": "Video Games",
+    "description": "Video game publishing and digital entertainment company."
+  },
+  {
+    "symbol": "RBLX",
+    "name": "Roblox",
+    "sector": "Gaming",
+    "theme": "User Platforms",
+    "description": "Interactive gaming and virtual platform company."
+  },
+  {
+    "symbol": "U",
+    "name": "Unity Software",
+    "sector": "Technology",
+    "theme": "Gaming Tools",
+    "description": "Real-time 3D development platform."
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla",
+    "sector": "Automotive",
+    "theme": "EV & Autonomy",
+    "description": "Electric vehicles, energy storage and autonomy."
+  },
+  {
+    "symbol": "GM",
+    "name": "General Motors",
+    "sector": "Automotive",
+    "theme": "EV Transition",
+    "description": "Automaker with EV and autonomous exposure."
+  },
+  {
+    "symbol": "F",
+    "name": "Ford",
+    "sector": "Automotive",
+    "theme": "EV Transition",
+    "description": "Automotive manufacturer with EV exposure."
+  },
+  {
+    "symbol": "RIVN",
+    "name": "Rivian",
+    "sector": "Automotive",
+    "theme": "EV",
+    "description": "Electric vehicle maker focused on trucks and vans."
+  },
+  {
+    "symbol": "LCID",
+    "name": "Lucid",
+    "sector": "Automotive",
+    "theme": "EV",
+    "description": "Premium electric vehicle manufacturer."
+  },
+  {
+    "symbol": "NIO",
+    "name": "NIO ADR",
+    "sector": "Automotive",
+    "theme": "EV",
+    "description": "Electric vehicle manufacturer traded in the U.S."
+  },
+  {
+    "symbol": "XPEV",
+    "name": "XPeng ADR",
+    "sector": "Automotive",
+    "theme": "EV",
+    "description": "Smart EV manufacturer traded in the U.S."
+  },
+  {
+    "symbol": "LI",
+    "name": "Li Auto ADR",
+    "sector": "Automotive",
+    "theme": "EV",
+    "description": "Electric vehicle manufacturer traded in the U.S."
+  },
+  {
+    "symbol": "DAL",
+    "name": "Delta Air Lines",
+    "sector": "Airlines",
+    "theme": "Travel",
+    "description": "Major U.S. airline carrier."
+  },
+  {
+    "symbol": "UAL",
+    "name": "United Airlines",
+    "sector": "Airlines",
+    "theme": "Travel",
+    "description": "Major global airline carrier."
+  },
+  {
+    "symbol": "AAL",
+    "name": "American Airlines",
+    "sector": "Airlines",
+    "theme": "Travel",
+    "description": "Large network airline carrier."
+  },
+  {
+    "symbol": "LUV",
+    "name": "Southwest Airlines",
+    "sector": "Airlines",
+    "theme": "Domestic Travel",
+    "description": "Low-cost U.S. airline carrier."
+  },
+  {
+    "symbol": "BA",
+    "name": "Boeing",
+    "sector": "Aerospace",
+    "theme": "Aircraft",
+    "description": "Commercial aircraft and defense aerospace company."
+  },
+  {
+    "symbol": "LMT",
+    "name": "Lockheed Martin",
+    "sector": "Defense",
+    "theme": "Aerospace & Defense",
+    "description": "Defense systems and military aerospace."
+  },
+  {
+    "symbol": "RTX",
+    "name": "RTX",
+    "sector": "Defense",
+    "theme": "Missiles & Aerospace",
+    "description": "Defense, missiles and aerospace systems."
+  },
+  {
+    "symbol": "NOC",
+    "name": "Northrop Grumman",
+    "sector": "Defense",
+    "theme": "Defense Systems",
+    "description": "Defense technology and aerospace systems."
+  },
+  {
+    "symbol": "GD",
+    "name": "General Dynamics",
+    "sector": "Defense",
+    "theme": "Military Systems",
+    "description": "Defense contractor focused on combat and naval systems."
+  },
+  {
+    "symbol": "LDOS",
+    "name": "Leidos",
+    "sector": "Defense",
+    "theme": "Defense IT",
+    "description": "Defense, intelligence and mission support company."
+  },
+  {
+    "symbol": "LHX",
+    "name": "L3Harris",
+    "sector": "Defense",
+    "theme": "Defense Electronics",
+    "description": "Communications, ISR and defense electronics company."
+  },
+  {
+    "symbol": "HII",
+    "name": "Huntington Ingalls",
+    "sector": "Defense",
+    "theme": "Naval Defense",
+    "description": "Naval shipbuilding and military systems contractor."
+  },
+  {
+    "symbol": "KTOS",
+    "name": "Kratos Defense",
+    "sector": "Defense Tech",
+    "theme": "Autonomous Defense",
+    "description": "Defense technology and autonomous systems company."
+  },
+  {
+    "symbol": "AVAV",
+    "name": "AeroVironment",
+    "sector": "Defense Tech",
+    "theme": "Drones",
+    "description": "Unmanned systems and tactical missile company."
+  },
+  {
+    "symbol": "RCAT",
+    "name": "Red Cat",
+    "sector": "Defense Tech",
+    "theme": "Drones",
+    "description": "Drone technology and unmanned systems company."
+  },
+  {
+    "symbol": "BWXT",
+    "name": "BWX Technologies",
+    "sector": "Nuclear",
+    "theme": "Nuclear Systems",
+    "description": "Nuclear components and defense reactor technology."
+  },
+  {
+    "symbol": "CCJ",
+    "name": "Cameco",
+    "sector": "Uranium",
+    "theme": "Uranium",
+    "description": "Large uranium producer traded in the U.S."
+  },
+  {
+    "symbol": "LEU",
+    "name": "Centrus Energy",
+    "sector": "Uranium",
+    "theme": "Nuclear Fuel",
+    "description": "Nuclear fuel and enrichment company."
+  },
+  {
+    "symbol": "UEC",
+    "name": "Uranium Energy",
+    "sector": "Uranium",
+    "theme": "Uranium",
+    "description": "U.S.-focused uranium mining company."
+  },
+  {
+    "symbol": "UUUU",
+    "name": "Energy Fuels",
+    "sector": "Uranium",
+    "theme": "Uranium & Rare Earths",
+    "description": "Uranium and critical minerals producer."
+  },
+  {
+    "symbol": "SMR",
+    "name": "NuScale Power",
+    "sector": "Nuclear",
+    "theme": "SMR",
+    "description": "Small modular reactor technology company."
+  },
+  {
+    "symbol": "OKLO",
+    "name": "Oklo",
+    "sector": "Nuclear",
+    "theme": "Advanced Nuclear",
+    "description": "Advanced reactor and nuclear power company."
+  },
+  {
+    "symbol": "VST",
+    "name": "Vistra",
+    "sector": "Utilities",
+    "theme": "Power Generation",
+    "description": "Electric generation and retail power company."
+  },
+  {
+    "symbol": "CEG",
+    "name": "Constellation Energy",
+    "sector": "Utilities",
+    "theme": "Nuclear Power",
+    "description": "Large nuclear and clean energy generation company."
+  },
+  {
+    "symbol": "NEE",
+    "name": "NextEra Energy",
+    "sector": "Utilities",
+    "theme": "Clean Energy",
+    "description": "Renewables and regulated utility operator."
+  },
+  {
+    "symbol": "DUK",
+    "name": "Duke Energy",
+    "sector": "Utilities",
+    "theme": "Electric Utility",
+    "description": "Large U.S. electric utility."
+  },
+  {
+    "symbol": "SO",
+    "name": "Southern Company",
+    "sector": "Utilities",
+    "theme": "Electric Utility",
+    "description": "Integrated electric utility company."
+  },
+  {
+    "symbol": "AEP",
+    "name": "American Electric Power",
+    "sector": "Utilities",
+    "theme": "Grid Utility",
+    "description": "Electric utility and transmission infrastructure company."
+  },
+  {
+    "symbol": "EXC",
+    "name": "Exelon",
+    "sector": "Utilities",
+    "theme": "Electric Utility",
+    "description": "Transmission and regulated utility company."
+  },
+  {
+    "symbol": "PEG",
+    "name": "Public Service Enterprise Group",
+    "sector": "Utilities",
+    "theme": "Utility",
+    "description": "Electric and gas utility company."
+  },
+  {
+    "symbol": "NRG",
+    "name": "NRG Energy",
+    "sector": "Utilities",
+    "theme": "Power Demand",
+    "description": "Power generation and retail energy company."
+  },
+  {
+    "symbol": "TLN",
+    "name": "Talen Energy",
+    "sector": "Utilities",
+    "theme": "Power Generation",
+    "description": "Independent power generation company."
+  },
+  {
+    "symbol": "FCX",
+    "name": "Freeport-McMoRan",
+    "sector": "Materials",
+    "theme": "Copper",
+    "description": "Copper and gold mining company."
+  },
+  {
+    "symbol": "SCCO",
+    "name": "Southern Copper",
+    "sector": "Materials",
+    "theme": "Copper",
+    "description": "Integrated copper producer traded in the U.S."
+  },
+  {
+    "symbol": "NUE",
+    "name": "Nucor",
+    "sector": "Steel",
+    "theme": "Steel",
+    "description": "Large steel producer."
+  },
+  {
+    "symbol": "STLD",
+    "name": "Steel Dynamics",
+    "sector": "Steel",
+    "theme": "Steel",
+    "description": "Steel production and metals recycling company."
+  },
+  {
+    "symbol": "X",
+    "name": "United States Steel",
+    "sector": "Steel",
+    "theme": "Steel",
+    "description": "Integrated steel producer."
+  },
+  {
+    "symbol": "CLF",
+    "name": "Cleveland-Cliffs",
+    "sector": "Steel",
+    "theme": "Steel & Iron Ore",
+    "description": "Flat-rolled steel and iron ore company."
+  },
+  {
+    "symbol": "MOS",
+    "name": "Mosaic",
+    "sector": "Materials",
+    "theme": "Fertilizer",
+    "description": "Potash and phosphate fertilizer producer."
+  },
+  {
+    "symbol": "NTR",
+    "name": "Nutrien",
+    "sector": "Materials",
+    "theme": "Fertilizer",
+    "description": "Crop inputs and fertilizer company traded in the U.S."
+  },
+  {
+    "symbol": "ADM",
+    "name": "Archer-Daniels-Midland",
+    "sector": "Agriculture",
+    "theme": "Ag Commodities",
+    "description": "Agricultural processing and commodity trading company."
+  },
+  {
+    "symbol": "BG",
+    "name": "Bunge",
+    "sector": "Agriculture",
+    "theme": "Ag Commodities",
+    "description": "Agribusiness and food ingredients company."
+  },
+  {
+    "symbol": "NEM",
+    "name": "Newmont",
+    "sector": "Gold",
+    "theme": "Gold Mining",
+    "description": "Large gold producer."
+  },
+  {
+    "symbol": "AEM",
+    "name": "Agnico Eagle",
+    "sector": "Gold",
+    "theme": "Gold Mining",
+    "description": "Senior gold producer traded in the U.S."
+  },
+  {
+    "symbol": "GOLD",
+    "name": "Barrick Gold",
+    "sector": "Gold",
+    "theme": "Gold Mining",
+    "description": "Large diversified gold miner."
+  },
+  {
+    "symbol": "PAAS",
+    "name": "Pan American Silver",
+    "sector": "Silver",
+    "theme": "Silver Mining",
+    "description": "Silver and gold mining company."
+  },
+  {
+    "symbol": "WPM",
+    "name": "Wheaton Precious Metals",
+    "sector": "Silver",
+    "theme": "Precious Metals Streaming",
+    "description": "Precious metals streaming company."
+  },
+  {
+    "symbol": "HL",
+    "name": "Hecla Mining",
+    "sector": "Silver",
+    "theme": "Silver Mining",
+    "description": "U.S. precious metals producer."
+  },
+  {
+    "symbol": "AG",
+    "name": "First Majestic Silver",
+    "sector": "Silver",
+    "theme": "Silver Mining",
+    "description": "Silver-focused mining company traded in the U.S."
+  },
+  {
+    "symbol": "WMT",
+    "name": "Walmart",
+    "sector": "Consumer",
+    "theme": "Retail",
+    "description": "Large-scale retail and grocery company."
+  },
+  {
+    "symbol": "COST",
+    "name": "Costco",
+    "sector": "Consumer",
+    "theme": "Retail",
+    "description": "Membership warehouse retail chain."
+  },
+  {
+    "symbol": "TGT",
+    "name": "Target",
+    "sector": "Consumer",
+    "theme": "Retail",
+    "description": "General merchandise retail company."
+  },
+  {
+    "symbol": "HD",
+    "name": "Home Depot",
+    "sector": "Consumer",
+    "theme": "Home Improvement",
+    "description": "Home improvement and construction retail chain."
+  },
+  {
+    "symbol": "LOW",
+    "name": "Lowe's",
+    "sector": "Consumer",
+    "theme": "Home Improvement",
+    "description": "Home improvement retail company."
+  },
+  {
+    "symbol": "NKE",
+    "name": "Nike",
+    "sector": "Consumer",
+    "theme": "Apparel",
+    "description": "Athletic footwear and apparel company."
+  },
+  {
+    "symbol": "SBUX",
+    "name": "Starbucks",
+    "sector": "Consumer",
+    "theme": "Restaurants",
+    "description": "Global coffeehouse chain."
+  },
+  {
+    "symbol": "MCD",
+    "name": "McDonald's",
+    "sector": "Consumer",
+    "theme": "Restaurants",
+    "description": "Global quick-service restaurant chain."
+  },
+  {
+    "symbol": "CMG",
+    "name": "Chipotle",
+    "sector": "Consumer",
+    "theme": "Restaurants",
+    "description": "Fast casual restaurant company."
+  },
+  {
+    "symbol": "YUM",
+    "name": "Yum! Brands",
+    "sector": "Consumer",
+    "theme": "Restaurants",
+    "description": "Quick service restaurant holding company."
+  },
+  {
+    "symbol": "KO",
+    "name": "Coca-Cola",
+    "sector": "Consumer Staples",
+    "theme": "Beverages",
+    "description": "Global non-alcoholic beverage company."
+  },
+  {
+    "symbol": "PEP",
+    "name": "PepsiCo",
+    "sector": "Consumer Staples",
+    "theme": "Beverages & Snacks",
+    "description": "Global food and beverage company."
+  },
+  {
+    "symbol": "PG",
+    "name": "Procter & Gamble",
+    "sector": "Consumer Staples",
+    "theme": "Household Products",
+    "description": "Consumer products company."
+  },
+  {
+    "symbol": "CL",
+    "name": "Colgate-Palmolive",
+    "sector": "Consumer Staples",
+    "theme": "Household Products",
+    "description": "Consumer products and oral care company."
+  },
+  {
+    "symbol": "KMB",
+    "name": "Kimberly-Clark",
+    "sector": "Consumer Staples",
+    "theme": "Household Products",
+    "description": "Personal care and tissue products company."
+  },
+  {
+    "symbol": "GIS",
+    "name": "General Mills",
+    "sector": "Consumer Staples",
+    "theme": "Packaged Food",
+    "description": "Packaged foods company."
+  },
+  {
+    "symbol": "KHC",
+    "name": "Kraft Heinz",
+    "sector": "Consumer Staples",
+    "theme": "Packaged Food",
+    "description": "Branded food and beverage company."
+  },
+  {
+    "symbol": "MDLZ",
+    "name": "Mondelez",
+    "sector": "Consumer Staples",
+    "theme": "Snacks",
+    "description": "Global snack foods company."
+  },
+  {
+    "symbol": "PM",
+    "name": "Philip Morris",
+    "sector": "Consumer Staples",
+    "theme": "Tobacco",
+    "description": "International tobacco and nicotine products company."
+  },
+  {
+    "symbol": "MO",
+    "name": "Altria",
+    "sector": "Consumer Staples",
+    "theme": "Tobacco",
+    "description": "U.S.-focused tobacco and nicotine products company."
+  },
+  {
+    "symbol": "LLY",
+    "name": "Eli Lilly",
+    "sector": "Healthcare",
+    "theme": "Pharma",
+    "description": "Large pharmaceutical company."
+  },
+  {
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson",
+    "sector": "Healthcare",
+    "theme": "Pharma & MedTech",
+    "description": "Diversified healthcare and medical technology company."
+  },
+  {
+    "symbol": "PFE",
+    "name": "Pfizer",
+    "sector": "Healthcare",
+    "theme": "Pharma",
+    "description": "Global pharmaceutical company."
+  },
+  {
+    "symbol": "MRK",
+    "name": "Merck",
+    "sector": "Healthcare",
+    "theme": "Pharma",
+    "description": "Global pharmaceutical and biotech company."
+  },
+  {
+    "symbol": "ABBV",
+    "name": "AbbVie",
+    "sector": "Healthcare",
+    "theme": "Pharma",
+    "description": "Biopharmaceutical company."
+  },
+  {
+    "symbol": "AMGN",
+    "name": "Amgen",
+    "sector": "Healthcare",
+    "theme": "Biotech",
+    "description": "Large biotechnology company."
+  },
+  {
+    "symbol": "GILD",
+    "name": "Gilead Sciences",
+    "sector": "Healthcare",
+    "theme": "Biotech",
+    "description": "Biopharmaceutical company."
+  },
+  {
+    "symbol": "BIIB",
+    "name": "Biogen",
+    "sector": "Healthcare",
+    "theme": "Biotech",
+    "description": "Biotechnology company focused on neuroscience."
+  },
+  {
+    "symbol": "VRTX",
+    "name": "Vertex Pharmaceuticals",
+    "sector": "Healthcare",
+    "theme": "Biotech",
+    "description": "Biotechnology company focused on specialty therapies."
+  },
+  {
+    "symbol": "REGN",
+    "name": "Regeneron",
+    "sector": "Healthcare",
+    "theme": "Biotech",
+    "description": "Biotechnology company focused on antibody therapies."
+  },
+  {
+    "symbol": "UNH",
+    "name": "UnitedHealth",
+    "sector": "Healthcare",
+    "theme": "Managed Care",
+    "description": "Healthcare insurance and services company."
+  },
+  {
+    "symbol": "HUM",
+    "name": "Humana",
+    "sector": "Healthcare",
+    "theme": "Managed Care",
+    "description": "Health insurance and healthcare services provider."
+  },
+  {
+    "symbol": "CVS",
+    "name": "CVS Health",
+    "sector": "Healthcare",
+    "theme": "Healthcare Services",
+    "description": "Health services, insurance and pharmacy company."
+  },
+  {
+    "symbol": "CI",
+    "name": "Cigna",
+    "sector": "Healthcare",
+    "theme": "Managed Care",
+    "description": "Health services and insurance provider."
+  },
+  {
+    "symbol": "ISRG",
+    "name": "Intuitive Surgical",
+    "sector": "Healthcare",
+    "theme": "MedTech",
+    "description": "Robotic surgery and medical technology company."
+  },
+  {
+    "symbol": "SYK",
+    "name": "Stryker",
+    "sector": "Healthcare",
+    "theme": "MedTech",
+    "description": "Orthopedic and surgical equipment maker."
+  },
+  {
+    "symbol": "BSX",
+    "name": "Boston Scientific",
+    "sector": "Healthcare",
+    "theme": "MedTech",
+    "description": "Medical devices company."
+  },
+  {
+    "symbol": "MDT",
+    "name": "Medtronic",
+    "sector": "Healthcare",
+    "theme": "MedTech",
+    "description": "Global medical devices company."
+  },
+  {
+    "symbol": "ABT",
+    "name": "Abbott Laboratories",
+    "sector": "Healthcare",
+    "theme": "Diagnostics",
+    "description": "Diversified healthcare and diagnostics company."
+  },
+  {
+    "symbol": "TMO",
+    "name": "Thermo Fisher Scientific",
+    "sector": "Healthcare",
+    "theme": "Life Sciences Tools",
+    "description": "Life sciences, diagnostics and laboratory tools company."
+  },
+  {
+    "symbol": "DHR",
+    "name": "Danaher",
+    "sector": "Healthcare",
+    "theme": "Life Sciences Tools",
+    "description": "Life sciences and diagnostics platform company."
+  },
+  {
+    "symbol": "BMY",
+    "name": "Bristol Myers Squibb",
+    "sector": "Healthcare",
+    "theme": "Pharma",
+    "description": "Biopharmaceutical company."
+  },
+  {
+    "symbol": "ZTS",
+    "name": "Zoetis",
+    "sector": "Healthcare",
+    "theme": "Animal Health",
+    "description": "Animal health medicines and vaccines company."
+  },
+  {
+    "symbol": "CNC",
+    "name": "Centene",
+    "sector": "Healthcare",
+    "theme": "Managed Care",
+    "description": "Government-focused healthcare insurer."
+  },
+  {
+    "symbol": "MRNA",
+    "name": "Moderna",
+    "sector": "Healthcare",
+    "theme": "Biotech",
+    "description": "mRNA therapeutics and vaccine biotechnology company."
+  },
+  {
+    "symbol": "BABA",
+    "name": "Alibaba ADR",
+    "sector": "Technology",
+    "theme": "E-Commerce & Cloud",
+    "description": "Chinese e-commerce and cloud company traded in the U.S."
+  },
+  {
+    "symbol": "PDD",
+    "name": "PDD Holdings ADR",
+    "sector": "Consumer",
+    "theme": "E-Commerce",
+    "description": "E-commerce platform traded in the U.S."
+  },
+  {
+    "symbol": "JD",
+    "name": "JD.com ADR",
+    "sector": "Consumer",
+    "theme": "E-Commerce",
+    "description": "Chinese e-commerce company traded in the U.S."
+  },
+  {
+    "symbol": "BIDU",
+    "name": "Baidu ADR",
+    "sector": "Technology",
+    "theme": "AI & Search",
+    "description": "Search and AI platform traded in the U.S."
+  },
+  {
+    "symbol": "TM",
+    "name": "Toyota ADR",
+    "sector": "Automotive",
+    "theme": "Auto Manufacturing",
+    "description": "Global automaker traded in the U.S."
+  },
+  {
+    "symbol": "HMC",
+    "name": "Honda ADR",
+    "sector": "Automotive",
+    "theme": "Auto Manufacturing",
+    "description": "Global automaker traded in the U.S."
+  },
+  {
+    "symbol": "SHEL",
+    "name": "Shell ADR",
+    "sector": "Energy",
+    "theme": "Integrated Energy",
+    "description": "Integrated energy company traded in the U.S."
+  },
+  {
+    "symbol": "BP",
+    "name": "BP ADR",
+    "sector": "Energy",
+    "theme": "Integrated Energy",
+    "description": "Integrated energy company traded in the U.S."
+  },
+  {
+    "symbol": "RIO",
+    "name": "Rio Tinto ADR",
+    "sector": "Materials",
+    "theme": "Mining",
+    "description": "Diversified mining company traded in the U.S."
+  },
+  {
+    "symbol": "BHP",
+    "name": "BHP ADR",
+    "sector": "Materials",
+    "theme": "Mining",
+    "description": "Diversified natural resources company traded in the U.S."
+  },
+  {
+    "symbol": "TECK",
+    "name": "Teck Resources",
+    "sector": "Materials",
+    "theme": "Copper & Metallurgical Coal",
+    "description": "Diversified metals and mining company."
+  },
+  {
+    "symbol": "WAB",
+    "name": "Wabtec",
+    "sector": "Industrial",
+    "theme": "Rail Equipment",
+    "description": "Rail equipment and transportation systems company."
+  },
+  {
+    "symbol": "URI",
+    "name": "United Rentals",
+    "sector": "Industrial",
+    "theme": "Equipment Rental",
+    "description": "Construction and industrial equipment rental company."
+  },
+  {
+    "symbol": "PCAR",
+    "name": "Paccar",
+    "sector": "Industrial",
+    "theme": "Trucks",
+    "description": "Heavy-duty truck manufacturer."
+  },
+  {
+    "symbol": "CMI",
+    "name": "Cummins",
+    "sector": "Industrial",
+    "theme": "Engines",
+    "description": "Engine, powertrain and industrial systems company."
+  },
+  {
+    "symbol": "FAST",
+    "name": "Fastenal",
+    "sector": "Industrial",
+    "theme": "Industrial Distribution",
+    "description": "Industrial and construction supplies distributor."
+  },
+  {
+    "symbol": "ROK",
+    "name": "Rockwell Automation",
+    "sector": "Industrial",
+    "theme": "Automation",
+    "description": "Industrial automation and control systems company."
+  },
+  {
+    "symbol": "ITW",
+    "name": "Illinois Tool Works",
+    "sector": "Industrial",
+    "theme": "Industrial Tools",
+    "description": "Diversified industrial manufacturer."
+  },
+  {
+    "symbol": "MMM",
+    "name": "3M",
+    "sector": "Industrial",
+    "theme": "Diversified Industrial",
+    "description": "Diversified industrial and materials company."
+  },
+  {
+    "symbol": "APD",
+    "name": "Air Products",
+    "sector": "Chemicals",
+    "theme": "Industrial Gases",
+    "description": "Industrial gases and hydrogen company."
+  },
+  {
+    "symbol": "LIN",
+    "name": "Linde",
+    "sector": "Chemicals",
+    "theme": "Industrial Gases",
+    "description": "Global industrial gases and engineering company."
+  },
+  {
+    "symbol": "ECL",
+    "name": "Ecolab",
+    "sector": "Chemicals",
+    "theme": "Water & Hygiene",
+    "description": "Water, hygiene and infection prevention solutions provider."
+  },
+  {
+    "symbol": "SHW",
+    "name": "Sherwin-Williams",
+    "sector": "Chemicals",
+    "theme": "Coatings",
+    "description": "Paints, coatings and specialty materials company."
+  },
+  {
+    "symbol": "PPG",
+    "name": "PPG Industries",
+    "sector": "Chemicals",
+    "theme": "Coatings",
+    "description": "Paints, coatings and specialty materials producer."
+  },
+  {
+    "symbol": "LYB",
+    "name": "LyondellBasell",
+    "sector": "Chemicals",
+    "theme": "Petrochemicals",
+    "description": "Chemicals, plastics and refining-related company."
+  },
+  {
+    "symbol": "DOW",
+    "name": "Dow",
+    "sector": "Chemicals",
+    "theme": "Materials",
+    "description": "Materials science and chemical company."
+  },
+  {
+    "symbol": "DLR",
+    "name": "Digital Realty",
+    "sector": "Real Estate",
+    "theme": "Data Centers",
+    "description": "Data center REIT."
+  },
+  {
+    "symbol": "EQIX",
+    "name": "Equinix",
+    "sector": "Real Estate",
+    "theme": "Data Centers",
+    "description": "Global data center REIT and digital infrastructure company."
+  },
+  {
+    "symbol": "AMT",
+    "name": "American Tower",
+    "sector": "Real Estate",
+    "theme": "Towers",
+    "description": "Wireless tower and communications infrastructure REIT."
+  },
+  {
+    "symbol": "PLD",
+    "name": "Prologis",
+    "sector": "Real Estate",
+    "theme": "Logistics Real Estate",
+    "description": "Industrial and logistics real estate REIT."
+  },
+  {
+    "symbol": "O",
+    "name": "Realty Income",
+    "sector": "Real Estate",
+    "theme": "Net Lease",
+    "description": "Net lease retail-focused REIT."
+  },
+  {
+    "symbol": "WELL",
+    "name": "Welltower",
+    "sector": "Real Estate",
+    "theme": "Healthcare Real Estate",
+    "description": "Healthcare real estate REIT."
+  },
+  {
+    "symbol": "CCI",
+    "name": "Crown Castle",
+    "sector": "Real Estate",
+    "theme": "Telecom Infrastructure",
+    "description": "U.S. communications infrastructure REIT."
+  },
+  {
+    "symbol": "T",
+    "name": "AT&T",
+    "sector": "Telecom",
+    "theme": "Wireless",
+    "description": "Wireless and communications company."
+  },
+  {
+    "symbol": "VZ",
+    "name": "Verizon",
+    "sector": "Telecom",
+    "theme": "Wireless",
+    "description": "Wireless and broadband communications provider."
+  },
+  {
+    "symbol": "TMUS",
+    "name": "T-Mobile US",
+    "sector": "Telecom",
+    "theme": "Wireless",
+    "description": "U.S. wireless network operator."
+  },
+  {
+    "symbol": "CHTR",
+    "name": "Charter Communications",
+    "sector": "Telecom",
+    "theme": "Cable & Broadband",
+    "description": "Broadband and cable operator."
+  },
+  {
+    "symbol": "CMCSA",
+    "name": "Comcast",
+    "sector": "Telecom & Media",
+    "theme": "Broadband & Media",
+    "description": "Broadband, cable and media company."
+  },
+  {
+    "symbol": "INTU",
+    "name": "Intuit",
+    "sector": "Technology",
+    "theme": "Financial Software",
+    "description": "Financial, tax and small business software company."
+  },
+  {
+    "symbol": "WDAY",
+    "name": "Workday",
+    "sector": "Technology",
+    "theme": "Enterprise Cloud",
+    "description": "Enterprise HR and finance cloud software company."
+  },
+  {
+    "symbol": "TEAM",
+    "name": "Atlassian",
+    "sector": "Technology",
+    "theme": "Collaboration Software",
+    "description": "Collaboration and software development tools company."
+  },
+  {
+    "symbol": "DOCU",
+    "name": "DocuSign",
+    "sector": "Technology",
+    "theme": "Digital Agreements",
+    "description": "Electronic signature and document agreement platform."
+  },
+  {
+    "symbol": "HUBS",
+    "name": "HubSpot",
+    "sector": "Technology",
+    "theme": "CRM Software",
+    "description": "Marketing, sales and CRM software platform."
+  },
+  {
+    "symbol": "ZM",
+    "name": "Zoom",
+    "sector": "Technology",
+    "theme": "Communications Software",
+    "description": "Video communications and collaboration software company."
+  },
+  {
+    "symbol": "TWLO",
+    "name": "Twilio",
+    "sector": "Technology",
+    "theme": "Communication APIs",
+    "description": "Cloud communications API platform."
+  },
+  {
+    "symbol": "ESTC",
+    "name": "Elastic",
+    "sector": "Technology",
+    "theme": "Search & Observability",
+    "description": "Search, observability and security analytics platform."
+  },
+  {
+    "symbol": "FSLR",
+    "name": "First Solar",
+    "sector": "Clean Energy",
+    "theme": "Solar",
+    "description": "Solar module manufacturing company."
+  },
+  {
+    "symbol": "ENPH",
+    "name": "Enphase Energy",
+    "sector": "Clean Energy",
+    "theme": "Solar Inverters",
+    "description": "Solar microinverter and energy management company."
+  },
+  {
+    "symbol": "SEDG",
+    "name": "SolarEdge",
+    "sector": "Clean Energy",
+    "theme": "Solar Inverters",
+    "description": "Solar inverter and smart energy company."
+  },
+  {
+    "symbol": "RUN",
+    "name": "Sunrun",
+    "sector": "Clean Energy",
+    "theme": "Residential Solar",
+    "description": "Residential solar and battery services company."
+  },
+  {
+    "symbol": "BE",
+    "name": "Bloom Energy",
+    "sector": "Clean Energy",
+    "theme": "Fuel Cells",
+    "description": "Fuel cell and distributed energy company."
+  },
+  {
+    "symbol": "CHPT",
+    "name": "ChargePoint",
+    "sector": "Clean Energy",
+    "theme": "EV Charging",
+    "description": "Electric vehicle charging network company."
+  },
+  {
+    "symbol": "ALB",
+    "name": "Albemarle",
+    "sector": "Materials",
+    "theme": "Lithium",
+    "description": "Specialty chemicals and lithium producer."
+  },
+  {
+    "symbol": "SQM",
+    "name": "SQM ADR",
+    "sector": "Materials",
+    "theme": "Lithium",
+    "description": "Lithium and specialty chemicals producer traded in the U.S."
+  },
+  {
+    "symbol": "MP",
+    "name": "MP Materials",
+    "sector": "Materials",
+    "theme": "Rare Earths",
+    "description": "Rare earth materials producer."
+  },
+  {
+    "symbol": "IONQ",
+    "name": "IonQ",
+    "sector": "Quantum Computing",
+    "theme": "Quantum",
+    "description": "Quantum computing hardware and cloud access company."
+  },
+  {
+    "symbol": "RGTI",
+    "name": "Rigetti Computing",
+    "sector": "Quantum Computing",
+    "theme": "Quantum",
+    "description": "Quantum computing company."
+  },
+  {
+    "symbol": "QBTS",
+    "name": "D-Wave Quantum",
+    "sector": "Quantum Computing",
+    "theme": "Quantum",
+    "description": "Quantum computing and annealing systems company."
+  },
+  {
+    "symbol": "QUBT",
+    "name": "Quantum Computing Inc.",
+    "sector": "Quantum Computing",
+    "theme": "Quantum",
+    "description": "Quantum software and hardware company."
   }
 ]

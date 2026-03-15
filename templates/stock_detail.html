@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{{ ticker }} | SignalForge Markets</title>
+  <title>{{ ticker }} | SERPest Piyasa</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='site.css') }}" />
 </head>
 <body data-ticker="{{ ticker }}" data-not-found="{{ 'true' if not_found else 'false' }}">
   <header class="site-header">
     <div class="container nav">
-      <a href="/" class="brand">SignalForge Markets</a>
+      <a href="/" class="brand">SERPest <span>Piyasa</span></a>
       <nav class="nav-links">
         <a href="/">Ana Sayfa</a>
         <a href="/stocks">Hisseler</a>
@@ -86,6 +86,61 @@
       </section>
     </div>
   </main>
+
+  <div id="riskOverlay" class="risk-overlay">
+    <div class="risk-modal">
+      <button id="riskCloseBtn" class="risk-close" type="button">×</button>
+
+      <h1 class="risk-title">
+        <span class="risk-highlight">Önemli Risk Uyarısı</span>
+      </h1>
+
+      <p class="risk-subtitle">
+        SERPest Piyasa üzerinde yer alan tüm içerikler, analizler, sinyaller,
+        AI yorumları, grafikler ve hisse değerlendirmeleri yalnızca genel
+        bilgilendirme ve araştırma amacı taşır. Bu platformdaki hiçbir içerik
+        yatırım tavsiyesi, al-sat önerisi, portföy yönetimi hizmeti veya kesin
+        kazanç vaadi niteliğinde değildir.
+      </p>
+
+      <div class="risk-box">
+        <h3>Bilmen gerekenler</h3>
+        <ul>
+          <li>Finansal piyasalarda işlem yapmak yüksek risk içerir.</li>
+          <li>Hisse senetleri değer kaybedebilir ve ciddi zarar oluşabilir.</li>
+          <li>AI tarafından üretilen analizler hatalı, eksik veya gecikmeli olabilir.</li>
+          <li>Makro gelişmeler ve haber akışı beklenmedik şekilde değişebilir.</li>
+          <li>Buradaki verilere dayanarak verilen tüm kararlar tamamen kullanıcının kendi sorumluluğundadır.</li>
+        </ul>
+      </div>
+
+      <div class="risk-box">
+        <h3>Sorumluluk Beyanı</h3>
+        <ul>
+          <li>SERPest Piyasa herhangi bir yatırım kararından doğacak doğrudan veya dolaylı zarardan sorumlu değildir.</li>
+          <li>Platform sahibi, geliştiriciler ve içerik sağlayıcılar kullanıcı işlemlerinden sorumlu tutulamaz.</li>
+          <li>Kullanıcı, siteyi kullanarak tüm finansal kararları kendi iradesiyle verdiğini kabul eder.</li>
+        </ul>
+      </div>
+
+      <div class="risk-note">
+        Bu uyarıyı kapatarak platformu kendi sorumluluğun altında kullandığını kabul etmiş olursun.
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      const overlay = document.getElementById("riskOverlay");
+      const closeBtn = document.getElementById("riskCloseBtn");
+
+      if (!overlay || !closeBtn) return;
+
+      closeBtn.addEventListener("click", function () {
+        overlay.classList.add("risk-hidden");
+      });
+    })();
+  </script>
 
   <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
   <script src="{{ url_for('static', filename='stock_detail.js') }}"></script>
