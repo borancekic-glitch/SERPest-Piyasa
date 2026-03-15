@@ -1,8 +1,73 @@
 let allStocks = [];
+let allPrices = {};
+let currentSearch = "";
+let currentSector = "ALL";
+let currentSort = "NONE";
+let priceRefreshInterval = null;
 
 async function fetchJson(url) {
   const res = await fetch(url);
   return res.json();
+}
+
+function formatPrice(value) {
+  if (value === null || value === undefined || Number.isNaN(Number(value))) {
+    return "—";
+  }
+  return `$${Number(value).toFixed(2)}`;
+}
+
+function formatChangePct(value) {
+  if (value === null || value === undefined || Number.isNaN(Number(value))) {
+    return "—";
+  }
+
+  const num = Number(value);
+  const prefix = num > 0 ? "+" : "";
+  return `${prefix}%${num.toFixed(2)}`;
+}
+
+function getPriceInfo(symbol) {
+  return allPrices[symbol] || { price: null, change_pct: null };
+}
+
+function getFilteredAndSortedStocks() {
+  let result = [...allStocks];
+
+  if (currentSearch) {
+    result = result.filter((item) => {
+      return (
+        String(item.symbol || "").toLowerCase().includes(currentSearch) ||
+        String(item.name || "").toLowerCase().includes(currentSearch) ||
+        String(item.sector || "").toLowerCase().includes(currentSearch) ||
+        String(item.theme || "").toLowerCase().includes(currentSearch)
+      );
+    });
+  }
+
+  if (currentSector !== "ALL") {
+    result = result.filter((item) => String(item.sector || "") === currentSector);
+  }
+
+  if (currentSort === "PRICE_ASC") {
+    result.sort((a, b) => {
+      const pa = getPriceInfo(a.symbol).price;
+      const pb = getPriceInfo(b.symbol).price;
+      return (pa ?? Number.POSITIVE_INFINITY) - (pb ?? Number.POSITIVE_INFINITY);
+    });
+  } else if (currentSort === "PRICE_DESC") {
+    result.sort((a, b) => {
+      const pa = getPriceInfo(a.symbol).price;
+      const pb = getPriceInfo(b.symbol).price;
+      return (pb ?? Number.NEGATIVE_INFINITY) - (pa ?? Number.NEGATIVE_INFINITY);
+    });
+  } else if (currentSort === "NAME_ASC") {
+    result.sort((a, b) => String(a.name || "").localeCompare(String(b.name || ""), "tr"));
+  } else if (currentSort === "NAME_DESC") {
+    result.sort((a, b) => String(b.name || "").localeCompare(String(a.name || ""), "tr"));
+  }
+
+  return result;
 }
 
 function renderStocks(stocks) {
@@ -18,61 +83,136 @@ function renderStocks(stocks) {
     return;
   }
 
-  grid.innerHTML = stocks.map(item => `
-    <article class="stock-card">
-      <div class="stock-top">
-        <div>
-          <div class="stock-symbol">${item.symbol}</div>
-          <div class="stock-name">${item.name}</div>
+  grid.innerHTML = stocks.map((item) => {
+    const priceInfo = getPriceInfo(item.symbol);
+    const change = priceInfo.change_pct;
+    const changeClass =
+      change === null || change === undefined
+        ? ""
+        : Number(change) >= 0
+          ? "pos"
+          : "neg";
+
+    return `
+      <article class="stock-card">
+        <div class="stock-top">
+          <div>
+            <div class="stock-symbol">${item.symbol}</div>
+            <div class="stock-name">${item.name}</div>
+          </div>
+          <div class="badge">${item.sector}</div>
         </div>
-        <div class="badge">${item.sector}</div>
-      </div>
 
-      <div class="stock-desc">${item.description || "Açıklama yok."}</div>
+        <div class="stock-price-row">
+          <div class="stock-price">${formatPrice(priceInfo.price)}</div>
+          <div class="stock-change ${changeClass}">${formatChangePct(change)}</div>
+        </div>
 
-      <div class="stock-meta-row">
-        ${item.theme ? `<span class="meta-chip">${item.theme}</span>` : ""}
-      </div>
+        <div class="stock-desc">${item.description || "Açıklama yok."}</div>
 
-      <a class="card-link" href="/stocks/${item.symbol}">Detay Sayfası</a>
-    </article>
-  `).join("");
+        <div class="stock-meta-row">
+          ${item.theme ? `<span class="meta-chip">${item.theme}</span>` : ""}
+        </div>
+
+        <a class="card-link" href="/stocks/${item.symbol}">Detay Sayfası</a>
+      </article>
+    `;
+  }).join("");
 }
 
-function applyFilter() {
-  const input = document.getElementById("searchInput");
-  const q = (input?.value || "").trim().toLowerCase();
+function renderSectorOptions() {
+  const select = document.getElementById("sectorFilter");
+  if (!select) return;
 
-  if (!q) {
-    renderStocks(allStocks);
+  const sectors = [...new Set(allStocks.map((item) => item.sector).filter(Boolean))].sort((a, b) =>
+    String(a).localeCompare(String(b), "tr")
+  );
+
+  select.innerHTML = `
+    <option value="ALL">Tüm Sektörler</option>
+    ${sectors.map((sector) => `<option value="${sector}">${sector}</option>`).join("")}
+  `;
+
+  select.value = currentSector;
+}
+
+function renderAll() {
+  const finalStocks = getFilteredAndSortedStocks();
+  renderStocks(finalStocks);
+}
+
+function updatePriceInfoText(updatedAt) {
+  const el = document.getElementById("priceUpdateInfo");
+  if (!el) return;
+
+  if (!updatedAt) {
+    el.textContent = "Fiyatlar güncellenemedi.";
     return;
   }
 
-  const filtered = allStocks.filter(item => {
-    return (
-      String(item.symbol).toLowerCase().includes(q) ||
-      String(item.name).toLowerCase().includes(q) ||
-      String(item.sector).toLowerCase().includes(q) ||
-      String(item.theme).toLowerCase().includes(q)
-    );
-  });
-
-  renderStocks(filtered);
+  el.textContent = `Fiyatlar otomatik yenileniyor • Son güncelleme: ${updatedAt}`;
 }
 
-async function initStocksPage() {
+async function loadStocks() {
   try {
     const data = await fetchJson("/api/stocks");
     allStocks = data.stocks || [];
-    renderStocks(allStocks);
-
-    const input = document.getElementById("searchInput");
-    if (input) {
-      input.addEventListener("input", applyFilter);
-    }
+    renderSectorOptions();
+    renderAll();
   } catch (error) {
     console.error(error);
   }
+}
+
+async function loadPrices() {
+  try {
+    const data = await fetchJson("/api/stocks/prices");
+    allPrices = data.prices || {};
+    updatePriceInfoText(data.updated_at || null);
+    renderAll();
+  } catch (error) {
+    console.error(error);
+    updatePriceInfoText(null);
+  }
+}
+
+function setupControls() {
+  const searchInput = document.getElementById("searchInput");
+  const sectorFilter = document.getElementById("sectorFilter");
+  const sortFilter = document.getElementById("sortFilter");
+
+  if (searchInput) {
+    searchInput.addEventListener("input", () => {
+      currentSearch = String(searchInput.value || "").trim().toLowerCase();
+      renderAll();
+    });
+  }
+
+  if (sectorFilter) {
+    sectorFilter.addEventListener("change", () => {
+      currentSector = sectorFilter.value || "ALL";
+      renderAll();
+    });
+  }
+
+  if (sortFilter) {
+    sortFilter.addEventListener("change", () => {
+      currentSort = sortFilter.value || "NONE";
+      renderAll();
+    });
+  }
+}
+
+async function initStocksPage() {
+  setupControls();
+  await loadStocks();
+  await loadPrices();
+
+  if (priceRefreshInterval) {
+    clearInterval(priceRefreshInterval);
+  }
+
+  priceRefreshInterval = setInterval(loadPrices, 5000);
 }
 
 initStocksPage();

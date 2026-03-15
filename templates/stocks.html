@@ -26,16 +26,32 @@
         </div>
       </div>
 
-      <div class="toolbar">
+      <div class="toolbar toolbar-grid">
         <input
           id="searchInput"
           class="search-input"
           type="text"
           placeholder="Ticker veya şirket adı ara..."
         />
+
+        <select id="sectorFilter" class="filter-select">
+          <option value="ALL">Tüm Sektörler</option>
+        </select>
+
+        <select id="sortFilter" class="filter-select">
+          <option value="NONE">Sıralama Seç</option>
+          <option value="PRICE_ASC">Fiyat: Ucuzdan Pahalıya</option>
+          <option value="PRICE_DESC">Fiyat: Pahalıdan Ucuza</option>
+          <option value="NAME_ASC">İsim: A-Z</option>
+          <option value="NAME_DESC">İsim: Z-A</option>
+        </select>
       </div>
 
-      <div id="stocksCount" class="muted-text"></div>
+      <div class="toolbar-meta">
+        <div id="stocksCount" class="muted-text"></div>
+        <div id="priceUpdateInfo" class="small-muted">Fiyatlar yükleniyor...</div>
+      </div>
+
       <div id="stocksGrid" class="cards-grid"></div>
     </div>
   </main>

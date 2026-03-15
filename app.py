@@ -381,6 +381,27 @@ def api_stocks():
     })
 
 
+@app.route("/api/stocks/prices")
+def api_stock_prices():
+    items = serialize_stock_list()
+    prices = {}
+
+    for item in items:
+        ticker = item["symbol"]
+        snapshot = get_stock_snapshot(ticker)
+
+        prices[ticker] = {
+            "price": snapshot.get("last_close") if snapshot else None,
+            "change_pct": snapshot.get("price_change_pct") if snapshot else None
+        }
+
+    return jsonify({
+        "status": "ok",
+        "prices": prices,
+        "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    })
+
+
 @app.route("/api/stocks/<ticker>")
 def api_stock_profile(ticker):
     stock = find_tracked_stock(ticker)
