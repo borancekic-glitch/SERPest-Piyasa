@@ -7,6 +7,9 @@ let priceRefreshInterval = null;
 
 async function fetchJson(url) {
   const res = await fetch(url);
+  if (!res.ok) {
+    throw new Error(`Request failed: ${url}`);
+  }
   return res.json();
 }
 
@@ -114,7 +117,7 @@ function renderStocks(stocks) {
           ${item.theme ? `<span class="meta-chip">${item.theme}</span>` : ""}
         </div>
 
-        <a class="card-link" href="/stocks/${item.symbol}">Detay Sayfası</a>
+        <a class="card-link" href="/stocks/${encodeURIComponent(item.symbol)}">Detay Sayfası</a>
       </article>
     `;
   }).join("");
@@ -153,6 +156,11 @@ function updatePriceInfoText(updatedAt) {
   el.textContent = `Fiyatlar otomatik yenileniyor • Son güncelleme: ${updatedAt}`;
 }
 
+function getVisibleTickersForPricing() {
+  const finalStocks = getFilteredAndSortedStocks();
+  return finalStocks.slice(0, 48).map((item) => item.symbol);
+}
+
 async function loadStocks() {
   try {
     const data = await fetchJson("/api/stocks");
@@ -166,8 +174,20 @@ async function loadStocks() {
 
 async function loadPrices() {
   try {
-    const data = await fetchJson("/api/stocks/prices");
-    allPrices = data.prices || {};
+    const tickers = getVisibleTickersForPricing();
+    if (!tickers.length) {
+      updatePriceInfoText(null);
+      return;
+    }
+
+    const qs = encodeURIComponent(tickers.join(","));
+    const data = await fetchJson(`/api/stocks/prices?tickers=${qs}`);
+
+    allPrices = {
+      ...allPrices,
+      ...(data.prices || {})
+    };
+
     updatePriceInfoText(data.updated_at || null);
     renderAll();
   } catch (error) {
@@ -182,23 +202,26 @@ function setupControls() {
   const sortFilter = document.getElementById("sortFilter");
 
   if (searchInput) {
-    searchInput.addEventListener("input", () => {
+    searchInput.addEventListener("input", async () => {
       currentSearch = String(searchInput.value || "").trim().toLowerCase();
       renderAll();
+      await loadPrices();
     });
   }
 
   if (sectorFilter) {
-    sectorFilter.addEventListener("change", () => {
+    sectorFilter.addEventListener("change", async () => {
       currentSector = sectorFilter.value || "ALL";
       renderAll();
+      await loadPrices();
     });
   }
 
   if (sortFilter) {
-    sortFilter.addEventListener("change", () => {
+    sortFilter.addEventListener("change", async () => {
       currentSort = sortFilter.value || "NONE";
       renderAll();
+      await loadPrices();
     });
   }
 }

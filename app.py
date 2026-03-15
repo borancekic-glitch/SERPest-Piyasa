@@ -241,8 +241,14 @@ def serialize_stock_list():
     universe = load_stock_universe()
 
     items = []
+    seen = set()
+
     for item in tracked:
         symbol = item["symbol"]
+        if symbol in seen:
+            continue
+        seen.add(symbol)
+
         uni = universe.get(symbol, {})
         items.append({
             "symbol": symbol,
@@ -279,7 +285,7 @@ def stocks_page():
     return render_template("stocks.html")
 
 
-@app.route("/stocks/<ticker>")
+@app.route("/stocks/<path:ticker>")
 def stock_detail_page(ticker):
     stock = find_tracked_stock(ticker)
     if not stock:
@@ -383,17 +389,31 @@ def api_stocks():
 
 @app.route("/api/stocks/prices")
 def api_stock_prices():
-    items = serialize_stock_list()
+    tickers_param = request.args.get("tickers", "").strip()
+    if not tickers_param:
+        return jsonify({
+            "status": "ok",
+            "prices": {},
+            "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        })
+
+    raw_tickers = [t.strip().upper() for t in tickers_param.split(",") if t.strip()]
+    tickers = raw_tickers[:60]
+
     prices = {}
 
-    for item in items:
-        ticker = item["symbol"]
-        snapshot = get_stock_snapshot(ticker)
-
-        prices[ticker] = {
-            "price": snapshot.get("last_close") if snapshot else None,
-            "change_pct": snapshot.get("price_change_pct") if snapshot else None
-        }
+    for ticker in tickers:
+        try:
+            snapshot = get_stock_snapshot(ticker)
+            prices[ticker] = {
+                "price": snapshot.get("last_close") if snapshot else None,
+                "change_pct": snapshot.get("price_change_pct") if snapshot else None
+            }
+        except Exception:
+            prices[ticker] = {
+                "price": None,
+                "change_pct": None
+            }
 
     return jsonify({
         "status": "ok",
@@ -402,7 +422,7 @@ def api_stock_prices():
     })
 
 
-@app.route("/api/stocks/<ticker>")
+@app.route("/api/stocks/<path:ticker>")
 def api_stock_profile(ticker):
     stock = find_tracked_stock(ticker)
     if not stock:
@@ -417,7 +437,7 @@ def api_stock_profile(ticker):
     })
 
 
-@app.route("/api/stocks/<ticker>/market-data")
+@app.route("/api/stocks/<path:ticker>/market-data")
 def api_stock_market_data(ticker):
     stock = find_tracked_stock(ticker)
     if not stock:
@@ -437,7 +457,7 @@ def api_stock_market_data(ticker):
     })
 
 
-@app.route("/api/stocks/<ticker>/chart")
+@app.route("/api/stocks/<path:ticker>/chart")
 def api_stock_chart(ticker):
     stock = find_tracked_stock(ticker)
     if not stock:
@@ -456,7 +476,7 @@ def api_stock_chart(ticker):
     })
 
 
-@app.route("/api/stocks/<ticker>/ai-analysis")
+@app.route("/api/stocks/<path:ticker>/ai-analysis")
 def api_stock_ai_analysis(ticker):
     stock = find_tracked_stock(ticker)
     if not stock:
