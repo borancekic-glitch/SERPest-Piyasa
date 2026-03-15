@@ -1,0 +1,170 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple",
+    "sector": "Technology",
+    "theme": "Mega Cap Tech",
+    "description": "Consumer technology and ecosystem leader."
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft",
+    "sector": "Technology",
+    "theme": "Cloud & AI",
+    "description": "Cloud, enterprise software and AI infrastructure."
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA",
+    "sector": "Semiconductors",
+    "theme": "AI Chips",
+    "description": "Leading GPU and AI compute company."
+  },
+  {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices",
+    "sector": "Semiconductors",
+    "theme": "AI Chips",
+    "description": "CPU and GPU designer with data center exposure."
+  },
+  {
+    "symbol": "AVGO",
+    "name": "Broadcom",
+    "sector": "Semiconductors",
+    "theme": "Networking & AI",
+    "description": "Semiconductor and infrastructure software company."
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon",
+    "sector": "Consumer & Cloud",
+    "theme": "Cloud Platform",
+    "description": "E-commerce and AWS cloud platform."
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet",
+    "sector": "Technology",
+    "theme": "AI Platform",
+    "description": "Search, ads, cloud and AI platform."
+  },
+  {
+    "symbol": "META",
+    "name": "Meta",
+    "sector": "Technology",
+    "theme": "Digital Platforms",
+    "description": "Social platforms and AI-driven ad ecosystem."
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla",
+    "sector": "Automotive",
+    "theme": "EV & Autonomy",
+    "description": "Electric vehicles, energy storage and autonomy."
+  },
+  {
+    "symbol": "XOM",
+    "name": "Exxon Mobil",
+    "sector": "Energy",
+    "theme": "Oil & Gas",
+    "description": "Integrated energy major."
+  },
+  {
+    "symbol": "CVX",
+    "name": "Chevron",
+    "sector": "Energy",
+    "theme": "Oil & Gas",
+    "description": "Integrated oil and gas major."
+  },
+  {
+    "symbol": "COP",
+    "name": "ConocoPhillips",
+    "sector": "Energy",
+    "theme": "Upstream Energy",
+    "description": "Exploration and production company."
+  },
+  {
+    "symbol": "SLB",
+    "name": "Schlumberger",
+    "sector": "Energy Services",
+    "theme": "Oilfield Services",
+    "description": "Oilfield equipment and services."
+  },
+  {
+    "symbol": "LMT",
+    "name": "Lockheed Martin",
+    "sector": "Defense",
+    "theme": "Aerospace & Defense",
+    "description": "Defense systems and military aerospace."
+  },
+  {
+    "symbol": "RTX",
+    "name": "RTX",
+    "sector": "Defense",
+    "theme": "Aerospace & Defense",
+    "description": "Defense, missiles and aerospace systems."
+  },
+  {
+    "symbol": "NOC",
+    "name": "Northrop Grumman",
+    "sector": "Defense",
+    "theme": "Defense Systems",
+    "description": "Defense technology and aerospace systems."
+  },
+  {
+    "symbol": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "Cybersecurity",
+    "theme": "Security Software",
+    "description": "Endpoint security and threat intelligence."
+  },
+  {
+    "symbol": "PANW",
+    "name": "Palo Alto Networks",
+    "sector": "Cybersecurity",
+    "theme": "Security Software",
+    "description": "Network and cloud security platform."
+  },
+  {
+    "symbol": "FTNT",
+    "name": "Fortinet",
+    "sector": "Cybersecurity",
+    "theme": "Security Infrastructure",
+    "description": "Cybersecurity appliances and platform."
+  },
+  {
+    "symbol": "ZS",
+    "name": "Zscaler",
+    "sector": "Cybersecurity",
+    "theme": "Zero Trust",
+    "description": "Cloud security and zero-trust platform."
+  },
+  {
+    "symbol": "LNG",
+    "name": "Cheniere Energy",
+    "sector": "Energy",
+    "theme": "LNG Export",
+    "description": "Liquefied natural gas export infrastructure."
+  },
+  {
+    "symbol": "EQT",
+    "name": "EQT",
+    "sector": "Natural Gas",
+    "theme": "Natural Gas",
+    "description": "Large U.S. natural gas producer."
+  },
+  {
+    "symbol": "ODFL",
+    "name": "Old Dominion Freight Line",
+    "sector": "Logistics",
+    "theme": "Freight",
+    "description": "LTL freight transportation company."
+  },
+  {
+    "symbol": "UPS",
+    "name": "UPS",
+    "sector": "Logistics",
+    "theme": "Logistics",
+    "description": "Global parcel delivery and logistics."
+  }
+]

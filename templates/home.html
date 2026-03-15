@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SignalForge Markets</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='site.css') }}" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a href="/" class="brand">SignalForge Markets</a>
+      <nav class="nav-links">
+        <a href="/">Ana Sayfa</a>
+        <a href="/stocks">Hisseler</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <p class="eyebrow">AI destekli research platform</p>
+          <h1>Makro analizi koruyoruz, ürünü gerçek bir hisse sitesine çeviriyoruz.</h1>
+          <p class="hero-text">
+            Haftalık AI tavsiyeleri, hisse kütüphanesi ve tek tıkla piyasa verisi.
+            Sonraki aşamada özel AI analiz kısmını üyelikle açacağız.
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="/stocks">Hisseleri İncele</a>
+            <a class="btn btn-secondary" href="#weekly">Haftanın Tavsiyeleri</a>
+          </div>
+        </div>
+
+        <div class="hero-card">
+          <div class="mini-label">Sistem durumu</div>
+          <div id="healthBox" class="health-box">Yükleniyor...</div>
+        </div>
+      </div>
+    </section>
+
+    <section id="weekly" class="section">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Weekly picks</p>
+            <h2>Haftanın Tavsiyeleri</h2>
+          </div>
+          <div id="weeklyMeta" class="muted-text"></div>
+        </div>
+
+        <div id="weeklySummary" class="summary-box">Yükleniyor...</div>
+        <div id="weeklyPicks" class="cards-grid"></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Stock library</p>
+            <h2>Takip edilen hisseler</h2>
+          </div>
+          <a class="text-link" href="/stocks">Tümünü Gör</a>
+        </div>
+
+        <div id="featuredStocks" class="cards-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="{{ url_for('static', filename='home.js') }}"></script>
+</body>
+</html>

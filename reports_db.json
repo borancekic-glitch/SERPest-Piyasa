@@ -1,0 +1,4561 @@
+[
+  {
+    "id": "20260315102744",
+    "date": "2026-03-15 10:27:44",
+    "news": [
+      "Trump says U.S. bombed Kharg Island, striking core of Iran’s oil economy - The Washington Post",
+      "Big 12 Tournament: What Tommy Lloyd, Arizona players said after win over Iowa State - Arizona Desert Swarm",
+      "Veteran Army combat pilot mourned after shooting at Old Dominion University - The Washington Post",
+      "Ducks' Radko Gudas slapped with 5-game ban for kneeing Auston Matthews - ESPN",
+      "8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility - Politico",
+      "Team USA Baseball vs. Canada score: Live updates from World Baseball Classic quarterfinals - CBS Sports",
+      "Ground stop impacted airports, including BWI-Marshall | Here's why - WBAL-TV",
+      "NASA officials sidestepped questions on Artemis II risks—there’s a reason why - Ars Technica",
+      "The Iran war's looming economic threat: Higher food prices - NBC News",
+      "Hegseth vows thorough probe of school strike that Trump blamed on Iran - The Washington Post",
+      "Explosion shakes Tehran amid state-organised rally after Israeli warning - France 24",
+      "Subpoenas against Fed chair Powell tossed in a scathing opinion - Axios",
+      "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing - TechCrunch",
+      "Doja Cat reveals BPD diagnosis while defending Chappell Roan: 'Let her have an attitude' - Entertainment Weekly",
+      "Hubble and NASA space telescopes track 'game-changing' gamma-ray burst back to neutron star collision in 'forbidden' region of the universe - Space",
+      "Oscars Predictions via Feinberg Forecast: Scott’s Final Picks - The Hollywood Reporter"
+    ],
+    "event_candidates": {
+      "events": [
+        "middle east escalation",
+        "oil supply disruption",
+        "war escalation",
+        "freight disruption"
+      ],
+      "sectors": [
+        "energy",
+        "oil tanker",
+        "defense",
+        "natural gas",
+        "container shipping",
+        "logistics",
+        "freight",
+        "ports and marine"
+      ],
+      "tickers": [
+        "XOM",
+        "CVX",
+        "COP",
+        "SLB",
+        "HAL",
+        "EOG",
+        "OXY",
+        "FRO",
+        "TNK",
+        "DHT",
+        "INSW",
+        "LMT",
+        "RTX",
+        "NOC",
+        "LDOS",
+        "LHX",
+        "GD",
+        "HII",
+        "EQT",
+        "AR",
+        "RRC",
+        "LNG",
+        "CTRA",
+        "ZIM",
+        "MATX",
+        "DAC",
+        "FDX",
+        "UPS",
+        "EXPD",
+        "CHRW",
+        "HUBG",
+        "ODFL",
+        "SAIA",
+        "XPO",
+        "ARCB",
+        "KEX"
+      ]
+    },
+    "analysis": "# MACRO ANALYSIS: Iran-NATO Escalation Day 19—Kharg Island Strike Consolidates; Food Price Inflation Accelerates; Artemis II Delays Signal U.S. Strategic Priority Shift\n\n---\n\n## SUMMARY OF MAIN EVENT:\n\n- **Kharg Island strike (Day 18) now consolidated as baseline scenario—Trump administration confirms direct targeting of Iran's 90% crude export terminal (~2.2M barrels/day capacity destroyed)**: Combined with sustained Hormuz merchant fleet targeting (Days 12-17), global oil supply shock now has two operational constraint mechanisms. 6-7% of global daily demand remains under active disruption threat.\n\n- **\"The Iran war's looming economic threat: Higher food prices\" headline signals third-order demand destruction cascading into agricultural commodities and food inflation**: Oil price spike → fertilizer cost inflation → crop input cost explosion → food price acceleration. This is now institutional recognition of supply-chain contagion, not speculation.\n\n- **Ground stop at major U.S. airports (BWI-Marshall and others) + Artemis II delays + Hegseth \"thorough probe of school strike\" signal U.S. operational complexity and institutional friction in sustained kinetic campaign**: Logistics bottlenecks emerging in domestic infrastructure. Extended conflict duration becoming operationally constraining.\n\n- **Explosion in Tehran amid state-organized rally after Israeli warning suggests conflict escalation vectors beyond U.S.-Iran bilateral—regional proxy network (Israel, Saudi, UAE) now actively operationalizing**: Multiplayer escalation increases conflict duration probability and supply-side destruction likelihood.\n\n- **SPR release (172M barrels, Day 15) now operationalized against sustained 6-7% global supply loss scenario—U.S. government burning strategic reserves to manage demand destruction**: This is not temporary tactical buffer; institutional oil management now assumes extended disruption window (weeks-to-months).\n\n---\n\n## DIRECTLY AFFECTED INDUSTRIES:\n\n**Oil & Gas Upstream (Crude Production & Export)**\n- Why: Kharg Island strike destroys 2.2M barrels/day Iranian export capacity. Hormuz transit disruption adds 4.4M barrels/day risk. Combined 6-7% global supply loss now embedded in baseline pricing.\n- Possible U.S. stocks: **XOM, CVX, COP, OXY, EOG, RRC, CTRA**\n  - *XOM & CVX*: Direct benefit from elevated oil pricing on replacement supply (LTO, Gulf of Mexico deepwater). Kharg destruction removes Iranian export competitor.\n  - *OXY & EOG*: Lighter crude exposure benefits from Hormuz Brent premium.\n  - *RRC & CTRA*: Natural gas leveraged to oil price via NGL margins; Permian upside from oil intensity.\n\n**Oil Tanker Shipping (Ton-Mile Arbitrage)**\n- Why: Hormuz closure forces rerouting around Cape of Good Hope (+2 weeks transit). ton-mile demand explodes. Risk premium embedded into daily rates.\n- Possible U.S. stocks: **FRO, TNK, DHT, INSW**\n  - *FRO & DHT*: Supertanker operators benefit from ultra-long-haul rerouting (Middle East → Europe via Cape = 60+ day round-trip vs. 14 days via Suez/Hormuz). Per-barrel carrying cost spikes.\n  - *TNK & INSW*: Product tanker exposure to refined product rerouting (Middle East refining disruption forces fuel product shipping demand surge).\n\n**Fertilizer & Agricultural Commodities (Oil-Indexed Input Costs)**\n- Why: Oil → fertilizer cost inflation → crop yield premium for North American producers. Food price inflation now institutional baseline.\n- Possible U.S. stocks: **ADM, MOS, NTR**\n  - *ADM*: Grain trading + biofuel production leveraged to elevated agricultural commodity prices from fertilizer cost pass-through.\n  - *MOS*: Potash/phosphate producers benefit from fertilizer price elevation driven by energy cost inflation.\n\n**Insurance (P&C War Risk & Marine)**\n- Why: Hormuz merchant fleet targeting (Days 12-17) + Kharg strike consolidates conflict as multi-year operational reality. War risk premiums embedded into marine insurance, hull coverage, P&C underwriting.\n- Possible U.S. stocks: **ALL, TRV, CB, PGR, AIG**\n  - *TRV*: Marine underwriting specialist; Hormuz zone now priced as active conflict area. War risk deductibles expanding.\n  - *CB*: Specialty P&C with Middle East energy sector exposure; Kharg destruction triggers claim wave.\n\n**Defense Contractors (Sustained Procurement Acceleration)**\n- Why: Day 18 Kharg strike confirms sustained kinetic operations (Day 17: $11.3B first-week burn rate). Weeks-to-months conflict window now embedded. Procurement cycles accelerating.\n- Possible U.S. stocks: **RTX, LMT, NOC, GD, HII, LDOS**\n  - *RTX*: Missile systems (Tomahawk, SM-6) primary consumables in Hormuz protection + Iran targeting. Sustained procurement curve.\n  - *LMT*: Hypersonic missiles (AGM-183 ARRW), long-range strikes on Kharg-class targets.\n  - *GD*: Combat information systems, integrated air defense (THAAD), naval shipbuilding for Hormuz escort fleet expansion.\n\n---\n\n## SECOND-ORDER OPPORTUNITIES:\n\n**Food & Beverage (Margin Compression + Inflation Pass-Through)**\n- Why it may benefit: Oil price spike → fertilizer inflation → crop input cost explosion → food producer margin compression. However, *brands with pricing power* (consumer staples with inelastic demand) can pass through cost inflation faster than competitors.\n- Mechanism: Fertilizer cost (oil-indexed) rises 40-60% on Kharg destruction. North American food producers face 8-12 week input cost lag. Those with contract pricing power or commodity hedges avoid margin collapse.\n- Possible U.S. stocks: **ADM** (already listed above; but secondary benefit is hedging/trading division managing ag commodity volatility for peers)\n  - *Consider also: Agribusiness supply chain companies capturing margin on elevated ag commodity prices.*\n\n**Industrial Equipment & Machinery (Military Production Acceleration)**\n- Why it may benefit: Sustained kinetic campaign (Kharg strike confirms week-to-months duration) drives military production demand. Machine tool, aerospace manufacturing, defense subcontractors all face capacity constraints.\n- Mechanism: RTX, LMT, GD, NOC procurement curves accelerating → sub-tier suppliers (bearings, fasteners, electronics assembly, composite materials) face capacity constraints → industrial equipment makers (machine tools, CNC systems) see sustained order flow.\n- Possible U.S. stocks: **ETN (Eaton), CAT (Caterpillar), PH (Parker Hannifin)**\n  - *ETN*: Hydraulics, power management for defense aerospace platforms.\n  - *PH*: Fluid connectors, motion systems for missile production, aircraft assembly.\n\n**Logistics & Freight (Rerouting Arbitrage + Capacity Constraint)**\n- Why it may benefit: Hormuz closure → Cape of Good Hope rerouting → ton-mile demand explosion. Domestic U.S. freight sees secondary benefit from increased refined product shipping demand (Middle East refining disruption forces U.S. Gulf Coast refiners to export more).\n- Mechanism: Tanker rerouting drives trans-oceanic ton-mile inflation → U.S. port congestion → rail/trucking demand for inland distribution surge →",
+    "scored_stocks": [
+      {
+        "ticker": "S",
+        "score": 10,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat güçlü pozitif",
+          "Hacim güçlü şekilde ortalamanın üstünde"
+        ],
+        "last_close": 14.52,
+        "price_change_pct": 5.37,
+        "volume_ratio": 1.66,
+        "extract_score": 45,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "RTX",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 204.52,
+        "price_change_pct": 0.73,
+        "volume_ratio": 0.85,
+        "extract_score": 7,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "CTRA",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 32.15,
+        "price_change_pct": 0.53,
+        "volume_ratio": 0.67,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "DHT",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 16.85,
+        "price_change_pct": 0.06,
+        "volume_ratio": 0.73,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "EOG",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 133.6,
+        "price_change_pct": 0.42,
+        "volume_ratio": 0.7,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "RRC",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 43.51,
+        "price_change_pct": 1.71,
+        "volume_ratio": 0.77,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "XOM",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 156.12,
+        "price_change_pct": 1.69,
+        "volume_ratio": 0.84,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "COP",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 121.89,
+        "price_change_pct": 1.36,
+        "volume_ratio": 0.89,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "HII",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 415.71,
+        "price_change_pct": 0.28,
+        "volume_ratio": 0.78,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "LDOS",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 173.86,
+        "price_change_pct": 0.03,
+        "volume_ratio": 0.59,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "COST",
+        "score": 6,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 1008.43,
+        "price_change_pct": 0.51,
+        "volume_ratio": 0.88,
+        "extract_score": 10,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "FOR",
+        "score": 6,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 25.33,
+        "price_change_pct": 1.6,
+        "volume_ratio": 0.71,
+        "extract_score": 10,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "NOW",
+        "score": 6,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 113.62,
+        "price_change_pct": 0.58,
+        "volume_ratio": 0.82,
+        "extract_score": 10,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "CVX",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 196.82,
+        "price_change_pct": -0.08,
+        "volume_ratio": 0.69,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "ETN",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim normalin biraz üstünde"
+        ],
+        "last_close": 355.4,
+        "price_change_pct": 1.94,
+        "volume_ratio": 1.13,
+        "extract_score": 6,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "NOC",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 733.71,
+        "price_change_pct": -0.35,
+        "volume_ratio": 0.57,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "OXY",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 57.88,
+        "price_change_pct": -0.91,
+        "volume_ratio": 0.57,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "VS",
+        "score": 6,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat güçlü pozitif",
+          "Hacim ortalamanın üstünde"
+        ],
+        "last_close": 1.07,
+        "price_change_pct": 10.31,
+        "volume_ratio": 1.27,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "U",
+        "score": 5,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 19.43,
+        "price_change_pct": 0.0,
+        "volume_ratio": 0.79,
+        "extract_score": 43,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "ADM",
+        "score": 5,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 71.98,
+        "price_change_pct": -0.72,
+        "volume_ratio": 0.76,
+        "extract_score": 11,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "ALL",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 206.17,
+        "price_change_pct": 0.56,
+        "volume_ratio": 0.62,
+        "extract_score": 7,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "CB",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 328.97,
+        "price_change_pct": 0.12,
+        "volume_ratio": 0.94,
+        "extract_score": 7,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "GD",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 351.52,
+        "price_change_pct": -1.04,
+        "volume_ratio": 0.88,
+        "extract_score": 7,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "LMT",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 646.0,
+        "price_change_pct": -1.05,
+        "volume_ratio": 0.68,
+        "extract_score": 7,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "AIG",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 76.74,
+        "price_change_pct": 0.34,
+        "volume_ratio": 0.61,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "FRO",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 30.18,
+        "price_change_pct": -1.92,
+        "volume_ratio": 0.86,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "INSW",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 65.91,
+        "price_change_pct": -1.24,
+        "volume_ratio": 0.45,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "TNK",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 63.39,
+        "price_change_pct": -2.43,
+        "volume_ratio": 0.97,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "AG",
+        "score": 4,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim normalin biraz üstünde"
+        ],
+        "last_close": 22.56,
+        "price_change_pct": -8.4,
+        "volume_ratio": 1.17,
+        "extract_score": 6,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "PGR",
+        "score": 4,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 205.17,
+        "price_change_pct": -0.0,
+        "volume_ratio": 0.86,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "CAT",
+        "score": 4,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 693.99,
+        "price_change_pct": -0.96,
+        "volume_ratio": 0.73,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "C",
+        "score": 4,
+        "reasons": [
+          "AI analizinde orta güçte çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 105.69,
+        "price_change_pct": 0.18,
+        "volume_ratio": 0.73,
+        "extract_score": 3,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "VIA",
+        "score": 4,
+        "reasons": [
+          "AI analizinde orta güçte çıktı",
+          "Fiyat zayıf",
+          "Hacim ortalamanın üstünde"
+        ],
+        "last_close": 16.68,
+        "price_change_pct": -7.02,
+        "volume_ratio": 1.27,
+        "extract_score": 3,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "MAIN",
+        "score": 4,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim normalin biraz üstünde"
+        ],
+        "last_close": 54.89,
+        "price_change_pct": 0.42,
+        "volume_ratio": 1.08,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "SM",
+        "score": 4,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat güçlü pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 26.79,
+        "price_change_pct": 5.14,
+        "volume_ratio": 0.74,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "PH",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 889.86,
+        "price_change_pct": -1.36,
+        "volume_ratio": 0.98,
+        "extract_score": 6,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "NTR",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 82.85,
+        "price_change_pct": -1.3,
+        "volume_ratio": 0.84,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "AS",
+        "score": 3,
+        "reasons": [
+          "AI analizinde orta güçte çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 32.34,
+        "price_change_pct": -0.03,
+        "volume_ratio": 0.72,
+        "extract_score": 3,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "INTO",
+        "score": 3,
+        "reasons": [
+          "AI analizinde orta güçte çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 0.2,
+        "price_change_pct": 0.0,
+        "volume_ratio": 0,
+        "extract_score": 3,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "HOPE",
+        "score": 3,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 10.8,
+        "price_change_pct": 0.37,
+        "volume_ratio": 0.81,
+        "extract_score": 2,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "BY",
+        "score": 3,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 30.5,
+        "price_change_pct": 0.03,
+        "volume_ratio": 0.78,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "SEE",
+        "score": 3,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 41.84,
+        "price_change_pct": 0.17,
+        "volume_ratio": 0.88,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "AGM",
+        "score": 2,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 151.55,
+        "price_change_pct": -0.01,
+        "volume_ratio": 0.79,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "CNC",
+        "score": 2,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 34.45,
+        "price_change_pct": -0.35,
+        "volume_ratio": 0.52,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "OR",
+        "score": 2,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim normalin biraz üstünde"
+        ],
+        "last_close": 40.33,
+        "price_change_pct": -4.09,
+        "volume_ratio": 1.16,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "TRIP",
+        "score": 2,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 9.24,
+        "price_change_pct": -0.96,
+        "volume_ratio": 0.96,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "AIR",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 101.91,
+        "price_change_pct": -1.8,
+        "volume_ratio": 0.9,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "HAS",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 93.4,
+        "price_change_pct": -1.8,
+        "volume_ratio": 0.86,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "RAIL",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 8.28,
+        "price_change_pct": -4.61,
+        "volume_ratio": 0.62,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "ZONE",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 0.34,
+        "price_change_pct": -1.16,
+        "volume_ratio": 0.42,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      }
+    ],
+    "telegram_summary": "📊 GÜNLÜK HİSSE ÖZETİ\n\n📌 HİSSE: S\n📌 Tema: Makro fırsat\n🎯 Güven: Yüksek\n🧠 Sebep: AI analizinde güçlü öne çıktı, fiyat momentumu güçlü, hacim güçlü\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %3 - %7\n\n📌 HİSSE: RTX\n📌 Tema: Makro fırsat\n🎯 Güven: Orta\n🧠 Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %2 - %5\n\n📌 HİSSE: CTRA\n📌 Tema: Makro fırsat\n🎯 Güven: Orta\n🧠 Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %2 - %5\n\n📌 HİSSE: DHT\n📌 Tema: Makro fırsat\n🎯 Güven: Orta\n🧠 Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %2 - %5\n\n📌 HİSSE: EOG\n📌 Tema: Makro fırsat\n🎯 Güven: Orta\n🧠 Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %2 - %5"
+  },
+  {
+    "id": "20260315101048",
+    "date": "2026-03-15 10:10:48",
+    "news": [
+      "Trump says U.S. bombed Kharg Island, striking core of Iran’s oil economy - The Washington Post",
+      "Big 12 Tournament: What Tommy Lloyd, Arizona players said after win over Iowa State - Arizona Desert Swarm",
+      "Veteran Army combat pilot mourned after shooting at Old Dominion University - The Washington Post",
+      "Ducks' Radko Gudas slapped with 5-game ban for kneeing Auston Matthews - ESPN",
+      "8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility - Politico",
+      "Team USA Baseball vs. Canada score: Live updates from World Baseball Classic quarterfinals - CBS Sports",
+      "Ground stop impacted airports, including BWI-Marshall | Here's why - WBAL-TV",
+      "NASA officials sidestepped questions on Artemis II risks—there’s a reason why - Ars Technica",
+      "The Iran war's looming economic threat: Higher food prices - NBC News",
+      "Hegseth vows thorough probe of school strike that Trump blamed on Iran - The Washington Post",
+      "Explosion shakes Tehran amid state-organised rally after Israeli warning - France 24",
+      "Subpoenas against Fed chair Powell tossed in a scathing opinion - Axios",
+      "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing - TechCrunch",
+      "Doja Cat reveals BPD diagnosis while defending Chappell Roan: 'Let her have an attitude' - Entertainment Weekly",
+      "Hubble and NASA space telescopes track 'game-changing' gamma-ray burst back to neutron star collision in 'forbidden' region of the universe - Space",
+      "Oscars Predictions via Feinberg Forecast: Scott’s Final Picks - The Hollywood Reporter"
+    ],
+    "event_candidates": {
+      "events": [
+        "middle east escalation",
+        "oil supply disruption",
+        "war escalation",
+        "freight disruption"
+      ],
+      "sectors": [
+        "energy",
+        "oil tanker",
+        "defense",
+        "natural gas",
+        "container shipping",
+        "logistics",
+        "freight",
+        "ports and marine"
+      ],
+      "tickers": [
+        "XOM",
+        "CVX",
+        "COP",
+        "SLB",
+        "HAL",
+        "EOG",
+        "OXY",
+        "FRO",
+        "TNK",
+        "DHT",
+        "INSW",
+        "LMT",
+        "RTX",
+        "NOC",
+        "LDOS",
+        "LHX",
+        "GD",
+        "HII",
+        "EQT",
+        "AR",
+        "RRC",
+        "LNG",
+        "CTRA",
+        "ZIM",
+        "MATX",
+        "DAC",
+        "FDX",
+        "UPS",
+        "EXPD",
+        "CHRW",
+        "HUBG",
+        "ODFL",
+        "SAIA",
+        "XPO",
+        "ARCB",
+        "KEX"
+      ]
+    },
+    "analysis": "# MACRO ANALYSIS: Iran-NATO Escalation Day 18—Kharg Island Strike; Iran Oil Economy Core Targeted; Food Price Inflation Signals Third-Order Demand Destruction\n\n---\n\n## SUMMARY OF MAIN EVENT:\n\n- **Trump administration strikes Kharg Island—Iran's primary crude oil export terminal and \"core of Iran's oil economy\"**: This escalates from merchant fleet targeting (Days 12-17) to direct infrastructure destruction of Iran's oil export capacity. Kharg Island handles ~90% of Iran's crude exports (~2.2M barrels/day). Strike represents shift from defensive posture (SPR release, Hormuz protection) to offensive supply-side destruction.\n\n- **Combined with sustained Hormuz logistics collapse (Days 12-17), global oil supply shock now has TWO active constraint mechanisms: (1) Iranian asymmetric warfare on merchant fleet; (2) U.S. kinetic destruction of Iranian export infrastructure**: 20% of global oil supply (4.4M barrels/day transiting Hormuz) + 2.2M barrels/day Iranian export capacity = potential 6.4M barrels/day supply loss (6-7% of global demand). Oil price trajectory now embedded in baseline scenario, not tail risk.\n\n- **NBC headline \"The Iran war's looming economic threat: Higher food prices\" signals third-order demand destruction entering mainstream awareness**: Food price inflation (driven by energy cost pass-through in agriculture, fertilizer, logistics) is now politically material enough for major news outlets. This confirms supply shock is translating through commodity complex into consumer-facing inflation—demand destruction cycle is accelerating.\n\n- **Explosion in Tehran during state-organized rally after Israeli warning signals escalation pace is accelerating and civilian morale/political stability may be degrading**: Combined with Kharg Island strike and sustained NATO kinetic operations, Iran's strategic position is rapidly deteriorating. This may signal shortened conflict window before either negotiation or systemic Iranian military/economic collapse.\n\n---\n\n## DIRECTLY AFFECTED INDUSTRIES:\n\n**Oil & Gas Upstream (Crude Producers)**\n- Why: Kharg Island strike + Hormuz logistics collapse removes 6-7% of global oil supply from market. Remaining producers face sustained high-price environment (WTI likely $110-140/bbl range). U.S. producers benefit from supply destruction without infrastructure risk (unlike Iran/Middle East).\n- Possible U.S. stocks: **OXY, CVX, XOM, COP, EOG, RRC, CTRA** (all benefit from sustained price premium; OXY + CVX have largest reserve bases and strongest cash generation at $100+ WTI)\n\n**Oil Tanker Operators (Shipping)**\n- Why: Kharg Island strike reduces Iranian export capacity dramatically, but increases risk premium on remaining Hormuz transits (Greek tankers, Thai cargo ships already targeted). Tanker rates (VLCC charter rates) will spike on scarcity + risk. FRO, DHT, TNK operate high-risk but high-margin routes.\n- Possible U.S. stocks: **FRO, DHT, TNK, INSW** (Day 14-17 memory confirms FRO, DAC scored highest; FRO is pure-play tanker with exposure to risk premium acceleration)\n\n**Grain & Agricultural Commodities (Food Price Pass-Through)**\n- Why: NBC headline confirms food price inflation is now third-order effect. Energy cost pass-through to fertilizer (ammonia, urea), diesel for harvest/transport, and grain storage will compress margins. This signals downstream demand destruction in consumer staples.\n- Possible U.S. stocks: **ADM, BG, MOS, NTR** (fertilizer exposed; ADM/BG exposed to margin compression from logistics cost inflation)\n\n**Defense Contracting (Kinetic Operations Acceleration)**\n- Why: Kharg Island strike + sustained NATO operations signal extended kinetic window. Defense spending will accelerate beyond Day 17's $11.3B/week baseline. Procurement cycle for air defense, cruise missiles, precision munitions will accelerate.\n- Possible U.S. stocks: **RTX, LMT, NOC, GD, HII** (RTX has largest missile/air defense franchise; LMT has Tomahawk/ATACMS exposure)\n\n---\n\n## SECOND-ORDER OPPORTUNITIES:\n\n**Cybersecurity & Defense IT (Electronic Warfare / Intelligence)**\n- Why it may benefit: Kharg Island strike required precision targeting, likely real-time satellite/ISR feed + electronic warfare coordination. Sustained kinetic ops will drive demand for cyber defense, ISR software, battle management systems. Iran likely escalating cyber retaliation (oil tanker targeting suggests targeting data + kinetic coordination).\n- Mechanism: Defense contractors (RTX, LMT, NOC) will accelerate procurement of ISR software, battle management platforms, and cyber defense. Specialized defense tech firms (PLTR, KTOS) will see accelerated contract wins for ISR data fusion and cyber hardening.\n- Possible U.S. stocks: **PLTR** (geospatial/ISR fusion), **KTOS** (defense autonomy), **RTX** (air defense integration), **LMT** (precision strike targeting)\n\n**Insurance & Reinsurance (War Risk / Marine Coverage)**\n- Why it may benefit: Kharg Island strike + sustained Hormuz attacks confirm war risk is now standard pricing factor for Middle East shipping. War risk premiums on tanker policies will spike. Marine insurers will reprice Hormuz/Persian Gulf coverage upward 300-500% or exit market, pushing rates to Lloyd's syndicates and specialty reinsurers.\n- Mechanism: Ship operators must pay 2-4% of hull value annually for Hormuz war risk (vs. 0.1-0.3% in normal times). Reinsurers who can stomach volatility capture margin expansion. Traditional insurers (ALL, TRV, CB) will likely reduce exposure; specialty reinsurers will benefit.\n- Possible U.S. stocks: **CB** (Chubb has significant marine/energy portfolio), **TRV** (Travelers has marine specialty division), **RLI** (specialty insurer—not in universe, skip), **PGR** (unlikely to have significant energy/marine exposure)\n\n**Industrial & Mining Equipment (Supply Chain Demand)**\n- Why it may benefit: Defense spending acceleration ($11.3B/week + Kharg strike) will drive procurement of industrial equipment for munitions production (explosives, metallurgy, precision machining). CAT, ETN will see accelerated orders for mining/metallurgical equipment to support metal supply chains for ammunition/defense.\n- Mechanism: Munitions production requires copper, steel, aluminum, tungsten. Mining/smelting operations will need heavy equipment leasing/sales. ETN (Eaton hydraulics, power management) will see OEM demand from munitions manufacturers.\n- Possible U.S. stocks: **CAT** (mining equipment, engine rebuilds), **ETN** (hydraulics, power distribution for manufacturing), **DE** (less relevant, agricultural focus)\n\n**Container Shipping (Demand Destruction from Food Price Inflation)**\n- Why it may benefit: Inverse relationship—food price inflation will reduce container volume (demand destruction in consumer staples). However, short-term rerouting around Suez (longer cape route) and increased port congestion may offset volume loss. Container lines (ZIM, MATX, DAC) will see rate pressure long-term as deflation signals, but near-term volatility.\n- Mechanism: Food inflation triggers consumer spending pullback → lower retail traffic → lower container demand. But Suez rerouting increases voyage length (15-20 days added), increasing ship utilization per container. Mixed signal; likely net negative as demand destruction dominates.\n- Possible U.S. stocks: **ZIM, MATX,",
+    "tickers": [
+      "S",
+      "U",
+      "HAS",
+      "FRO",
+      "LMT",
+      "RTX",
+      "FOR",
+      "AIR",
+      "ADM",
+      "BG",
+      "CVX",
+      "OXY",
+      "CB",
+      "COST",
+      "ETN",
+      "KTOS",
+      "PLTR",
+      "ALL",
+      "CAT",
+      "DAC",
+      "DHT",
+      "MATX",
+      "NOC",
+      "PGR",
+      "TNK",
+      "WTI",
+      "ZIM",
+      "CASH",
+      "COP",
+      "CTRA",
+      "DE",
+      "EOG",
+      "GD",
+      "HII",
+      "INSW",
+      "NOW",
+      "NTR",
+      "PLAY",
+      "PURE",
+      "RLI",
+      "RRC",
+      "XOM",
+      "SEE",
+      "AS",
+      "OR",
+      "SHIP",
+      "BE",
+      "BY",
+      "FEED",
+      "INTO",
+      "MAIN",
+      "NET",
+      "PAY",
+      "TECH",
+      "VS"
+    ],
+    "market_snapshots": [
+      {
+        "ticker": "S",
+        "last_close": 14.52,
+        "price_change_pct": 5.37,
+        "last_volume": 18168478,
+        "avg_volume_5d": 10943355,
+        "volume_ratio": 1.66
+      },
+      {
+        "ticker": "U",
+        "last_close": 19.43,
+        "price_change_pct": 0.0,
+        "last_volume": 10612713,
+        "avg_volume_5d": 13487042,
+        "volume_ratio": 0.79
+      },
+      {
+        "ticker": "HAS",
+        "last_close": 93.4,
+        "price_change_pct": -1.8,
+        "last_volume": 1351962,
+        "avg_volume_5d": 1564292,
+        "volume_ratio": 0.86
+      },
+      {
+        "ticker": "FRO",
+        "last_close": 30.18,
+        "price_change_pct": -1.92,
+        "last_volume": 4514606,
+        "avg_volume_5d": 5247561,
+        "volume_ratio": 0.86
+      },
+      {
+        "ticker": "LMT",
+        "last_close": 646.0,
+        "price_change_pct": -1.05,
+        "last_volume": 1069042,
+        "avg_volume_5d": 1573388,
+        "volume_ratio": 0.68
+      },
+      {
+        "ticker": "RTX",
+        "last_close": 204.52,
+        "price_change_pct": 0.73,
+        "last_volume": 4799811,
+        "avg_volume_5d": 5676782,
+        "volume_ratio": 0.85
+      },
+      {
+        "ticker": "FOR",
+        "last_close": 25.33,
+        "price_change_pct": 1.6,
+        "last_volume": 93984,
+        "avg_volume_5d": 131956,
+        "volume_ratio": 0.71
+      },
+      {
+        "ticker": "AIR",
+        "last_close": 101.91,
+        "price_change_pct": -1.8,
+        "last_volume": 351837,
+        "avg_volume_5d": 391107,
+        "volume_ratio": 0.9
+      },
+      {
+        "ticker": "ADM",
+        "last_close": 71.98,
+        "price_change_pct": -0.72,
+        "last_volume": 3630693,
+        "avg_volume_5d": 4758818,
+        "volume_ratio": 0.76
+      },
+      {
+        "ticker": "BG",
+        "last_close": 124.73,
+        "price_change_pct": -0.87,
+        "last_volume": 1796395,
+        "avg_volume_5d": 2602159,
+        "volume_ratio": 0.69
+      },
+      {
+        "ticker": "CVX",
+        "last_close": 196.82,
+        "price_change_pct": -0.08,
+        "last_volume": 10593636,
+        "avg_volume_5d": 15420847,
+        "volume_ratio": 0.69
+      },
+      {
+        "ticker": "OXY",
+        "last_close": 57.88,
+        "price_change_pct": -0.91,
+        "last_volume": 15137186,
+        "avg_volume_5d": 26667757,
+        "volume_ratio": 0.57
+      },
+      {
+        "ticker": "CB",
+        "last_close": 328.97,
+        "price_change_pct": 0.12,
+        "last_volume": 1669434,
+        "avg_volume_5d": 1776786,
+        "volume_ratio": 0.94
+      },
+      {
+        "ticker": "COST",
+        "last_close": 1008.43,
+        "price_change_pct": 0.51,
+        "last_volume": 1467989,
+        "avg_volume_5d": 1671857,
+        "volume_ratio": 0.88
+      },
+      {
+        "ticker": "ETN",
+        "last_close": 355.4,
+        "price_change_pct": 1.94,
+        "last_volume": 3581549,
+        "avg_volume_5d": 3174709,
+        "volume_ratio": 1.13
+      },
+      {
+        "ticker": "KTOS",
+        "last_close": 87.53,
+        "price_change_pct": -2.16,
+        "last_volume": 2746347,
+        "avg_volume_5d": 3438029,
+        "volume_ratio": 0.8
+      },
+      {
+        "ticker": "PLTR",
+        "last_close": 150.95,
+        "price_change_pct": -1.66,
+        "last_volume": 42212989,
+        "avg_volume_5d": 45130857,
+        "volume_ratio": 0.94
+      },
+      {
+        "ticker": "ALL",
+        "last_close": 206.17,
+        "price_change_pct": 0.56,
+        "last_volume": 747313,
+        "avg_volume_5d": 1208722,
+        "volume_ratio": 0.62
+      },
+      {
+        "ticker": "CAT",
+        "last_close": 693.99,
+        "price_change_pct": -0.96,
+        "last_volume": 2040681,
+        "avg_volume_5d": 2778696,
+        "volume_ratio": 0.73
+      },
+      {
+        "ticker": "DAC",
+        "last_close": 107.03,
+        "price_change_pct": -1.76,
+        "last_volume": 75642,
+        "avg_volume_5d": 84348,
+        "volume_ratio": 0.9
+      },
+      {
+        "ticker": "DHT",
+        "last_close": 16.85,
+        "price_change_pct": 0.06,
+        "last_volume": 5189445,
+        "avg_volume_5d": 7063009,
+        "volume_ratio": 0.73
+      },
+      {
+        "ticker": "MATX",
+        "last_close": 149.74,
+        "price_change_pct": 0.34,
+        "last_volume": 235870,
+        "avg_volume_5d": 350574,
+        "volume_ratio": 0.67
+      },
+      {
+        "ticker": "NOC",
+        "last_close": 733.71,
+        "price_change_pct": -0.35,
+        "last_volume": 376799,
+        "avg_volume_5d": 660919,
+        "volume_ratio": 0.57
+      },
+      {
+        "ticker": "PGR",
+        "last_close": 205.17,
+        "price_change_pct": -0.0,
+        "last_volume": 2552776,
+        "avg_volume_5d": 2967895,
+        "volume_ratio": 0.86
+      },
+      {
+        "ticker": "TNK",
+        "last_close": 63.39,
+        "price_change_pct": -2.43,
+        "last_volume": 520289,
+        "avg_volume_5d": 536037,
+        "volume_ratio": 0.97
+      },
+      {
+        "ticker": "WTI",
+        "last_close": 3.37,
+        "price_change_pct": -2.6,
+        "last_volume": 11857346,
+        "avg_volume_5d": 17423829,
+        "volume_ratio": 0.68
+      },
+      {
+        "ticker": "ZIM",
+        "last_close": 26.99,
+        "price_change_pct": -0.77,
+        "last_volume": 1713617,
+        "avg_volume_5d": 2415203,
+        "volume_ratio": 0.71
+      },
+      {
+        "ticker": "CASH",
+        "last_close": 91.17,
+        "price_change_pct": 1.51,
+        "last_volume": 172158,
+        "avg_volume_5d": 235431,
+        "volume_ratio": 0.73
+      },
+      {
+        "ticker": "COP",
+        "last_close": 121.89,
+        "price_change_pct": 1.36,
+        "last_volume": 10871870,
+        "avg_volume_5d": 12154734,
+        "volume_ratio": 0.89
+      },
+      {
+        "ticker": "CTRA",
+        "last_close": 32.15,
+        "price_change_pct": 0.53,
+        "last_volume": 10741917,
+        "avg_volume_5d": 16151803,
+        "volume_ratio": 0.67
+      },
+      {
+        "ticker": "DE",
+        "last_close": 577.5,
+        "price_change_pct": -1.42,
+        "last_volume": 1228436,
+        "avg_volume_5d": 1288327,
+        "volume_ratio": 0.95
+      },
+      {
+        "ticker": "EOG",
+        "last_close": 133.6,
+        "price_change_pct": 0.42,
+        "last_volume": 4132213,
+        "avg_volume_5d": 5928942,
+        "volume_ratio": 0.7
+      },
+      {
+        "ticker": "GD",
+        "last_close": 351.52,
+        "price_change_pct": -1.04,
+        "last_volume": 985389,
+        "avg_volume_5d": 1124497,
+        "volume_ratio": 0.88
+      },
+      {
+        "ticker": "HII",
+        "last_close": 415.71,
+        "price_change_pct": 0.28,
+        "last_volume": 287920,
+        "avg_volume_5d": 370904,
+        "volume_ratio": 0.78
+      },
+      {
+        "ticker": "INSW",
+        "last_close": 65.91,
+        "price_change_pct": -1.24,
+        "last_volume": 364985,
+        "avg_volume_5d": 820177,
+        "volume_ratio": 0.45
+      },
+      {
+        "ticker": "NOW",
+        "last_close": 113.62,
+        "price_change_pct": 0.58,
+        "last_volume": 14828717,
+        "avg_volume_5d": 17998603,
+        "volume_ratio": 0.82
+      },
+      {
+        "ticker": "NTR",
+        "last_close": 82.85,
+        "price_change_pct": -1.3,
+        "last_volume": 5534154,
+        "avg_volume_5d": 6609050,
+        "volume_ratio": 0.84
+      },
+      {
+        "ticker": "PLAY",
+        "last_close": 12.94,
+        "price_change_pct": -0.23,
+        "last_volume": 1210419,
+        "avg_volume_5d": 1243643,
+        "volume_ratio": 0.97
+      },
+      {
+        "ticker": "PURE",
+        "last_close": 0.08,
+        "price_change_pct": 14.29,
+        "last_volume": 65335,
+        "avg_volume_5d": 25907,
+        "volume_ratio": 2.52
+      },
+      {
+        "ticker": "RLI",
+        "last_close": 61.83,
+        "price_change_pct": -0.26,
+        "last_volume": 714563,
+        "avg_volume_5d": 779232,
+        "volume_ratio": 0.92
+      },
+      {
+        "ticker": "RRC",
+        "last_close": 43.51,
+        "price_change_pct": 1.71,
+        "last_volume": 2710612,
+        "avg_volume_5d": 3513442,
+        "volume_ratio": 0.77
+      },
+      {
+        "ticker": "XOM",
+        "last_close": 156.12,
+        "price_change_pct": 1.69,
+        "last_volume": 17491781,
+        "avg_volume_5d": 20798696,
+        "volume_ratio": 0.84
+      },
+      {
+        "ticker": "SEE",
+        "last_close": 41.84,
+        "price_change_pct": 0.17,
+        "last_volume": 1997600,
+        "avg_volume_5d": 2279360,
+        "volume_ratio": 0.88
+      },
+      {
+        "ticker": "AS",
+        "last_close": 32.34,
+        "price_change_pct": -0.03,
+        "last_volume": 3709640,
+        "avg_volume_5d": 5142468,
+        "volume_ratio": 0.72
+      },
+      {
+        "ticker": "OR",
+        "last_close": 40.33,
+        "price_change_pct": -4.09,
+        "last_volume": 1421486,
+        "avg_volume_5d": 1227897,
+        "volume_ratio": 1.16
+      },
+      {
+        "ticker": "SHIP",
+        "last_close": 12.18,
+        "price_change_pct": -3.94,
+        "last_volume": 266211,
+        "avg_volume_5d": 312222,
+        "volume_ratio": 0.85
+      },
+      {
+        "ticker": "BE",
+        "last_close": 154.51,
+        "price_change_pct": -1.69,
+        "last_volume": 6559894,
+        "avg_volume_5d": 9777558,
+        "volume_ratio": 0.67
+      },
+      {
+        "ticker": "BY",
+        "last_close": 30.5,
+        "price_change_pct": 0.03,
+        "last_volume": 141340,
+        "avg_volume_5d": 182008,
+        "volume_ratio": 0.78
+      },
+      {
+        "ticker": "FEED",
+        "last_close": 1.81,
+        "price_change_pct": -3.72,
+        "last_volume": 53135,
+        "avg_volume_5d": 100107,
+        "volume_ratio": 0.53
+      },
+      {
+        "ticker": "INTO",
+        "last_close": 0.2,
+        "price_change_pct": 0.0,
+        "last_volume": 0,
+        "avg_volume_5d": 0,
+        "volume_ratio": 0
+      },
+      {
+        "ticker": "MAIN",
+        "last_close": 54.89,
+        "price_change_pct": 0.42,
+        "last_volume": 1008295,
+        "avg_volume_5d": 931199,
+        "volume_ratio": 1.08
+      },
+      {
+        "ticker": "NET",
+        "last_close": 212.45,
+        "price_change_pct": 0.16,
+        "last_volume": 2297292,
+        "avg_volume_5d": 3545898,
+        "volume_ratio": 0.65
+      },
+      {
+        "ticker": "PAY",
+        "last_close": 24.39,
+        "price_change_pct": 1.12,
+        "last_volume": 666629,
+        "avg_volume_5d": 622525,
+        "volume_ratio": 1.07
+      },
+      {
+        "ticker": "TECH",
+        "last_close": 50.85,
+        "price_change_pct": -1.2,
+        "last_volume": 2422513,
+        "avg_volume_5d": 2714302,
+        "volume_ratio": 0.89
+      },
+      {
+        "ticker": "VS",
+        "last_close": 1.07,
+        "price_change_pct": 10.31,
+        "last_volume": 23747,
+        "avg_volume_5d": 18769,
+        "volume_ratio": 1.27
+      }
+    ],
+    "scored_stocks": [
+      {
+        "ticker": "S",
+        "score": 10,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat güçlü pozitif",
+          "Hacim güçlü şekilde ortalamanın üstünde"
+        ],
+        "last_close": 14.52,
+        "price_change_pct": 5.37,
+        "volume_ratio": 1.66,
+        "extract_score": 54,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "PURE",
+        "score": 9,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat güçlü pozitif",
+          "Hacim güçlü şekilde ortalamanın üstünde"
+        ],
+        "last_close": 0.08,
+        "price_change_pct": 14.29,
+        "volume_ratio": 2.52,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "RTX",
+        "score": 8,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 204.52,
+        "price_change_pct": 0.73,
+        "volume_ratio": 0.85,
+        "extract_score": 16,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "CVX",
+        "score": 7,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 196.82,
+        "price_change_pct": -0.08,
+        "volume_ratio": 0.69,
+        "extract_score": 10,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "OXY",
+        "score": 7,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 57.88,
+        "price_change_pct": -0.91,
+        "volume_ratio": 0.57,
+        "extract_score": 10,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "DHT",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 16.85,
+        "price_change_pct": 0.06,
+        "volume_ratio": 0.73,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "MATX",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 149.74,
+        "price_change_pct": 0.34,
+        "volume_ratio": 0.67,
+        "extract_score": 6,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "COP",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 121.89,
+        "price_change_pct": 1.36,
+        "volume_ratio": 0.89,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "CTRA",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 32.15,
+        "price_change_pct": 0.53,
+        "volume_ratio": 0.67,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "EOG",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 133.6,
+        "price_change_pct": 0.42,
+        "volume_ratio": 0.7,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "HII",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 415.71,
+        "price_change_pct": 0.28,
+        "volume_ratio": 0.78,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "RRC",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 43.51,
+        "price_change_pct": 1.71,
+        "volume_ratio": 0.77,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "XOM",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 156.12,
+        "price_change_pct": 1.69,
+        "volume_ratio": 0.84,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "FRO",
+        "score": 6,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 30.18,
+        "price_change_pct": -1.92,
+        "volume_ratio": 0.86,
+        "extract_score": 16,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "LMT",
+        "score": 6,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 646.0,
+        "price_change_pct": -1.05,
+        "volume_ratio": 0.68,
+        "extract_score": 16,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "FOR",
+        "score": 6,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 25.33,
+        "price_change_pct": 1.6,
+        "volume_ratio": 0.71,
+        "extract_score": 15,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "ETN",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim normalin biraz üstünde"
+        ],
+        "last_close": 355.4,
+        "price_change_pct": 1.94,
+        "volume_ratio": 1.13,
+        "extract_score": 7,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "NOC",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 733.71,
+        "price_change_pct": -0.35,
+        "volume_ratio": 0.57,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "ZIM",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 26.99,
+        "price_change_pct": -0.77,
+        "volume_ratio": 0.71,
+        "extract_score": 6,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "VS",
+        "score": 6,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat güçlü pozitif",
+          "Hacim ortalamanın üstünde"
+        ],
+        "last_close": 1.07,
+        "price_change_pct": 10.31,
+        "volume_ratio": 1.27,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "U",
+        "score": 5,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 19.43,
+        "price_change_pct": 0.0,
+        "volume_ratio": 0.79,
+        "extract_score": 42,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "ADM",
+        "score": 5,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 71.98,
+        "price_change_pct": -0.72,
+        "volume_ratio": 0.76,
+        "extract_score": 10,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "BG",
+        "score": 5,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 124.73,
+        "price_change_pct": -0.87,
+        "volume_ratio": 0.69,
+        "extract_score": 10,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "CB",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 328.97,
+        "price_change_pct": 0.12,
+        "volume_ratio": 0.94,
+        "extract_score": 7,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "COST",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 1008.43,
+        "price_change_pct": 0.51,
+        "volume_ratio": 0.88,
+        "extract_score": 7,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "ALL",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 206.17,
+        "price_change_pct": 0.56,
+        "volume_ratio": 0.62,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "DAC",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 107.03,
+        "price_change_pct": -1.76,
+        "volume_ratio": 0.9,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "TNK",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 63.39,
+        "price_change_pct": -2.43,
+        "volume_ratio": 0.97,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "CASH",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 91.17,
+        "price_change_pct": 1.51,
+        "volume_ratio": 0.73,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "GD",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 351.52,
+        "price_change_pct": -1.04,
+        "volume_ratio": 0.88,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "INSW",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 65.91,
+        "price_change_pct": -1.24,
+        "volume_ratio": 0.45,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "NOW",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 113.62,
+        "price_change_pct": 0.58,
+        "volume_ratio": 0.82,
+        "extract_score": 5,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "HAS",
+        "score": 4,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 93.4,
+        "price_change_pct": -1.8,
+        "volume_ratio": 0.86,
+        "extract_score": 21,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "AIR",
+        "score": 4,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 101.91,
+        "price_change_pct": -1.8,
+        "volume_ratio": 0.9,
+        "extract_score": 11,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "CAT",
+        "score": 4,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 693.99,
+        "price_change_pct": -0.96,
+        "volume_ratio": 0.73,
+        "extract_score": 6,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "PGR",
+        "score": 4,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 205.17,
+        "price_change_pct": -0.0,
+        "volume_ratio": 0.86,
+        "extract_score": 6,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "PLAY",
+        "score": 4,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 12.94,
+        "price_change_pct": -0.23,
+        "volume_ratio": 0.97,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "RLI",
+        "score": 4,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 61.83,
+        "price_change_pct": -0.26,
+        "volume_ratio": 0.92,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "SEE",
+        "score": 4,
+        "reasons": [
+          "AI analizinde orta güçte çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 41.84,
+        "price_change_pct": 0.17,
+        "volume_ratio": 0.88,
+        "extract_score": 4,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "MAIN",
+        "score": 4,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim normalin biraz üstünde"
+        ],
+        "last_close": 54.89,
+        "price_change_pct": 0.42,
+        "volume_ratio": 1.08,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "PAY",
+        "score": 4,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim normalin biraz üstünde"
+        ],
+        "last_close": 24.39,
+        "price_change_pct": 1.12,
+        "volume_ratio": 1.07,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "KTOS",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 87.53,
+        "price_change_pct": -2.16,
+        "volume_ratio": 0.8,
+        "extract_score": 7,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "PLTR",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 150.95,
+        "price_change_pct": -1.66,
+        "volume_ratio": 0.94,
+        "extract_score": 7,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "WTI",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 3.37,
+        "price_change_pct": -2.6,
+        "volume_ratio": 0.68,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "DE",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 577.5,
+        "price_change_pct": -1.42,
+        "volume_ratio": 0.95,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "NTR",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 82.85,
+        "price_change_pct": -1.3,
+        "volume_ratio": 0.84,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "BY",
+        "score": 3,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 30.5,
+        "price_change_pct": 0.03,
+        "volume_ratio": 0.78,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "NET",
+        "score": 3,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 212.45,
+        "price_change_pct": 0.16,
+        "volume_ratio": 0.65,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "AS",
+        "score": 2,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 32.34,
+        "price_change_pct": -0.03,
+        "volume_ratio": 0.72,
+        "extract_score": 2,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "OR",
+        "score": 2,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim normalin biraz üstünde"
+        ],
+        "last_close": 40.33,
+        "price_change_pct": -4.09,
+        "volume_ratio": 1.16,
+        "extract_score": 2,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "INTO",
+        "score": 2,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 0.2,
+        "price_change_pct": 0.0,
+        "volume_ratio": 0,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "SHIP",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 12.18,
+        "price_change_pct": -3.94,
+        "volume_ratio": 0.85,
+        "extract_score": 2,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "BE",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 154.51,
+        "price_change_pct": -1.69,
+        "volume_ratio": 0.67,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "FEED",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 1.81,
+        "price_change_pct": -3.72,
+        "volume_ratio": 0.53,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "TECH",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 50.85,
+        "price_change_pct": -1.2,
+        "volume_ratio": 0.89,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      }
+    ],
+    "ai_reasoned_stocks": [
+      {
+        "ticker": "S",
+        "theme": "Makro fırsat",
+        "confidence": "Yüksek",
+        "reason": "AI analizinde güçlü öne çıktı, fiyat momentumu güçlü, hacim güçlü",
+        "expectation": "Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.",
+        "move_range": "%3 - %7"
+      },
+      {
+        "ticker": "PURE",
+        "theme": "Makro fırsat",
+        "confidence": "Orta",
+        "reason": "AI analizinde destek buldu, fiyat momentumu güçlü, hacim güçlü",
+        "expectation": "Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.",
+        "move_range": "%2 - %5"
+      },
+      {
+        "ticker": "RTX",
+        "theme": "Makro fırsat",
+        "confidence": "Yüksek",
+        "reason": "makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı, fiyat pozitif",
+        "expectation": "Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.",
+        "move_range": "%3 - %7"
+      },
+      {
+        "ticker": "CVX",
+        "theme": "Makro fırsat",
+        "confidence": "Yüksek",
+        "reason": "makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı",
+        "expectation": "Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.",
+        "move_range": "%3 - %7"
+      },
+      {
+        "ticker": "OXY",
+        "theme": "Makro fırsat",
+        "confidence": "Yüksek",
+        "reason": "makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı",
+        "expectation": "Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.",
+        "move_range": "%3 - %7"
+      }
+    ],
+    "telegram_summary": "📊 GÜNLÜK HİSSE ÖZETİ\n\n📌 HİSSE: S\n📌 Tema: Makro fırsat\n🎯 Güven: Yüksek\n🧠 Sebep: AI analizinde güçlü öne çıktı, fiyat momentumu güçlü, hacim güçlü\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %3 - %7\n\n📌 HİSSE: PURE\n📌 Tema: Makro fırsat\n🎯 Güven: Orta\n🧠 Sebep: AI analizinde destek buldu, fiyat momentumu güçlü, hacim güçlü\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %2 - %5\n\n📌 HİSSE: RTX\n📌 Tema: Makro fırsat\n🎯 Güven: Yüksek\n🧠 Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı, fiyat pozitif\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %3 - %7\n\n📌 HİSSE: CVX\n📌 Tema: Makro fırsat\n🎯 Güven: Yüksek\n🧠 Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %3 - %7\n\n📌 HİSSE: OXY\n📌 Tema: Makro fırsat\n🎯 Güven: Yüksek\n🧠 Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %3 - %7",
+    "report_filename": "daily_report_2026-03-15_10-10-48.txt",
+    "report_text": "GÜNLÜK MACRO STOCK RAPORU\nTarih: 2026-03-15 10:10\n============================================================\n\n1) GÜNÜN HABER BAŞLIKLARI\n- Trump says U.S. bombed Kharg Island, striking core of Iran’s oil economy - The Washington Post\n- Big 12 Tournament: What Tommy Lloyd, Arizona players said after win over Iowa State - Arizona Desert Swarm\n- Veteran Army combat pilot mourned after shooting at Old Dominion University - The Washington Post\n- Ducks' Radko Gudas slapped with 5-game ban for kneeing Auston Matthews - ESPN\n- 8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility - Politico\n- Team USA Baseball vs. Canada score: Live updates from World Baseball Classic quarterfinals - CBS Sports\n- Ground stop impacted airports, including BWI-Marshall | Here's why - WBAL-TV\n- NASA officials sidestepped questions on Artemis II risks—there’s a reason why - Ars Technica\n- The Iran war's looming economic threat: Higher food prices - NBC News\n- Hegseth vows thorough probe of school strike that Trump blamed on Iran - The Washington Post\n\n2) AI MAKRO ANALİZİ\n# MACRO ANALYSIS: Iran-NATO Escalation Day 18—Kharg Island Strike; Iran Oil Economy Core Targeted; Food Price Inflation Signals Third-Order Demand Destruction\n\n---\n\n## SUMMARY OF MAIN EVENT:\n\n- **Trump administration strikes Kharg Island—Iran's primary crude oil export terminal and \"core of Iran's oil economy\"**: This escalates from merchant fleet targeting (Days 12-17) to direct infrastructure destruction of Iran's oil export capacity. Kharg Island handles ~90% of Iran's crude exports (~2.2M barrels/day). Strike represents shift from defensive posture (SPR release, Hormuz protection) to offensive supply-side destruction.\n\n- **Combined with sustained Hormuz logistics collapse (Days 12-17), global oil supply shock now has TWO active constraint mechanisms: (1) Iranian asymmetric warfare on merchant fleet; (2) U.S. kinetic destruction of Iranian export infrastructure**: 20% of global oil supply (4.4M barrels/day transiting Hormuz) + 2.2M barrels/day Iranian export capacity = potential 6.4M barrels/day supply loss (6-7% of global demand). Oil price trajectory now embedded in baseline scenario, not tail risk.\n\n- **NBC headline \"The Iran war's looming economic threat: Higher food prices\" signals third-order demand destruction entering mainstream awareness**: Food price inflation (driven by energy cost pass-through in agriculture, fertilizer, logistics) is now politically material enough for major news outlets. This confirms supply shock is translating through commodity complex into consumer-facing inflation—demand destruction cycle is accelerating.\n\n- **Explosion in Tehran during state-organized rally after Israeli warning signals escalation pace is accelerating and civilian morale/political stability may be degrading**: Combined with Kharg Island strike and sustained NATO kinetic operations, Iran's strategic position is rapidly deteriorating. This may signal shortened conflict window before either negotiation or systemic Iranian military/economic collapse.\n\n---\n\n## DIRECTLY AFFECTED INDUSTRIES:\n\n**Oil & Gas Upstream (Crude Producers)**\n- Why: Kharg Island strike + Hormuz logistics collapse removes 6-7% of global oil supply from market. Remaining producers face sustained high-price environment (WTI likely $110-140/bbl range). U.S. producers benefit from supply destruction without infrastructure risk (unlike Iran/Middle East).\n- Possible U.S. stocks: **OXY, CVX, XOM, COP, EOG, RRC, CTRA** (all benefit from sustained price premium; OXY + CVX have largest reserve bases and strongest cash generation at $100+ WTI)\n\n**Oil Tanker Operators (Shipping)**\n- Why: Kharg Island strike reduces Iranian export capacity dramatically, but increases risk premium on remaining Hormuz transits (Greek tankers, Thai cargo ships already targeted). Tanker rates (VLCC charter rates) will spike on scarcity + risk. FRO, DHT, TNK operate high-risk but high-margin routes.\n- Possible U.S. stocks: **FRO, DHT, TNK, INSW** (Day 14-17 memory confirms FRO, DAC scored highest; FRO is pure-play tanker with exposure to risk premium acceleration)\n\n**Grain & Agricultural Commodities (Food Price Pass-Through)**\n- Why: NBC headline confirms food price inflation is now third-order effect. Energy cost pass-through to fertilizer (ammonia, urea), diesel for harvest/transport, and grain storage will compress margins. This signals downstream demand destruction in consumer staples.\n- Possible U.S. stocks: **ADM, BG, MOS, NTR** (fertilizer exposed; ADM/BG exposed to margin compression from logistics cost inflation)\n\n**Defense Contracting (Kinetic Operations Acceleration)**\n- Why: Kharg Island strike + sustained NATO operations signal extended kinetic window. Defense spending will accelerate beyond Day 17's $11.3B/week baseline. Procurement cycle for air defense, cruise missiles, precision munitions will accelerate.\n- Possible U.S. stocks: **RTX, LMT, NOC, GD, HII** (RTX has largest missile/air defense franchise; LMT has Tomahawk/ATACMS exposure)\n\n---\n\n## SECOND-ORDER OPPORTUNITIES:\n\n**Cybersecurity & Defense IT (Electronic Warfare / Intelligence)**\n- Why it may benefit: Kharg Island strike required precision targeting, likely real-time satellite/ISR feed + electronic warfare coordination. Sustained kinetic ops will drive demand for cyber defense, ISR software, battle management systems. Iran likely escalating cyber retaliation (oil tanker targeting suggests targeting data + kinetic coordination).\n- Mechanism: Defense contractors (RTX, LMT, NOC) will accelerate procurement of ISR software, battle management platforms, and cyber defense. Specialized defense tech firms (PLTR, KTOS) will see accelerated contract wins for ISR data fusion and cyber hardening.\n- Possible U.S. stocks: **PLTR** (geospatial/ISR fusion), **KTOS** (defense autonomy), **RTX** (air defense integration), **LMT** (precision strike targeting)\n\n**Insurance & Reinsurance (War Risk / Marine Coverage)**\n- Why it may benefit: Kharg Island strike + sustained Hormuz attacks confirm war risk is now standard pricing factor for Middle East shipping. War risk premiums on tanker policies will spike. Marine insurers will reprice Hormuz/Persian Gulf coverage upward 300-500% or exit market, pushing rates to Lloyd's syndicates and specialty reinsurers.\n- Mechanism: Ship operators must pay 2-4% of hull value annually for Hormuz war risk (vs. 0.1-0.3% in normal times). Reinsurers who can stomach volatility capture margin expansion. Traditional insurers (ALL, TRV, CB) will likely reduce exposure; specialty reinsurers will benefit.\n- Possible U.S. stocks: **CB** (Chubb has significant marine/energy portfolio), **TRV** (Travelers has marine specialty division), **RLI** (specialty insurer—not in universe, skip), **PGR** (unlikely to have significant energy/marine exposure)\n\n**Industrial & Mining Equipment (Supply Chain Demand)**\n- Why it may benefit: Defense spending acceleration ($11.3B/week + Kharg strike) will drive procurement of industrial equipment for munitions production (explosives, metallurgy, precision machining). CAT, ETN will see accelerated orders for mining/metallurgical equipment to support metal supply chains for ammunition/defense.\n- Mechanism: Munitions production requires copper, steel, aluminum, tungsten. Mining/smelting operations will need heavy equipment leasing/sales. ETN (Eaton hydraulics, power management) will see OEM demand from munitions manufacturers.\n- Possible U.S. stocks: **CAT** (mining equipment, engine rebuilds), **ETN** (hydraulics, power distribution for manufacturing), **DE** (less relevant, agricultural focus)\n\n**Container Shipping (Demand Destruction from Food Price Inflation)**\n- Why it may benefit: Inverse relationship—food price inflation will reduce container volume (demand destruction in consumer staples). However, short-term rerouting around Suez (longer cape route) and increased port congestion may offset volume loss. Container lines (ZIM, MATX, DAC) will see rate pressure long-term as deflation signals, but near-term volatility.\n- Mechanism: Food inflation triggers consumer spending pullback → lower retail traffic → lower container demand. But Suez rerouting increases voyage length (15-20 days added), increasing ship utilization per container. Mixed signal; likely net negative as demand destruction dominates.\n- Possible U.S. stocks: **ZIM, MATX,\n\n3) SEÇİLEN HİSSELER İÇİN AI DESTEKLİ ÖZEL GEREKÇELER\n1. HİSSE: S\n   Tema: Makro fırsat\n   Güven: Yüksek\n   Sebep: AI analizinde güçlü öne çıktı, fiyat momentumu güçlü, hacim güçlü\n   Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   Tahmini hareket: %3 - %7\n--------------------------------------------------\n2. HİSSE: PURE\n   Tema: Makro fırsat\n   Güven: Orta\n   Sebep: AI analizinde destek buldu, fiyat momentumu güçlü, hacim güçlü\n   Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   Tahmini hareket: %2 - %5\n--------------------------------------------------\n3. HİSSE: RTX\n   Tema: Makro fırsat\n   Güven: Yüksek\n   Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı, fiyat pozitif\n   Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   Tahmini hareket: %3 - %7\n--------------------------------------------------\n4. HİSSE: CVX\n   Tema: Makro fırsat\n   Güven: Yüksek\n   Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı\n   Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   Tahmini hareket: %3 - %7\n--------------------------------------------------\n5. HİSSE: OXY\n   Tema: Makro fırsat\n   Güven: Yüksek\n   Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı\n   Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   Tahmini hareket: %3 - %7\n--------------------------------------------------\n\n4) EN YÜKSEK SKORLU HİSSELER\n1. S | Skor: 10 | Fiyat: 14.52 | Günlük %: 5.37 | Hacim oranı: 1.66 | Event destek: False\n   Skor nedenleri: AI analizinde çok güçlü çıktı, Fiyat güçlü pozitif, Hacim güçlü şekilde ortalamanın üstünde\n   Extractor nedenleri: DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti, SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti, Sektör bağlamı ile desteklendi, Serbest metinde geçti\n   AI tema: Makro fırsat\n   AI sebep: AI analizinde güçlü öne çıktı, fiyat momentumu güçlü, hacim güçlü\n   AI beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   AI hareket: %3 - %7\n--------------------------------------------------\n2. PURE | Skor: 9 | Fiyat: 0.08 | Günlük %: 14.29 | Hacim oranı: 2.52 | Event destek: False\n   Skor nedenleri: AI analizinde güçlü çıktı, Fiyat güçlü pozitif, Hacim güçlü şekilde ortalamanın üstünde\n   Extractor nedenleri: DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti, Serbest metinde geçti\n   AI tema: Makro fırsat\n   AI sebep: AI analizinde destek buldu, fiyat momentumu güçlü, hacim güçlü\n   AI beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   AI hareket: %2 - %5\n--------------------------------------------------\n3. RTX | Skor: 8 | Fiyat: 204.52 | Günlük %: 0.73 | Hacim oranı: 0.85 | Event destek: True\n   Skor nedenleri: AI analizinde çok güçlü çıktı, Event zinciri tarafından destekleniyor, Fiyat pozitif, Hacim zayıf\n   Extractor nedenleri: DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti, SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti, Serbest metinde geçti\n   AI tema: Makro fırsat\n   AI sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı, fiyat pozitif\n   AI beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   AI hareket: %3 - %7\n--------------------------------------------------\n4. CVX | Skor: 7 | Fiyat: 196.82 | Günlük %: -0.08 | Hacim oranı: 0.69 | Event destek: True\n   Skor nedenleri: AI analizinde çok güçlü çıktı, Event zinciri tarafından destekleniyor, Fiyat çok zayıf değil, Hacim zayıf\n   Extractor nedenleri: DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti, Serbest metinde geçti\n   AI tema: Makro fırsat\n   AI sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı\n   AI beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   AI hareket: %3 - %7\n--------------------------------------------------\n5. OXY | Skor: 7 | Fiyat: 57.88 | Günlük %: -0.91 | Hacim oranı: 0.57 | Event destek: True\n   Skor nedenleri: AI analizinde çok güçlü çıktı, Event zinciri tarafından destekleniyor, Fiyat çok zayıf değil, Hacim zayıf\n   Extractor nedenleri: DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti, Serbest metinde geçti\n   AI tema: Makro fırsat\n   AI sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı\n   AI beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   AI hareket: %3 - %7\n--------------------------------------------------"
+  },
+  {
+    "id": "20260313224551",
+    "date": "2026-03-13 22:45:51",
+    "news": [
+      "Suspect in Detroit-area synagogue attack is killed by security, sources say - CBS News",
+      "What on earth is going on with the oil price? - BBC",
+      "Live updates: Oil sees historic disruptions as Iran escalates attacks on shipping - CNN",
+      "2 injured, gunman dead in shooting at Old Dominion University, school says - Yahoo News UK",
+      "Saudi Aramco in Talks to Buy Ukrainian Drones to Protect Oil Fields - WSJ",
+      "US Spent $11.3 Billion in First Week of War With Iran - Bloomberg",
+      "Iran war is the largest oil supply disruption in history, report finds - Politico",
+      "Tracking 31 NCAA men's basketball conference tournaments, auto bids for 2026 March Madness - NCAA.com",
+      "We study pandemics, and the resurgence of measles is a grim sign of what’s coming - Ars Technica",
+      "Anne Thompson’s Final Oscar Predictions in 24 Categories - IndieWire",
+      "Raiders are telling teams Maxx Crosby won’t be traded - NBC Sports",
+      "Chilean Smiljan Radić Clarke wins architecture's highest honor - NPR",
+      "Two-time major champion Collin Morikawa withdraws from The Players Championship after one hole - AP News",
+      "Google Maps gets its biggest navigation redesign in a decade, plus more AI - Ars Technica",
+      "Capitol agenda: House revolt ahead for housing bill - Politico",
+      "3I/ATLAS is Fading Away, Leaving Us to Ponder Over Its 22 Mysterious Anomalies - Avi Loeb – Medium",
+      "Nasa spacecraft weighing 1,300lb due to re-enter Earth's atmosphere - BBC",
+      "TSA temporarily closes Terminal C security checkpoint at Philadelphia International Airport - 6abc Philadelphia",
+      "Ukraine showed NATO artillery crews how to use drones. Now they're figuring out how to make them work in the Arctic. - Business Insider"
+    ],
+    "event_candidates": {
+      "events": [
+        "middle east escalation",
+        "oil supply disruption",
+        "war escalation",
+        "freight disruption"
+      ],
+      "sectors": [
+        "energy",
+        "oil tanker",
+        "defense",
+        "natural gas",
+        "container shipping",
+        "logistics",
+        "freight",
+        "ports and marine"
+      ],
+      "tickers": [
+        "XOM",
+        "CVX",
+        "COP",
+        "SLB",
+        "HAL",
+        "EOG",
+        "OXY",
+        "FRO",
+        "TNK",
+        "DHT",
+        "INSW",
+        "LMT",
+        "RTX",
+        "NOC",
+        "LDOS",
+        "LHX",
+        "GD",
+        "HII",
+        "EQT",
+        "AR",
+        "RRC",
+        "LNG",
+        "CTRA",
+        "ZIM",
+        "MATX",
+        "DAC",
+        "FDX",
+        "UPS",
+        "EXPD",
+        "CHRW",
+        "HUBG",
+        "ODFL",
+        "SAIA",
+        "XPO",
+        "ARCB",
+        "KEX"
+      ]
+    },
+    "analysis": "# MACRO ANALYSIS: Iran-NATO Escalation Day 17—Historic Oil Supply Disruption Confirmed; Defense Spending Acceleration; Saudi Drone Procurement Signals Supply-Side Crisis\n\n---\n\n## SUMMARY OF MAIN EVENT:\n\n- **Politico headline \"Iran war is the largest oil supply disruption in history\" confirms oil market repricing has reached institutional consensus status**: This moves beyond \"Persian Gulf squeeze\" rhetoric (Day 12) to explicit historical comparison. Combined with sustained Hormuz logistics collapse, Strait chokepoint is now operationalized as primary global oil supply constraint. 20% of global crude (4.4M barrels/day) remains under active Iranian asymmetric threat.\n\n- **U.S. government spent $11.3B in first week of Iran war (Bloomberg) signals sustained kinetic operations and institutional commitment to extended conflict duration**: This is not short-term tactical response—burn rate implies weeks-to-months operational window. Defense contractors are now on acceleration clock for sustained procurement cycles.\n\n- **Saudi Aramco actively procuring Ukrainian drones to protect oil fields signals supply-side panic and infrastructure vulnerability recognition**: OPEC+ is no longer passive price-taker; they are now executing active defensive measures. This confirms oil infrastructure itself (not just transit) is now perceived as under threat. Defensive technology procurement is accelerating.\n\n- **Thai cargo ship strike + 3 crew missing + Greek tanker signal loss + IRIS Dena sinking now represent 12+ days of sustained anti-shipping warfare in Hormuz**: Pattern is no longer ambiguous—Iranian asymmetric strategy is operationalized around merchant fleet targeting. Insurance costs, routing decisions, and crew recruitment are all being repriced in real-time.\n\n---\n\n## DIRECTLY AFFECTED INDUSTRIES:\n\n**Oil & Gas Exploration & Production:**\nWhy: Hormuz chokepoint disruption + SPR release + sustained Iran kinetic operations confirm oil supply shock is acute. WTI crude repricing reflects 20% of global supply under active threat. Integrated oil majors benefit from higher realized prices on production. Upstream margins expanding.\nPossible U.S. stocks: **CVX, XOM, OXY, COP, EOG, SLB, HAL**\n\n**Oil Tanker Shipping:**\nWhy: Anti-shipping warfare in Hormuz creates massive routing premiums, insurance cost spikes, and extended voyage times. Tanker utilization rates spiking as vessels reroute around Cape of Good Hope. Day rates (earnings per vessel per day) are accelerating upward.\nPossible U.S. stocks: **FRO, DHT, TNK, INSW**\n\n**Defense & Aerospace:**\nWhy: $11.3B spent in first week of Iran war + sustained kinetic operations = sustained procurement acceleration. Guided missiles, air defense systems, naval platforms all in active demand cycle.\nPossible U.S. stocks: **LMT, RTX, NOC, GD, HII, LDOS**\n\n**Insurance & Risk Management:**\nWhy: Thai cargo ship strike, crew casualties, signal losses, and Hormuz routing changes create massive premium repricing for maritime and war-risk insurance. P&C insurers are now repricing Gulf transit coverage.\nPossible U.S. stocks: **ALL, CB, TRV, AIG**\n\n---\n\n## SECOND-ORDER OPPORTUNITIES:\n\n**Natural Gas & LNG:**\nWhy it may benefit: Oil supply shock + Hormuz disruption creates energy security panic. U.S. LNG export terminals become geopolitical leverage asset. Global LNG demand accelerates as alternate supply to disrupted Middle East crude. U.S. natural gas producers benefit from export price premiums and political support for energy security exports.\nMechanism: Oil supply disruption → demand for non-Middle East energy sources → LNG export acceleration → higher realized prices for U.S. producers and terminal operators.\nPossible U.S. stocks: **EQT, RRC, AR, CTRA, LNG**\n\n**Renewable Energy & Grid Modernization:**\nWhy it may benefit: Oil price shock + geopolitical volatility creates political momentum for energy independence narrative. Renewable energy + grid infrastructure becomes national security asset (not just climate policy). Capital allocation toward nuclear, solar, wind accelerates.\nMechanism: Oil supply disruption → demand for energy independence → accelerated renewable capex → grid modernization spending.\nPossible U.S. stocks: **NEE, CEG, VST, GEV, NRG**\n\n**Container Shipping & Port Infrastructure:**\nWhy it may benefit: Rerouting around Hormuz (Cape of Good Hope) extends voyage times by 30+ days, creating massive utilization demand across container ships, ports, and intermodal logistics. Container shipping utilization rates spike as vessels spend longer in transit. Ports handling rerouted volumes see throughput acceleration.\nMechanism: Hormuz blockade → Cape routing surge → extended voyage times → higher utilization rates → improved pricing power for shipping companies and port operators.\nPossible U.S. stocks: **ZIM, MATX, DAC**\n\n**Defense Technology & Intelligence:**\nWhy it may benefit: Sustained Iran kinetic operations + drone procurement by Saudi Aramco signal accelerating demand for real-time surveillance, targeting, and autonomous systems. Defense tech vendors see accelerated procurement for ISR (Intelligence, Surveillance, Reconnaissance) platforms and drone systems.\nMechanism: Oil infrastructure vulnerability → drone/surveillance tech demand → accelerated defense tech procurement.\nPossible U.S. stocks: **PLTR, KTOS, AVAV**\n\n**Logistics & Freight:**\nWhy it may benefit: Cape rerouting + extended voyage times + supply chain complexity acceleration creates demand for intermodal logistics optimization software and freight management platforms. Trucking and rail see utilization spikes as overland logistics absorb rerouted volumes.\nMechanism: Hormuz disruption → Cape rerouting → extended transit times → demand for logistics optimization → higher freight utilization.\nPossible U.S. stocks: **UPS, FDX, ODFL, CHRW, HUBG**\n\n---\n\n## THIRD-ORDER OPPORTUNITIES:\n\n**Uranium & Nuclear Energy:**\nWhy it may benefit: Oil supply shock + energy security panic + geopolitical volatility creates political momentum for nuclear baseload power. Energy independence narrative accelerates nuclear regulatory reform and capital spending. U.S. uranium producers benefit from long-term contracting and spot price premiums.\nMechanism: Oil disruption → energy independence demand → nuclear power political support → uranium contract acceleration → spot price premiums for U.S. producers.\nConfidence level: **MEDIUM-HIGH** (nuclear is natural beneficiary of energy security panic, but regulatory/political volatility remains)\nPossible U.S. stocks: **CCJ, LEU, BWXT, CEG, VST**\n\n**Steel & Industrial Metals:**\nWhy it may benefit: Defense spending acceleration ($11.3B/week burn rate) creates demand for military-spec steel, specialized alloys, and defense manufacturing capacity. Industrial metals used in ammunition, missile bodies, naval platform construction all see demand spikes.\nMechanism: Defense procurement acceleration → demand for military-spec metals → premium pricing for specialty steel producers.\nConfidence level: **MEDIUM** (industrial metals are demand-sensitive, but pricing depends on global supply/demand balance)\nPossible U.S. stocks: **NUE, STLD, CLF, X**\n\n**Data Centers & AI Infrastructure:**\nWhy it may benefit: Defense tech acceleration + real-time ISR demand + drone targeting systems all require massive computational capacity. Data center operators (especially those with government contracts) see accelerated utilization. AI-driven targeting systems require compute infrastructure investment.\nMechanism: Defense spending acceleration → ISR/targeting system demand → AI compute infrastructure → data center utilization spikes.\nConfidence level: **MEDIUM** (correlation is real, but data center demand is driven by multiple factors; defense is 1 variable)\nPossible U.S. stocks: **V",
+    "tickers": [
+      "S",
+      "U",
+      "FOR",
+      "ALL",
+      "CEG",
+      "VST",
+      "LNG",
+      "AIG",
+      "AS",
+      "AVAV",
+      "CB",
+      "CLF",
+      "KTOS",
+      "NOW",
+      "NUE",
+      "PLTR",
+      "STLD",
+      "AR",
+      "BWXT",
+      "CCJ",
+      "COP",
+      "CTRA",
+      "CVX",
+      "DAC",
+      "DHT",
+      "EOG",
+      "EQT",
+      "FDX",
+      "FRO",
+      "GD",
+      "GEV",
+      "HAL",
+      "HII",
+      "HUBG",
+      "INSW",
+      "LDOS",
+      "LEU",
+      "LMT",
+      "MATX",
+      "NEE",
+      "NOC",
+      "NRG",
+      "ODFL",
+      "OXY",
+      "RRC",
+      "RTX",
+      "SEE",
+      "SLB",
+      "TNK",
+      "UPS",
+      "V",
+      "XOM",
+      "ZIM",
+      "TECH",
+      "BY",
+      "HOPE",
+      "SHIP",
+      "SPEC",
+      "SPOT",
+      "AIR",
+      "C",
+      "COST",
+      "HAS",
+      "MAIN",
+      "RAIL",
+      "WTI"
+    ],
+    "market_snapshots": [
+      {
+        "ticker": "S",
+        "last_close": 14.5,
+        "price_change_pct": 5.22,
+        "last_volume": 13540761,
+        "avg_volume_5d": 10017812,
+        "volume_ratio": 1.35
+      },
+      {
+        "ticker": "U",
+        "last_close": 19.34,
+        "price_change_pct": -0.46,
+        "last_volume": 9308274,
+        "avg_volume_5d": 13226154,
+        "volume_ratio": 0.7
+      },
+      {
+        "ticker": "FOR",
+        "last_close": 25.4,
+        "price_change_pct": 1.89,
+        "last_volume": 76245,
+        "avg_volume_5d": 128409,
+        "volume_ratio": 0.59
+      },
+      {
+        "ticker": "ALL",
+        "last_close": 206.28,
+        "price_change_pct": 0.61,
+        "last_volume": 606781,
+        "avg_volume_5d": 1180616,
+        "volume_ratio": 0.51
+      },
+      {
+        "ticker": "CEG",
+        "last_close": 300.99,
+        "price_change_pct": -0.19,
+        "last_volume": 1177569,
+        "avg_volume_5d": 2664953,
+        "volume_ratio": 0.44
+      },
+      {
+        "ticker": "VST",
+        "last_close": 159.23,
+        "price_change_pct": -0.22,
+        "last_volume": 2483334,
+        "avg_volume_5d": 4173626,
+        "volume_ratio": 0.6
+      },
+      {
+        "ticker": "LNG",
+        "last_close": 251.39,
+        "price_change_pct": -0.97,
+        "last_volume": 1684374,
+        "avg_volume_5d": 3147054,
+        "volume_ratio": 0.54
+      },
+      {
+        "ticker": "AIG",
+        "last_close": 76.86,
+        "price_change_pct": 0.5,
+        "last_volume": 1626127,
+        "avg_volume_5d": 4289345,
+        "volume_ratio": 0.38
+      },
+      {
+        "ticker": "AS",
+        "last_close": 32.08,
+        "price_change_pct": -0.83,
+        "last_volume": 2762649,
+        "avg_volume_5d": 4953069,
+        "volume_ratio": 0.56
+      },
+      {
+        "ticker": "AVAV",
+        "last_close": 207.19,
+        "price_change_pct": -2.21,
+        "last_volume": 1073666,
+        "avg_volume_5d": 2756813,
+        "volume_ratio": 0.39
+      },
+      {
+        "ticker": "CB",
+        "last_close": 329.35,
+        "price_change_pct": -0.06,
+        "last_volume": 1344895,
+        "avg_volume_5d": 1711879,
+        "volume_ratio": 0.79
+      },
+      {
+        "ticker": "CLF",
+        "last_close": 8.41,
+        "price_change_pct": -5.66,
+        "last_volume": 17637419,
+        "avg_volume_5d": 17766603,
+        "volume_ratio": 0.99
+      },
+      {
+        "ticker": "KTOS",
+        "last_close": 87.72,
+        "price_change_pct": -1.95,
+        "last_volume": 1845001,
+        "avg_volume_5d": 3257760,
+        "volume_ratio": 0.57
+      },
+      {
+        "ticker": "NOW",
+        "last_close": 113.08,
+        "price_change_pct": 0.1,
+        "last_volume": 11579252,
+        "avg_volume_5d": 17348710,
+        "volume_ratio": 0.67
+      },
+      {
+        "ticker": "NUE",
+        "last_close": 162.82,
+        "price_change_pct": -1.72,
+        "last_volume": 628923,
+        "avg_volume_5d": 1217564,
+        "volume_ratio": 0.52
+      },
+      {
+        "ticker": "PLTR",
+        "last_close": 150.18,
+        "price_change_pct": -2.16,
+        "last_volume": 37013617,
+        "avg_volume_5d": 44090983,
+        "volume_ratio": 0.84
+      },
+      {
+        "ticker": "STLD",
+        "last_close": 170.02,
+        "price_change_pct": -2.9,
+        "last_volume": 817680,
+        "avg_volume_5d": 949036,
+        "volume_ratio": 0.86
+      },
+      {
+        "ticker": "AR",
+        "last_close": 40.83,
+        "price_change_pct": 1.18,
+        "last_volume": 2716975,
+        "avg_volume_5d": 6819135,
+        "volume_ratio": 0.4
+      },
+      {
+        "ticker": "BWXT",
+        "last_close": 195.34,
+        "price_change_pct": -1.25,
+        "last_volume": 961046,
+        "avg_volume_5d": 963089,
+        "volume_ratio": 1.0
+      },
+      {
+        "ticker": "CCJ",
+        "last_close": 108.37,
+        "price_change_pct": -6.01,
+        "last_volume": 5494356,
+        "avg_volume_5d": 4328031,
+        "volume_ratio": 1.27
+      },
+      {
+        "ticker": "COP",
+        "last_close": 121.71,
+        "price_change_pct": 1.21,
+        "last_volume": 7779696,
+        "avg_volume_5d": 11536299,
+        "volume_ratio": 0.67
+      },
+      {
+        "ticker": "CTRA",
+        "last_close": 32.12,
+        "price_change_pct": 0.44,
+        "last_volume": 7707293,
+        "avg_volume_5d": 15544878,
+        "volume_ratio": 0.5
+      },
+      {
+        "ticker": "CVX",
+        "last_close": 196.88,
+        "price_change_pct": -0.05,
+        "last_volume": 9084025,
+        "avg_volume_5d": 15118925,
+        "volume_ratio": 0.6
+      },
+      {
+        "ticker": "DAC",
+        "last_close": 106.84,
+        "price_change_pct": -1.94,
+        "last_volume": 60939,
+        "avg_volume_5d": 81407,
+        "volume_ratio": 0.75
+      },
+      {
+        "ticker": "DHT",
+        "last_close": 16.77,
+        "price_change_pct": -0.42,
+        "last_volume": 4209769,
+        "avg_volume_5d": 6867073,
+        "volume_ratio": 0.61
+      },
+      {
+        "ticker": "EOG",
+        "last_close": 133.23,
+        "price_change_pct": 0.14,
+        "last_volume": 2642699,
+        "avg_volume_5d": 5631039,
+        "volume_ratio": 0.47
+      },
+      {
+        "ticker": "EQT",
+        "last_close": 64.14,
+        "price_change_pct": -0.77,
+        "last_volume": 6307602,
+        "avg_volume_5d": 9231200,
+        "volume_ratio": 0.68
+      },
+      {
+        "ticker": "FDX",
+        "last_close": 352.08,
+        "price_change_pct": -0.3,
+        "last_volume": 1087661,
+        "avg_volume_5d": 1424352,
+        "volume_ratio": 0.76
+      },
+      {
+        "ticker": "FRO",
+        "last_close": 30.13,
+        "price_change_pct": -2.08,
+        "last_volume": 3822028,
+        "avg_volume_5d": 5109045,
+        "volume_ratio": 0.75
+      },
+      {
+        "ticker": "GD",
+        "last_close": 351.63,
+        "price_change_pct": -1.01,
+        "last_volume": 560442,
+        "avg_volume_5d": 1039508,
+        "volume_ratio": 0.54
+      },
+      {
+        "ticker": "GEV",
+        "last_close": 806.33,
+        "price_change_pct": -3.1,
+        "last_volume": 1654697,
+        "avg_volume_5d": 2155179,
+        "volume_ratio": 0.77
+      },
+      {
+        "ticker": "HAL",
+        "last_close": 33.78,
+        "price_change_pct": -3.06,
+        "last_volume": 12907002,
+        "avg_volume_5d": 16699360,
+        "volume_ratio": 0.77
+      },
+      {
+        "ticker": "HII",
+        "last_close": 413.85,
+        "price_change_pct": -0.17,
+        "last_volume": 222215,
+        "avg_volume_5d": 357763,
+        "volume_ratio": 0.62
+      },
+      {
+        "ticker": "HUBG",
+        "last_close": 34.44,
+        "price_change_pct": -1.32,
+        "last_volume": 782049,
+        "avg_volume_5d": 683109,
+        "volume_ratio": 1.14
+      },
+      {
+        "ticker": "INSW",
+        "last_close": 65.6,
+        "price_change_pct": -1.72,
+        "last_volume": 288620,
+        "avg_volume_5d": 804904,
+        "volume_ratio": 0.36
+      },
+      {
+        "ticker": "LDOS",
+        "last_close": 174.09,
+        "price_change_pct": 0.16,
+        "last_volume": 472234,
+        "avg_volume_5d": 959706,
+        "volume_ratio": 0.49
+      },
+      {
+        "ticker": "LEU",
+        "last_close": 209.68,
+        "price_change_pct": -2.4,
+        "last_volume": 794159,
+        "avg_volume_5d": 816551,
+        "volume_ratio": 0.97
+      },
+      {
+        "ticker": "LMT",
+        "last_close": 646.72,
+        "price_change_pct": -0.94,
+        "last_volume": 771191,
+        "avg_volume_5d": 1513818,
+        "volume_ratio": 0.51
+      },
+      {
+        "ticker": "MATX",
+        "last_close": 149.36,
+        "price_change_pct": 0.08,
+        "last_volume": 203934,
+        "avg_volume_5d": 344186,
+        "volume_ratio": 0.59
+      },
+      {
+        "ticker": "NEE",
+        "last_close": 92.54,
+        "price_change_pct": 0.88,
+        "last_volume": 5483200,
+        "avg_volume_5d": 8199400,
+        "volume_ratio": 0.67
+      },
+      {
+        "ticker": "NOC",
+        "last_close": 734.14,
+        "price_change_pct": -0.29,
+        "last_volume": 315585,
+        "avg_volume_5d": 648677,
+        "volume_ratio": 0.49
+      },
+      {
+        "ticker": "NRG",
+        "last_close": 152.74,
+        "price_change_pct": 0.42,
+        "last_volume": 1128947,
+        "avg_volume_5d": 2624509,
+        "volume_ratio": 0.43
+      },
+      {
+        "ticker": "ODFL",
+        "last_close": 179.13,
+        "price_change_pct": 1.64,
+        "last_volume": 2087551,
+        "avg_volume_5d": 2045510,
+        "volume_ratio": 1.02
+      },
+      {
+        "ticker": "OXY",
+        "last_close": 57.88,
+        "price_change_pct": -0.92,
+        "last_volume": 13913553,
+        "avg_volume_5d": 26423030,
+        "volume_ratio": 0.53
+      },
+      {
+        "ticker": "RRC",
+        "last_close": 43.4,
+        "price_change_pct": 1.2,
+        "last_volume": 1935621,
+        "avg_volume_5d": 3358444,
+        "volume_ratio": 0.58
+      },
+      {
+        "ticker": "RTX",
+        "last_close": 204.6,
+        "price_change_pct": 0.77,
+        "last_volume": 2881630,
+        "avg_volume_5d": 5293146,
+        "volume_ratio": 0.54
+      },
+      {
+        "ticker": "SEE",
+        "last_close": 41.82,
+        "price_change_pct": -0.36,
+        "last_volume": 1517234,
+        "avg_volume_5d": 2183286,
+        "volume_ratio": 0.69
+      },
+      {
+        "ticker": "SLB",
+        "last_close": 44.63,
+        "price_change_pct": 0.16,
+        "last_volume": 13122829,
+        "avg_volume_5d": 19340885,
+        "volume_ratio": 0.68
+      },
+      {
+        "ticker": "TNK",
+        "last_close": 63.12,
+        "price_change_pct": -2.86,
+        "last_volume": 370781,
+        "avg_volume_5d": 506136,
+        "volume_ratio": 0.73
+      },
+      {
+        "ticker": "UPS",
+        "last_close": 97.17,
+        "price_change_pct": -0.74,
+        "last_volume": 3089667,
+        "avg_volume_5d": 6023893,
+        "volume_ratio": 0.51
+      },
+      {
+        "ticker": "V",
+        "last_close": 306.81,
+        "price_change_pct": 0.1,
+        "last_volume": 3511739,
+        "avg_volume_5d": 6211227,
+        "volume_ratio": 0.57
+      },
+      {
+        "ticker": "XOM",
+        "last_close": 155.9,
+        "price_change_pct": 1.54,
+        "last_volume": 15101995,
+        "avg_volume_5d": 20320739,
+        "volume_ratio": 0.74
+      },
+      {
+        "ticker": "ZIM",
+        "last_close": 26.96,
+        "price_change_pct": -0.88,
+        "last_volume": 1400175,
+        "avg_volume_5d": 2352515,
+        "volume_ratio": 0.6
+      },
+      {
+        "ticker": "TECH",
+        "last_close": 51.03,
+        "price_change_pct": -0.85,
+        "last_volume": 1736993,
+        "avg_volume_5d": 2577198,
+        "volume_ratio": 0.67
+      },
+      {
+        "ticker": "BY",
+        "last_close": 30.5,
+        "price_change_pct": 0.03,
+        "last_volume": 109940,
+        "avg_volume_5d": 175728,
+        "volume_ratio": 0.63
+      },
+      {
+        "ticker": "HOPE",
+        "last_close": 10.78,
+        "price_change_pct": 0.23,
+        "last_volume": 411493,
+        "avg_volume_5d": 695978,
+        "volume_ratio": 0.59
+      },
+      {
+        "ticker": "SHIP",
+        "last_close": 12.13,
+        "price_change_pct": -4.34,
+        "last_volume": 227985,
+        "avg_volume_5d": 304577,
+        "volume_ratio": 0.75
+      },
+      {
+        "ticker": "SPEC",
+        "last_close": 0.0,
+        "price_change_pct": -60.0,
+        "last_volume": 750,
+        "avg_volume_5d": 187,
+        "volume_ratio": 4.01
+      },
+      {
+        "ticker": "SPOT",
+        "last_close": 513.91,
+        "price_change_pct": 0.85,
+        "last_volume": 735861,
+        "avg_volume_5d": 1906092,
+        "volume_ratio": 0.39
+      },
+      {
+        "ticker": "AIR",
+        "last_close": 101.82,
+        "price_change_pct": -1.89,
+        "last_volume": 294089,
+        "avg_volume_5d": 379557,
+        "volume_ratio": 0.77
+      },
+      {
+        "ticker": "C",
+        "last_close": 105.69,
+        "price_change_pct": 0.18,
+        "last_volume": 9078290,
+        "avg_volume_5d": 15178638,
+        "volume_ratio": 0.6
+      },
+      {
+        "ticker": "COST",
+        "last_close": 1004.9,
+        "price_change_pct": 0.16,
+        "last_volume": 909065,
+        "avg_volume_5d": 1560073,
+        "volume_ratio": 0.58
+      },
+      {
+        "ticker": "HAS",
+        "last_close": 93.51,
+        "price_change_pct": -1.68,
+        "last_volume": 832657,
+        "avg_volume_5d": 1460431,
+        "volume_ratio": 0.57
+      },
+      {
+        "ticker": "MAIN",
+        "last_close": 55.03,
+        "price_change_pct": 0.67,
+        "last_volume": 885963,
+        "avg_volume_5d": 906732,
+        "volume_ratio": 0.98
+      },
+      {
+        "ticker": "RAIL",
+        "last_close": 8.29,
+        "price_change_pct": -4.49,
+        "last_volume": 287637,
+        "avg_volume_5d": 525107,
+        "volume_ratio": 0.55
+      },
+      {
+        "ticker": "WTI",
+        "last_close": 3.37,
+        "price_change_pct": -2.6,
+        "last_volume": 10629604,
+        "avg_volume_5d": 17178280,
+        "volume_ratio": 0.62
+      }
+    ],
+    "scored_stocks": [
+      {
+        "ticker": "S",
+        "score": 9,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat güçlü pozitif",
+          "Hacim ortalamanın üstünde"
+        ],
+        "last_close": 14.5,
+        "price_change_pct": 5.22,
+        "volume_ratio": 1.35,
+        "extract_score": 66,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "ODFL",
+        "score": 8,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim normalin biraz üstünde"
+        ],
+        "last_close": 179.13,
+        "price_change_pct": 1.64,
+        "volume_ratio": 1.02,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "LNG",
+        "score": 7,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 251.39,
+        "price_change_pct": -0.97,
+        "volume_ratio": 0.54,
+        "extract_score": 9,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "AR",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 40.83,
+        "price_change_pct": 1.18,
+        "volume_ratio": 0.4,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "COP",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 121.71,
+        "price_change_pct": 1.21,
+        "volume_ratio": 0.67,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "CTRA",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 32.12,
+        "price_change_pct": 0.44,
+        "volume_ratio": 0.5,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "EOG",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 133.23,
+        "price_change_pct": 0.14,
+        "volume_ratio": 0.47,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "LDOS",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 174.09,
+        "price_change_pct": 0.16,
+        "volume_ratio": 0.49,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "MATX",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 149.36,
+        "price_change_pct": 0.08,
+        "volume_ratio": 0.59,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "RRC",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 43.4,
+        "price_change_pct": 1.2,
+        "volume_ratio": 0.58,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "RTX",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 204.6,
+        "price_change_pct": 0.77,
+        "volume_ratio": 0.54,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "SLB",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 44.63,
+        "price_change_pct": 0.16,
+        "volume_ratio": 0.68,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "XOM",
+        "score": 7,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 155.9,
+        "price_change_pct": 1.54,
+        "volume_ratio": 0.74,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "FOR",
+        "score": 6,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 25.4,
+        "price_change_pct": 1.89,
+        "volume_ratio": 0.59,
+        "extract_score": 17,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "ALL",
+        "score": 6,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 206.28,
+        "price_change_pct": 0.61,
+        "volume_ratio": 0.51,
+        "extract_score": 10,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "CVX",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 196.88,
+        "price_change_pct": -0.05,
+        "volume_ratio": 0.6,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "DHT",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 16.77,
+        "price_change_pct": -0.42,
+        "volume_ratio": 0.61,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "EQT",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 64.14,
+        "price_change_pct": -0.77,
+        "volume_ratio": 0.68,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "FDX",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 352.08,
+        "price_change_pct": -0.3,
+        "volume_ratio": 0.76,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "HII",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 413.85,
+        "price_change_pct": -0.17,
+        "volume_ratio": 0.62,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "HUBG",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim normalin biraz üstünde"
+        ],
+        "last_close": 34.44,
+        "price_change_pct": -1.32,
+        "volume_ratio": 1.14,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "LMT",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 646.72,
+        "price_change_pct": -0.94,
+        "volume_ratio": 0.51,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "NOC",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 734.14,
+        "price_change_pct": -0.29,
+        "volume_ratio": 0.49,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "OXY",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 57.88,
+        "price_change_pct": -0.92,
+        "volume_ratio": 0.53,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "UPS",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 97.17,
+        "price_change_pct": -0.74,
+        "volume_ratio": 0.51,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "ZIM",
+        "score": 6,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 26.96,
+        "price_change_pct": -0.88,
+        "volume_ratio": 0.6,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "U",
+        "score": 5,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 19.34,
+        "price_change_pct": -0.46,
+        "volume_ratio": 0.7,
+        "extract_score": 66,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "CEG",
+        "score": 5,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 300.99,
+        "price_change_pct": -0.19,
+        "volume_ratio": 0.44,
+        "extract_score": 10,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "VST",
+        "score": 5,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 159.23,
+        "price_change_pct": -0.22,
+        "volume_ratio": 0.6,
+        "extract_score": 10,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "AIG",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 76.86,
+        "price_change_pct": 0.5,
+        "volume_ratio": 0.38,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "NOW",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 113.08,
+        "price_change_pct": 0.1,
+        "volume_ratio": 0.67,
+        "extract_score": 6,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "CCJ",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim ortalamanın üstünde"
+        ],
+        "last_close": 108.37,
+        "price_change_pct": -6.01,
+        "volume_ratio": 1.27,
+        "extract_score": 5,
+        "extract_reasons": [
+          "THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "DAC",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 106.84,
+        "price_change_pct": -1.94,
+        "volume_ratio": 0.75,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "FRO",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 30.13,
+        "price_change_pct": -2.08,
+        "volume_ratio": 0.75,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "GD",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 351.63,
+        "price_change_pct": -1.01,
+        "volume_ratio": 0.54,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "HAL",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 33.78,
+        "price_change_pct": -3.06,
+        "volume_ratio": 0.77,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "INSW",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 65.6,
+        "price_change_pct": -1.72,
+        "volume_ratio": 0.36,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "NEE",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 92.54,
+        "price_change_pct": 0.88,
+        "volume_ratio": 0.67,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "NRG",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 152.74,
+        "price_change_pct": 0.42,
+        "volume_ratio": 0.43,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "TNK",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 63.12,
+        "price_change_pct": -2.86,
+        "volume_ratio": 0.73,
+        "extract_score": 5,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": true
+      },
+      {
+        "ticker": "V",
+        "score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 306.81,
+        "price_change_pct": 0.1,
+        "volume_ratio": 0.57,
+        "extract_score": 5,
+        "extract_reasons": [
+          "THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "AS",
+        "score": 4,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 32.08,
+        "price_change_pct": -0.83,
+        "volume_ratio": 0.56,
+        "extract_score": 6,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "CB",
+        "score": 4,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 329.35,
+        "price_change_pct": -0.06,
+        "volume_ratio": 0.79,
+        "extract_score": 6,
+        "extract_reasons": [
+          "DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "BWXT",
+        "score": 4,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim normalin biraz üstünde"
+        ],
+        "last_close": 195.34,
+        "price_change_pct": -1.25,
+        "volume_ratio": 1.0,
+        "extract_score": 5,
+        "extract_reasons": [
+          "THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "SEE",
+        "score": 4,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 41.82,
+        "price_change_pct": -0.36,
+        "volume_ratio": 0.69,
+        "extract_score": 5,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "BY",
+        "score": 4,
+        "reasons": [
+          "AI analizinde orta güçte çıktı",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 30.5,
+        "price_change_pct": 0.03,
+        "volume_ratio": 0.63,
+        "extract_score": 3,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "SPEC",
+        "score": 4,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim güçlü şekilde ortalamanın üstünde"
+        ],
+        "last_close": 0.0,
+        "price_change_pct": -60.0,
+        "volume_ratio": 4.01,
+        "extract_score": 2,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "AVAV",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 207.19,
+        "price_change_pct": -2.21,
+        "volume_ratio": 0.39,
+        "extract_score": 6,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "CLF",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 8.41,
+        "price_change_pct": -5.66,
+        "volume_ratio": 0.99,
+        "extract_score": 6,
+        "extract_reasons": [
+          "THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "KTOS",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 87.72,
+        "price_change_pct": -1.95,
+        "volume_ratio": 0.57,
+        "extract_score": 6,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "NUE",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 162.82,
+        "price_change_pct": -1.72,
+        "volume_ratio": 0.52,
+        "extract_score": 6,
+        "extract_reasons": [
+          "THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "PLTR",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 150.18,
+        "price_change_pct": -2.16,
+        "volume_ratio": 0.84,
+        "extract_score": 6,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "STLD",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 170.02,
+        "price_change_pct": -2.9,
+        "volume_ratio": 0.86,
+        "extract_score": 6,
+        "extract_reasons": [
+          "THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Sektör bağlamı ile desteklendi",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "GEV",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 806.33,
+        "price_change_pct": -3.1,
+        "volume_ratio": 0.77,
+        "extract_score": 5,
+        "extract_reasons": [
+          "SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "LEU",
+        "score": 3,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 209.68,
+        "price_change_pct": -2.4,
+        "volume_ratio": 0.97,
+        "extract_score": 5,
+        "extract_reasons": [
+          "THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti",
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "TECH",
+        "score": 3,
+        "reasons": [
+          "AI analizinde orta güçte çıktı",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "last_close": 51.03,
+        "price_change_pct": -0.85,
+        "volume_ratio": 0.67,
+        "extract_score": 4,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "HOPE",
+        "score": 3,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 10.78,
+        "price_change_pct": 0.23,
+        "volume_ratio": 0.59,
+        "extract_score": 2,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "SPOT",
+        "score": 3,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 513.91,
+        "price_change_pct": 0.85,
+        "volume_ratio": 0.39,
+        "extract_score": 2,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "C",
+        "score": 3,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 105.69,
+        "price_change_pct": 0.18,
+        "volume_ratio": 0.6,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "COST",
+        "score": 3,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 1004.9,
+        "price_change_pct": 0.16,
+        "volume_ratio": 0.58,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "MAIN",
+        "score": 3,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "last_close": 55.03,
+        "price_change_pct": 0.67,
+        "volume_ratio": 0.98,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "SHIP",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 12.13,
+        "price_change_pct": -4.34,
+        "volume_ratio": 0.75,
+        "extract_score": 2,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "AIR",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 101.82,
+        "price_change_pct": -1.89,
+        "volume_ratio": 0.77,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "HAS",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 93.51,
+        "price_change_pct": -1.68,
+        "volume_ratio": 0.57,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "RAIL",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 8.29,
+        "price_change_pct": -4.49,
+        "volume_ratio": 0.55,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      },
+      {
+        "ticker": "WTI",
+        "score": 1,
+        "reasons": [
+          "AI analizinde geçti",
+          "Fiyat zayıf",
+          "Hacim zayıf"
+        ],
+        "last_close": 3.37,
+        "price_change_pct": -2.6,
+        "volume_ratio": 0.62,
+        "extract_score": 1,
+        "extract_reasons": [
+          "Serbest metinde geçti"
+        ],
+        "event_supported": false
+      }
+    ],
+    "ai_reasoned_stocks": [
+      {
+        "ticker": "S",
+        "theme": "Makro fırsat",
+        "confidence": "Yüksek",
+        "reason": "AI analizinde güçlü öne çıktı, fiyat momentumu güçlü, hacim destekli",
+        "expectation": "Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.",
+        "move_range": "%3 - %7"
+      },
+      {
+        "ticker": "ODFL",
+        "theme": "Makro fırsat",
+        "confidence": "Yüksek",
+        "reason": "makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif, hacim destekli",
+        "expectation": "Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.",
+        "move_range": "%3 - %7"
+      },
+      {
+        "ticker": "LNG",
+        "theme": "Makro fırsat",
+        "confidence": "Yüksek",
+        "reason": "makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı",
+        "expectation": "Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.",
+        "move_range": "%3 - %7"
+      },
+      {
+        "ticker": "AR",
+        "theme": "Makro fırsat",
+        "confidence": "Orta",
+        "reason": "makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif",
+        "expectation": "Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.",
+        "move_range": "%2 - %5"
+      },
+      {
+        "ticker": "COP",
+        "theme": "Makro fırsat",
+        "confidence": "Orta",
+        "reason": "makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif",
+        "expectation": "Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.",
+        "move_range": "%2 - %5"
+      }
+    ],
+    "telegram_summary": "📊 GÜNLÜK HİSSE ÖZETİ\n\n📌 HİSSE: S\n📌 Tema: Makro fırsat\n🎯 Güven: Yüksek\n🧠 Sebep: AI analizinde güçlü öne çıktı, fiyat momentumu güçlü, hacim destekli\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %3 - %7\n\n📌 HİSSE: ODFL\n📌 Tema: Makro fırsat\n🎯 Güven: Yüksek\n🧠 Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif, hacim destekli\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %3 - %7\n\n📌 HİSSE: LNG\n📌 Tema: Makro fırsat\n🎯 Güven: Yüksek\n🧠 Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %3 - %7\n\n📌 HİSSE: AR\n📌 Tema: Makro fırsat\n🎯 Güven: Orta\n🧠 Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %2 - %5\n\n📌 HİSSE: COP\n📌 Tema: Makro fırsat\n🎯 Güven: Orta\n🧠 Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif\n📈 Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n📊 Tahmini hareket: %2 - %5",
+    "report_filename": "daily_report_2026-03-13_22-45-51.txt",
+    "report_text": "GÜNLÜK MACRO STOCK RAPORU\nTarih: 2026-03-13 22:45\n============================================================\n\n1) GÜNÜN HABER BAŞLIKLARI\n- Suspect in Detroit-area synagogue attack is killed by security, sources say - CBS News\n- What on earth is going on with the oil price? - BBC\n- Live updates: Oil sees historic disruptions as Iran escalates attacks on shipping - CNN\n- 2 injured, gunman dead in shooting at Old Dominion University, school says - Yahoo News UK\n- Saudi Aramco in Talks to Buy Ukrainian Drones to Protect Oil Fields - WSJ\n- US Spent $11.3 Billion in First Week of War With Iran - Bloomberg\n- Iran war is the largest oil supply disruption in history, report finds - Politico\n- Tracking 31 NCAA men's basketball conference tournaments, auto bids for 2026 March Madness - NCAA.com\n- We study pandemics, and the resurgence of measles is a grim sign of what’s coming - Ars Technica\n- Anne Thompson’s Final Oscar Predictions in 24 Categories - IndieWire\n\n2) AI MAKRO ANALİZİ\n# MACRO ANALYSIS: Iran-NATO Escalation Day 17—Historic Oil Supply Disruption Confirmed; Defense Spending Acceleration; Saudi Drone Procurement Signals Supply-Side Crisis\n\n---\n\n## SUMMARY OF MAIN EVENT:\n\n- **Politico headline \"Iran war is the largest oil supply disruption in history\" confirms oil market repricing has reached institutional consensus status**: This moves beyond \"Persian Gulf squeeze\" rhetoric (Day 12) to explicit historical comparison. Combined with sustained Hormuz logistics collapse, Strait chokepoint is now operationalized as primary global oil supply constraint. 20% of global crude (4.4M barrels/day) remains under active Iranian asymmetric threat.\n\n- **U.S. government spent $11.3B in first week of Iran war (Bloomberg) signals sustained kinetic operations and institutional commitment to extended conflict duration**: This is not short-term tactical response—burn rate implies weeks-to-months operational window. Defense contractors are now on acceleration clock for sustained procurement cycles.\n\n- **Saudi Aramco actively procuring Ukrainian drones to protect oil fields signals supply-side panic and infrastructure vulnerability recognition**: OPEC+ is no longer passive price-taker; they are now executing active defensive measures. This confirms oil infrastructure itself (not just transit) is now perceived as under threat. Defensive technology procurement is accelerating.\n\n- **Thai cargo ship strike + 3 crew missing + Greek tanker signal loss + IRIS Dena sinking now represent 12+ days of sustained anti-shipping warfare in Hormuz**: Pattern is no longer ambiguous—Iranian asymmetric strategy is operationalized around merchant fleet targeting. Insurance costs, routing decisions, and crew recruitment are all being repriced in real-time.\n\n---\n\n## DIRECTLY AFFECTED INDUSTRIES:\n\n**Oil & Gas Exploration & Production:**\nWhy: Hormuz chokepoint disruption + SPR release + sustained Iran kinetic operations confirm oil supply shock is acute. WTI crude repricing reflects 20% of global supply under active threat. Integrated oil majors benefit from higher realized prices on production. Upstream margins expanding.\nPossible U.S. stocks: **CVX, XOM, OXY, COP, EOG, SLB, HAL**\n\n**Oil Tanker Shipping:**\nWhy: Anti-shipping warfare in Hormuz creates massive routing premiums, insurance cost spikes, and extended voyage times. Tanker utilization rates spiking as vessels reroute around Cape of Good Hope. Day rates (earnings per vessel per day) are accelerating upward.\nPossible U.S. stocks: **FRO, DHT, TNK, INSW**\n\n**Defense & Aerospace:**\nWhy: $11.3B spent in first week of Iran war + sustained kinetic operations = sustained procurement acceleration. Guided missiles, air defense systems, naval platforms all in active demand cycle.\nPossible U.S. stocks: **LMT, RTX, NOC, GD, HII, LDOS**\n\n**Insurance & Risk Management:**\nWhy: Thai cargo ship strike, crew casualties, signal losses, and Hormuz routing changes create massive premium repricing for maritime and war-risk insurance. P&C insurers are now repricing Gulf transit coverage.\nPossible U.S. stocks: **ALL, CB, TRV, AIG**\n\n---\n\n## SECOND-ORDER OPPORTUNITIES:\n\n**Natural Gas & LNG:**\nWhy it may benefit: Oil supply shock + Hormuz disruption creates energy security panic. U.S. LNG export terminals become geopolitical leverage asset. Global LNG demand accelerates as alternate supply to disrupted Middle East crude. U.S. natural gas producers benefit from export price premiums and political support for energy security exports.\nMechanism: Oil supply disruption → demand for non-Middle East energy sources → LNG export acceleration → higher realized prices for U.S. producers and terminal operators.\nPossible U.S. stocks: **EQT, RRC, AR, CTRA, LNG**\n\n**Renewable Energy & Grid Modernization:**\nWhy it may benefit: Oil price shock + geopolitical volatility creates political momentum for energy independence narrative. Renewable energy + grid infrastructure becomes national security asset (not just climate policy). Capital allocation toward nuclear, solar, wind accelerates.\nMechanism: Oil supply disruption → demand for energy independence → accelerated renewable capex → grid modernization spending.\nPossible U.S. stocks: **NEE, CEG, VST, GEV, NRG**\n\n**Container Shipping & Port Infrastructure:**\nWhy it may benefit: Rerouting around Hormuz (Cape of Good Hope) extends voyage times by 30+ days, creating massive utilization demand across container ships, ports, and intermodal logistics. Container shipping utilization rates spike as vessels spend longer in transit. Ports handling rerouted volumes see throughput acceleration.\nMechanism: Hormuz blockade → Cape routing surge → extended voyage times → higher utilization rates → improved pricing power for shipping companies and port operators.\nPossible U.S. stocks: **ZIM, MATX, DAC**\n\n**Defense Technology & Intelligence:**\nWhy it may benefit: Sustained Iran kinetic operations + drone procurement by Saudi Aramco signal accelerating demand for real-time surveillance, targeting, and autonomous systems. Defense tech vendors see accelerated procurement for ISR (Intelligence, Surveillance, Reconnaissance) platforms and drone systems.\nMechanism: Oil infrastructure vulnerability → drone/surveillance tech demand → accelerated defense tech procurement.\nPossible U.S. stocks: **PLTR, KTOS, AVAV**\n\n**Logistics & Freight:**\nWhy it may benefit: Cape rerouting + extended voyage times + supply chain complexity acceleration creates demand for intermodal logistics optimization software and freight management platforms. Trucking and rail see utilization spikes as overland logistics absorb rerouted volumes.\nMechanism: Hormuz disruption → Cape rerouting → extended transit times → demand for logistics optimization → higher freight utilization.\nPossible U.S. stocks: **UPS, FDX, ODFL, CHRW, HUBG**\n\n---\n\n## THIRD-ORDER OPPORTUNITIES:\n\n**Uranium & Nuclear Energy:**\nWhy it may benefit: Oil supply shock + energy security panic + geopolitical volatility creates political momentum for nuclear baseload power. Energy independence narrative accelerates nuclear regulatory reform and capital spending. U.S. uranium producers benefit from long-term contracting and spot price premiums.\nMechanism: Oil disruption → energy independence demand → nuclear power political support → uranium contract acceleration → spot price premiums for U.S. producers.\nConfidence level: **MEDIUM-HIGH** (nuclear is natural beneficiary of energy security panic, but regulatory/political volatility remains)\nPossible U.S. stocks: **CCJ, LEU, BWXT, CEG, VST**\n\n**Steel & Industrial Metals:**\nWhy it may benefit: Defense spending acceleration ($11.3B/week burn rate) creates demand for military-spec steel, specialized alloys, and defense manufacturing capacity. Industrial metals used in ammunition, missile bodies, naval platform construction all see demand spikes.\nMechanism: Defense procurement acceleration → demand for military-spec metals → premium pricing for specialty steel producers.\nConfidence level: **MEDIUM** (industrial metals are demand-sensitive, but pricing depends on global supply/demand balance)\nPossible U.S. stocks: **NUE, STLD, CLF, X**\n\n**Data Centers & AI Infrastructure:**\nWhy it may benefit: Defense tech acceleration + real-time ISR demand + drone targeting systems all require massive computational capacity. Data center operators (especially those with government contracts) see accelerated utilization. AI-driven targeting systems require compute infrastructure investment.\nMechanism: Defense spending acceleration → ISR/targeting system demand → AI compute infrastructure → data center utilization spikes.\nConfidence level: **MEDIUM** (correlation is real, but data center demand is driven by multiple factors; defense is 1 variable)\nPossible U.S. stocks: **V\n\n3) SEÇİLEN HİSSELER İÇİN AI DESTEKLİ ÖZEL GEREKÇELER\n1. HİSSE: S\n   Tema: Makro fırsat\n   Güven: Yüksek\n   Sebep: AI analizinde güçlü öne çıktı, fiyat momentumu güçlü, hacim destekli\n   Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   Tahmini hareket: %3 - %7\n--------------------------------------------------\n2. HİSSE: ODFL\n   Tema: Makro fırsat\n   Güven: Yüksek\n   Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif, hacim destekli\n   Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   Tahmini hareket: %3 - %7\n--------------------------------------------------\n3. HİSSE: LNG\n   Tema: Makro fırsat\n   Güven: Yüksek\n   Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı\n   Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   Tahmini hareket: %3 - %7\n--------------------------------------------------\n4. HİSSE: AR\n   Tema: Makro fırsat\n   Güven: Orta\n   Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif\n   Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   Tahmini hareket: %2 - %5\n--------------------------------------------------\n5. HİSSE: COP\n   Tema: Makro fırsat\n   Güven: Orta\n   Sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif\n   Beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   Tahmini hareket: %2 - %5\n--------------------------------------------------\n\n4) EN YÜKSEK SKORLU HİSSELER\n1. S | Skor: 9 | Fiyat: 14.5 | Günlük %: 5.22 | Hacim oranı: 1.35 | Event destek: False\n   Skor nedenleri: AI analizinde çok güçlü çıktı, Fiyat güçlü pozitif, Hacim ortalamanın üstünde\n   Extractor nedenleri: DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti, SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti, THIRD-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti, Serbest metinde geçti\n   AI tema: Makro fırsat\n   AI sebep: AI analizinde güçlü öne çıktı, fiyat momentumu güçlü, hacim destekli\n   AI beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   AI hareket: %3 - %7\n--------------------------------------------------\n2. ODFL | Skor: 8 | Fiyat: 179.13 | Günlük %: 1.64 | Hacim oranı: 1.02 | Event destek: True\n   Skor nedenleri: AI analizinde güçlü çıktı, Event zinciri tarafından destekleniyor, Fiyat pozitif, Hacim normalin biraz üstünde\n   Extractor nedenleri: SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti, Serbest metinde geçti\n   AI tema: Makro fırsat\n   AI sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif, hacim destekli\n   AI beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   AI hareket: %3 - %7\n--------------------------------------------------\n3. LNG | Skor: 7 | Fiyat: 251.39 | Günlük %: -0.97 | Hacim oranı: 0.54 | Event destek: True\n   Skor nedenleri: AI analizinde çok güçlü çıktı, Event zinciri tarafından destekleniyor, Fiyat çok zayıf değil, Hacim zayıf\n   Extractor nedenleri: SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti, Serbest metinde geçti\n   AI tema: Makro fırsat\n   AI sebep: makro olay zinciri tarafından destekleniyor, AI analizinde güçlü öne çıktı\n   AI beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   AI hareket: %3 - %7\n--------------------------------------------------\n4. AR | Skor: 7 | Fiyat: 40.83 | Günlük %: 1.18 | Hacim oranı: 0.4 | Event destek: True\n   Skor nedenleri: AI analizinde güçlü çıktı, Event zinciri tarafından destekleniyor, Fiyat pozitif, Hacim zayıf\n   Extractor nedenleri: SECOND-ORDER OPPORTUNITIES: içinde Possible U.S. stocks satırında geçti, Serbest metinde geçti\n   AI tema: Makro fırsat\n   AI sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif\n   AI beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   AI hareket: %2 - %5\n--------------------------------------------------\n5. COP | Skor: 7 | Fiyat: 121.71 | Günlük %: 1.21 | Hacim oranı: 0.67 | Event destek: True\n   Skor nedenleri: AI analizinde güçlü çıktı, Event zinciri tarafından destekleniyor, Fiyat pozitif, Hacim zayıf\n   Extractor nedenleri: DIRECTLY AFFECTED INDUSTRIES: içinde Possible U.S. stocks satırında geçti, Serbest metinde geçti\n   AI tema: Makro fırsat\n   AI sebep: makro olay zinciri tarafından destekleniyor, AI analizinde destek buldu, fiyat pozitif\n   AI beklenti: Makro tema korunursa hissede kısa vadeli pozitif fiyatlama görülebilir.\n   AI hareket: %2 - %5\n--------------------------------------------------"
+  }
+]

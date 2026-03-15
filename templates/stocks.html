@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hisseler | SignalForge Markets</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='site.css') }}" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a href="/" class="brand">SignalForge Markets</a>
+      <nav class="nav-links">
+        <a href="/">Ana Sayfa</a>
+        <a href="/stocks" class="active-link">Hisseler</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Stock universe</p>
+          <h1>Hisse Kütüphanesi</h1>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <input id="searchInput" class="search-input" type="text" placeholder="Ticker veya şirket adı ara..." />
+      </div>
+
+      <div id="stocksCount" class="muted-text"></div>
+      <div id="stocksGrid" class="cards-grid"></div>
+    </div>
+  </main>
+
+  <script src="{{ url_for('static', filename='stocks.js') }}"></script>
+</body>
+</html>

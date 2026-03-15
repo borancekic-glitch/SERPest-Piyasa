@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ ticker }} | SignalForge Markets</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='site.css') }}" />
+</head>
+<body data-ticker="{{ ticker }}" data-not-found="{{ 'true' if not_found else 'false' }}">
+  <header class="site-header">
+    <div class="container nav">
+      <a href="/" class="brand">SignalForge Markets</a>
+      <nav class="nav-links">
+        <a href="/">Ana Sayfa</a>
+        <a href="/stocks">Hisseler</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <a href="/stocks" class="text-link back-link">← Hisse listesine dön</a>
+
+      <div id="notFoundBox" class="empty-box hidden">
+        Bu hisse şu an takip listesinde yok.
+      </div>
+
+      <section id="stockHeader" class="detail-hero">
+        <div>
+          <p class="eyebrow">Stock detail</p>
+          <h1 id="stockName">{{ ticker }}</h1>
+          <p id="stockMeta" class="hero-text"></p>
+        </div>
+
+        <div class="detail-actions">
+          <button id="aiButton" class="btn btn-primary" type="button">AI Analizi Gör</button>
+          <button id="refreshAiButton" class="btn btn-secondary" type="button">Analizi Yenile</button>
+        </div>
+      </section>
+
+      <section class="panel chart-panel">
+        <div class="panel-head-inline">
+          <h3>Fiyat Grafiği</h3>
+          <div class="chart-range-group">
+            <button class="chart-range-btn active" data-range="5d" type="button">5G</button>
+            <button class="chart-range-btn" data-range="1mo" type="button">1A</button>
+            <button class="chart-range-btn" data-range="3mo" type="button">3A</button>
+            <button class="chart-range-btn" data-range="6mo" type="button">6A</button>
+            <button class="chart-range-btn" data-range="1y" type="button">1Y</button>
+          </div>
+        </div>
+
+        <div id="chartStatus" class="small-muted">Yükleniyor...</div>
+        <div class="chart-wrap">
+          <div id="priceChart"></div>
+        </div>
+      </section>
+
+      <section class="detail-grid">
+        <div class="panel">
+          <h3>Piyasa Verileri</h3>
+          <div id="marketDataBox" class="metric-grid">
+            <div class="metric-card">Yükleniyor...</div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <h3>Son Sinyal Bilgisi</h3>
+          <div id="latestSignalBox" class="signal-box">
+            Yükleniyor...
+          </div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head-inline">
+          <h3>Özel AI Analizi</h3>
+          <div id="aiStatus" class="small-muted">Hazır</div>
+        </div>
+
+        <div id="aiAnalysisBox" class="ai-analysis-box">
+          <div class="locked-box">
+            Bu hisse için AI analizini görmek için yukarıdaki butona bas.
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+  <script src="{{ url_for('static', filename='stock_detail.js') }}"></script>
+</body>
+</html>

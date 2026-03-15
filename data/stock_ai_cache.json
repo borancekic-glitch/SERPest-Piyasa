@@ -1,0 +1,230 @@
+{
+  "NVDA": {
+    "created_at": "2026-03-15 08:00:10",
+    "analysis": {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA",
+      "stance": "Nötr",
+      "summary": "NVIDIA için hızlı AI analizi şu aşamada nötr bir görünüm veriyor.",
+      "thesis": "Şirketin teması: AI Chips. Son snapshot ve son sinyal yapısı birlikte değerlendirildi.",
+      "expected_move": "%2 ile %6 arası",
+      "catalysts": [
+        "AI Chips teması bu hissede ana hikâye olabilir."
+      ],
+      "risks": [
+        "Kısa vadeli momentum zayıflarsa baskı sürebilir.",
+        "Hacim desteği sınırlı kalırsa hareketler zayıf olabilir."
+      ],
+      "premium_note": "Bu analiz temel sürümdür. Sonraki aşamada premium kilidi eklenebilir."
+    }
+  },
+  "ZS": {
+    "created_at": "2026-03-15 08:00:33",
+    "analysis": {
+      "ticker": "ZS",
+      "company_name": "Zscaler",
+      "stance": "Nötr",
+      "summary": "Zscaler için hızlı AI analizi şu aşamada nötr bir görünüm veriyor.",
+      "thesis": "Şirketin teması: Zero Trust. Son snapshot ve son sinyal yapısı birlikte değerlendirildi.",
+      "expected_move": "%2 ile %6 arası",
+      "catalysts": [
+        "Zero Trust teması bu hissede ana hikâye olabilir.",
+        "Kısa vadede fiyat momentumu pozitif görünüyor."
+      ],
+      "risks": [
+        "Hacim desteği sınırlı kalırsa hareketler zayıf olabilir."
+      ],
+      "premium_note": "Bu analiz temel sürümdür. Sonraki aşamada premium kilidi eklenebilir."
+    }
+  },
+  "AAPL": {
+    "created_at": "2026-03-15 08:20:47",
+    "analysis": {
+      "ticker": "AAPL",
+      "company_name": "Apple",
+      "stance": "Pozitif",
+      "time_horizon": "1-2 ay",
+      "summary": "Apple için 1-2 aylık görünüm; haber akışı, sektör etkileri, fiyat davranışı ve temel finansal yapı birlikte incelendi. Mevcut tablo pozitif bir eğilime işaret ediyor.",
+      "thesis": "Şirketin ana teması Mega Cap Tech tarafında şekilleniyor. Önümüzdeki 1-2 ayda şirket özel haberleri kadar sektör ve tema bazlı gelişmeler de fiyatlama üzerinde etkili olabilir.",
+      "expected_move": "%0 ile %+12 arası",
+      "catalysts": [
+        "Mega Cap Tech temasındaki gelişmeler 1-2 aylık dönemde hisseyi destekleyebilir.",
+        "Technology sektöründeki fiyatlama ve haber akışı şirketin algısını etkileyebilir.",
+        "Gelir büyümesi pozitif tarafta.",
+        "Kârlılık büyümesi devam ederse hisse destek bulabilir."
+      ],
+      "risks": [
+        "Kısa vadeli zayıflık 1-2 aylık görünümü geciktirebilir."
+      ],
+      "news_used": [
+        "- Apple (AAPL) Postpones Its Smart Home Display Release (Insider Monkey)",
+        "- 1 Unstoppable Stock To Buy Right Now Before It Soars 91% to Join Nvidia, Apple, Alphabet, and Microsoft in the $3 Trillion Club (Motley Fool)",
+        "- Goldman: AI PCs to buck 10% market slump as ‘edge computing’ demand accelerates (Investing.com)",
+        "- You Won't Believe How Much Money Berkshire Hathaway Gets From Moody's Dividends (Motley Fool)"
+      ],
+      "fundamental_snapshot": {
+        "market_cap": 3676245065728.0,
+        "enterprise_value": 3695648702464.0,
+        "trailing_pe": 31.660759,
+        "forward_pe": 26.906572,
+        "peg_ratio": null,
+        "price_to_book": 41.700565,
+        "price_to_sales_trailing_12m": 8.439168,
+        "profit_margins": 0.27037,
+        "operating_margins": 0.35374,
+        "gross_margins": 0.47325,
+        "revenue_growth": 0.157,
+        "earnings_growth": 0.183,
+        "return_on_equity": 1.5202099,
+        "return_on_assets": 0.24377,
+        "debt_to_equity": 102.63,
+        "current_ratio": 0.974,
+        "quick_ratio": 0.845,
+        "free_cashflow": 106312753152.0,
+        "operating_cashflow": 135471996928.0,
+        "ebitda": 152901992448.0,
+        "total_cash": 66907000832.0,
+        "total_debt": 90509000704.0,
+        "recommendation_key": "buy",
+        "number_of_analyst_opinions": 41.0,
+        "target_mean_price": 295.43536,
+        "target_high_price": 350.0,
+        "target_low_price": 205.0,
+        "current_price": 250.12,
+        "fifty_two_week_high": 288.62,
+        "fifty_two_week_low": 169.21,
+        "beta": 1.116,
+        "trailing_eps": 7.9,
+        "forward_eps": 9.29587,
+        "dividend_yield": 0.42,
+        "sector": "Technology",
+        "industry": "Consumer Electronics"
+      },
+      "premium_note": "Bu analiz 1-2 aylık görünüm içindir ve bilgilendirme amaçlıdır."
+    }
+  },
+  "LNG": {
+    "created_at": "2026-03-15 08:32:02",
+    "analysis": {
+      "ticker": "LNG",
+      "company_name": "Cheniere Energy",
+      "stance": "Pozitif",
+      "time_horizon": "1-2 ay",
+      "summary": "Cheniere Energy için 1-2 aylık görünüm; haber akışı, sektör etkileri, fiyat davranışı ve temel finansal yapı birlikte incelendi. Mevcut tablo pozitif bir eğilime işaret ediyor.",
+      "thesis": "Şirketin ana teması LNG Export tarafında şekilleniyor. Önümüzdeki 1-2 ayda şirket özel haberleri kadar sektör ve tema bazlı gelişmeler de fiyatlama üzerinde etkili olabilir.",
+      "expected_move": "%0 ile %+12 arası",
+      "catalysts": [
+        "LNG Export temasındaki gelişmeler 1-2 aylık dönemde hisseyi destekleyebilir.",
+        "Energy sektöründeki fiyatlama ve haber akışı şirketin algısını etkileyebilir.",
+        "Gelir büyümesi pozitif tarafta.",
+        "Kârlılık büyümesi devam ederse hisse destek bulabilir."
+      ],
+      "risks": [
+        "Borçluluk seviyesi baskı unsuru olabilir.",
+        "Kısa vadeli zayıflık 1-2 aylık görünümü geciktirebilir.",
+        "Hacim desteği sınırlı."
+      ],
+      "news_used": [
+        "- Energy Stocks Like Occidental Have Lagged Oil Price Hikes. Why They’re Catching Up. (Barrons.com)",
+        "- 3 energy stock picks as Strait of Hormuz tensions stress global economy (Yahoo Finance Video)",
+        "- Cheniere Energy (LNG) Valuation Check After Q4 2025 Earnings Beat And Expanded Share Buyback (Simply Wall St.)",
+        "- Is Cheniere’s New Long‑Dated Debt Issue Quietly Redefining LNG’s Capital Allocation Playbook? (Simply Wall St.)"
+      ],
+      "fundamental_snapshot": {
+        "market_cap": 54297280512.0,
+        "enterprise_value": 83536879616.0,
+        "trailing_pe": 10.450291,
+        "forward_pe": 16.5054,
+        "peg_ratio": null,
+        "price_to_book": 6.7696233,
+        "price_to_sales_trailing_12m": 2.7863333,
+        "profit_margins": 0.27352,
+        "operating_margins": 0.75778997,
+        "gross_margins": 0.53220004,
+        "revenue_growth": 0.123,
+        "earnings_growth": 1.464,
+        "return_on_equity": 0.58726,
+        "return_on_assets": 0.12478,
+        "debt_to_equity": 202.217,
+        "current_ratio": 0.943,
+        "quick_ratio": 0.641,
+        "free_cashflow": 2649250048.0,
+        "operating_cashflow": 5538999808.0,
+        "ebitda": 10487000064.0,
+        "total_cash": 1100000000.0,
+        "total_debt": 26446000128.0,
+        "recommendation_key": "strong_buy",
+        "number_of_analyst_opinions": 22.0,
+        "target_mean_price": 273.54544,
+        "target_high_price": 301.0,
+        "target_low_price": 232.0,
+        "current_price": 252.27,
+        "fifty_two_week_high": 259.24,
+        "fifty_two_week_low": 186.2,
+        "beta": 0.238,
+        "trailing_eps": 24.14,
+        "forward_eps": 15.28409,
+        "dividend_yield": 0.88,
+        "sector": "Energy",
+        "industry": "Oil & Gas Midstream"
+      },
+      "premium_note": "Bu analiz 1-2 aylık görünüm içindir ve bilgilendirme amaçlıdır."
+    }
+  },
+  "AMZN": {
+    "created_at": "2026-03-15 08:47:22",
+    "analysis": {
+      "ticker": "AMZN",
+      "company_name": "Amazon",
+      "time_horizon": "1-2 ay",
+      "predicted_direction": "Sabit",
+      "direction_summary": "Mevcut veriler, önümüzdeki 1-2 ayda belirgin bir yön yerine daha dengeli bir görünüm gösteriyor.",
+      "macro_sector_reasons": [
+        "Cloud Platform temasıyla ilgili gelişmeler önümüzdeki 1-2 ayda hisseyi etkileyebilir.",
+        "Consumer & Cloud sektöründeki haber akışı ve fiyatlama şirket algısını değiştirebilir.",
+        "Toplanan haberlerde şirketi veya sektörünü etkileyebilecek güncel başlıklar bulunuyor."
+      ],
+      "company_reasons": [
+        "Hacim zayıf, bu da hareketin gücünü sınırlayabilir.",
+        "Son 2 aylık fiyat eğilimi zayıf tarafta."
+      ],
+      "financial_reasons": [
+        "Gelir büyümesi pozitif görünüyor.",
+        "Kârlılık büyümesi destekleyici olabilir.",
+        "Borçluluk yapısı aşırı sorunlu görünmüyor."
+      ],
+      "news_used": [
+        "- It takes more than Nvidia's chips to build the world's data centers (Yahoo Finance)",
+        "- Best Growth Stock to Buy Right Now: Amazon vs. MercadoLibre (Motley Fool)",
+        "- Alphabet (GOOGL) and Other Tech Giants Pledge at White House to Power Next-Generation Data Centers (Insider Monkey)",
+        "- Amazon.com (AMZN) Eyes $37 Billion to $42 Billion in Fresh Bond Issue (Insider Monkey)"
+      ],
+      "fundamental_snapshot": {
+        "market_cap": 2229321072640.0,
+        "trailing_pe": 29.00419,
+        "forward_pe": 22.230072,
+        "price_to_book": 5.421344,
+        "profit_margins": 0.108339995,
+        "operating_margins": 0.10533,
+        "revenue_growth": 0.136,
+        "earnings_growth": 0.05,
+        "return_on_equity": 0.22286,
+        "debt_to_equity": 43.435,
+        "current_ratio": 1.051,
+        "quick_ratio": 0.844,
+        "free_cashflow": 23793125376.0,
+        "total_cash": 123028996096.0,
+        "total_debt": 178546999296.0,
+        "recommendation_key": "strong_buy",
+        "target_mean_price": 280.5484,
+        "current_price": 207.67,
+        "fifty_two_week_high": 258.6,
+        "fifty_two_week_low": 161.38,
+        "beta": 1.42,
+        "sector": "Consumer Cyclical",
+        "industry": "Internet Retail"
+      },
+      "premium_note": "Bu analiz 1-2 aylık görünüm içindir ve bilgilendirme amaçlıdır."
+    }
+  }
+}

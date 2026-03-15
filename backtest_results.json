@@ -1,0 +1,243 @@
+[
+  {
+    "report_id": "20260313224551",
+    "report_date": "2026-03-13 22:45:51",
+    "tested_count": 5,
+    "results": [
+      {
+        "report_id": "20260313224551",
+        "report_date": "2026-03-13 22:45:51",
+        "ticker": "S",
+        "score": 9,
+        "price_change_pct": 5.22,
+        "volume_ratio": 1.35,
+        "event_supported": false,
+        "extract_score": 66,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat güçlü pozitif",
+          "Hacim ortalamanın üstünde"
+        ],
+        "entry_price": 14.520000457763672,
+        "day_1_price": null,
+        "day_5_price": null,
+        "day_1_return_pct": null,
+        "day_5_return_pct": null,
+        "success_1d": null,
+        "success_5d": null
+      },
+      {
+        "report_id": "20260313224551",
+        "report_date": "2026-03-13 22:45:51",
+        "ticker": "ODFL",
+        "score": 8,
+        "price_change_pct": 1.64,
+        "volume_ratio": 1.02,
+        "event_supported": true,
+        "extract_score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim normalin biraz üstünde"
+        ],
+        "entry_price": 180.75,
+        "day_1_price": null,
+        "day_5_price": null,
+        "day_1_return_pct": null,
+        "day_5_return_pct": null,
+        "success_1d": null,
+        "success_5d": null
+      },
+      {
+        "report_id": "20260313224551",
+        "report_date": "2026-03-13 22:45:51",
+        "ticker": "LNG",
+        "score": 7,
+        "price_change_pct": -0.97,
+        "volume_ratio": 0.54,
+        "event_supported": true,
+        "extract_score": 9,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "entry_price": 252.27000427246094,
+        "day_1_price": null,
+        "day_5_price": null,
+        "day_1_return_pct": null,
+        "day_5_return_pct": null,
+        "success_1d": null,
+        "success_5d": null
+      },
+      {
+        "report_id": "20260313224551",
+        "report_date": "2026-03-13 22:45:51",
+        "ticker": "AR",
+        "score": 7,
+        "price_change_pct": 1.18,
+        "volume_ratio": 0.4,
+        "event_supported": true,
+        "extract_score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "entry_price": 40.9900016784668,
+        "day_1_price": null,
+        "day_5_price": null,
+        "day_1_return_pct": null,
+        "day_5_return_pct": null,
+        "success_1d": null,
+        "success_5d": null
+      },
+      {
+        "report_id": "20260313224551",
+        "report_date": "2026-03-13 22:45:51",
+        "ticker": "COP",
+        "score": 7,
+        "price_change_pct": 1.21,
+        "volume_ratio": 0.67,
+        "event_supported": true,
+        "extract_score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "entry_price": 121.88999938964844,
+        "day_1_price": null,
+        "day_5_price": null,
+        "day_1_return_pct": null,
+        "day_5_return_pct": null,
+        "success_1d": null,
+        "success_5d": null
+      }
+    ]
+  },
+  {
+    "report_id": "20260315101048",
+    "report_date": "2026-03-15 10:10:48",
+    "tested_count": 5,
+    "results": [
+      {
+        "report_id": "20260315101048",
+        "report_date": "2026-03-15 10:10:48",
+        "ticker": "S",
+        "score": 10,
+        "price_change_pct": 5.37,
+        "volume_ratio": 1.66,
+        "event_supported": false,
+        "extract_score": 54,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Fiyat güçlü pozitif",
+          "Hacim güçlü şekilde ortalamanın üstünde"
+        ],
+        "entry_price": null,
+        "day_1_price": null,
+        "day_5_price": null,
+        "day_1_return_pct": null,
+        "day_5_return_pct": null,
+        "success_1d": null,
+        "success_5d": null
+      },
+      {
+        "report_id": "20260315101048",
+        "report_date": "2026-03-15 10:10:48",
+        "ticker": "PURE",
+        "score": 9,
+        "price_change_pct": 14.29,
+        "volume_ratio": 2.52,
+        "event_supported": false,
+        "extract_score": 5,
+        "reasons": [
+          "AI analizinde güçlü çıktı",
+          "Fiyat güçlü pozitif",
+          "Hacim güçlü şekilde ortalamanın üstünde"
+        ],
+        "entry_price": null,
+        "day_1_price": null,
+        "day_5_price": null,
+        "day_1_return_pct": null,
+        "day_5_return_pct": null,
+        "success_1d": null,
+        "success_5d": null
+      },
+      {
+        "report_id": "20260315101048",
+        "report_date": "2026-03-15 10:10:48",
+        "ticker": "RTX",
+        "score": 8,
+        "price_change_pct": 0.73,
+        "volume_ratio": 0.85,
+        "event_supported": true,
+        "extract_score": 16,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat pozitif",
+          "Hacim zayıf"
+        ],
+        "entry_price": null,
+        "day_1_price": null,
+        "day_5_price": null,
+        "day_1_return_pct": null,
+        "day_5_return_pct": null,
+        "success_1d": null,
+        "success_5d": null
+      },
+      {
+        "report_id": "20260315101048",
+        "report_date": "2026-03-15 10:10:48",
+        "ticker": "CVX",
+        "score": 7,
+        "price_change_pct": -0.08,
+        "volume_ratio": 0.69,
+        "event_supported": true,
+        "extract_score": 10,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "entry_price": null,
+        "day_1_price": null,
+        "day_5_price": null,
+        "day_1_return_pct": null,
+        "day_5_return_pct": null,
+        "success_1d": null,
+        "success_5d": null
+      },
+      {
+        "report_id": "20260315101048",
+        "report_date": "2026-03-15 10:10:48",
+        "ticker": "OXY",
+        "score": 7,
+        "price_change_pct": -0.91,
+        "volume_ratio": 0.57,
+        "event_supported": true,
+        "extract_score": 10,
+        "reasons": [
+          "AI analizinde çok güçlü çıktı",
+          "Event zinciri tarafından destekleniyor",
+          "Fiyat çok zayıf değil",
+          "Hacim zayıf"
+        ],
+        "entry_price": null,
+        "day_1_price": null,
+        "day_5_price": null,
+        "day_1_return_pct": null,
+        "day_5_return_pct": null,
+        "success_1d": null,
+        "success_5d": null
+      }
+    ]
+  }
+]
